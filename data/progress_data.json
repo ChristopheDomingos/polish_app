@@ -1,0 +1,298 @@
+{
+  "attempts": [
+    {
+      "timestamp": "2024-12-07T18:17:28.597927",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-07T18:17:55.597753",
+      "lesson_id": "lesson_1",
+      "exercise_type": "guided_practice",
+      "question": "_______! Jak się masz?",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-07T18:18:47.247195",
+      "lesson_id": "lesson_1",
+      "exercise_type": "writing_practice",
+      "question": "Introduce yourself: say hello and give your name.",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-07T18:19:01.184219",
+      "lesson_id": "lesson_1",
+      "exercise_type": "listening_dictation",
+      "question": "Mam na imię Jan.",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-07T18:19:13.003722",
+      "lesson_id": "lesson_1",
+      "exercise_type": "speaking",
+      "question": "Dzień dobry, mam na imię Anna.",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-07T18:19:30.584505",
+      "lesson_id": "lesson_1",
+      "exercise_type": "dialogue_choice",
+      "question": "How do you respond to 'Miło mi, a ty?'",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-07T18:19:36.862499",
+      "lesson_id": "lesson_1",
+      "exercise_type": "quiz",
+      "question": "Jak się masz?",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-07T18:34:06.385399",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-07T18:34:33.767077",
+      "lesson_id": "lesson_1",
+      "exercise_type": "guided_practice",
+      "question": "_______! Jak się masz?",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-07T18:34:44.779481",
+      "lesson_id": "lesson_1",
+      "exercise_type": "writing_practice",
+      "question": "Introduce yourself: say hello and give your name.",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-07T18:34:47.599290",
+      "lesson_id": "lesson_1",
+      "exercise_type": "writing_practice",
+      "question": "Introduce yourself: say hello and give your name.",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-07T18:35:04.018695",
+      "lesson_id": "lesson_1",
+      "exercise_type": "listening_dictation",
+      "question": "Mam na imię Jan.",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-07T18:35:56.657017",
+      "lesson_id": "lesson_1",
+      "exercise_type": "speaking",
+      "question": "Dzień dobry, mam na imię Anna.",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-07T18:36:08.591233",
+      "lesson_id": "lesson_1",
+      "exercise_type": "dialogue_choice",
+      "question": "How do you respond to 'Miło mi, a ty?'",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-07T18:36:15.107703",
+      "lesson_id": "lesson_1",
+      "exercise_type": "quiz",
+      "question": "Jak się masz?",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-08T16:55:30.966067",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-08T17:02:33.994516",
+      "lesson_id": "lesson_1",
+      "exercise_type": "guided_practice",
+      "question": "_______! Jak się masz?",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-08T17:02:38.830414",
+      "lesson_id": "lesson_1",
+      "exercise_type": "guided_practice",
+      "question": "_______! Jak się masz?",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-08T17:07:58.981419",
+      "lesson_id": "lesson_1",
+      "exercise_type": "writing_practice",
+      "question": "Introduce yourself: say hello and give your name.",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-08T17:08:24.702201",
+      "lesson_id": "lesson_1",
+      "exercise_type": "listening_dictation",
+      "question": "Mam na imię Jan.",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-08T17:08:48.316380",
+      "lesson_id": "lesson_1",
+      "exercise_type": "speaking",
+      "question": "Dzień dobry, mam na imię Anna.",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-08T17:09:39.004430",
+      "lesson_id": "lesson_1",
+      "exercise_type": "dialogue_choice",
+      "question": "How do you respond to 'Miło mi, a ty?'",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-08T17:09:58.586432",
+      "lesson_id": "lesson_1",
+      "exercise_type": "quiz",
+      "question": "Jak się masz?",
+      "correct": false
+    },
+    {
+      "timestamp": "2024-12-08T17:39:43.600543",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-08T17:43:33.008784",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-08T17:51:56.346964",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-08T18:02:40.911084",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-08T18:05:46.314159",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-08T18:34:01.479149",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-08T19:33:06.060286",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-09T15:05:17.489699",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-09T15:12:55.287148",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-09T16:06:42.519209",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-09T16:06:56.387132",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-09T16:10:30.981880",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-09T16:10:38.448596",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-09T16:15:44.313534",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-09T16:17:25.313937",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-09T16:27:27.647378",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-09T16:30:24.394679",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-09T16:38:26.136357",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-09T16:44:31.837955",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    }
+  ]
+}

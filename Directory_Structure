@@ -1,0 +1,33 @@
+Polish_Lessons_App/
+├─ lessons/
+│  └─ lesson_1.json
+├─ data/
+│  └─ progress_data.json
+├─ assets/
+│  ├─ audio/
+│  └─ images/
+│     └─ vocab/
+├─ utils/
+│  ├─ __init__.py
+│  ├─ audio_manager.py
+│  ├─ resource_manager.py
+│  ├─ progress_tracker.py
+│  ├─ scoring_manager.py
+│  └─ resource_generator.py
+├─ ui/
+│  ├─ __init__.py
+│  ├─ welcome_screen.py
+│  ├─ overview_screen.py
+│  ├─ grammar_screen.py
+│  ├─ vocabulary_screen.py
+│  ├─ guided_practice_screen.py
+│  ├─ writing_screen.py      ← UPDATED
+│  ├─ listening_speaking_screen.py  ← UPDATED
+│  ├─ dialogue_screen.py     ← UPDATED
+│  ├─ quiz_screen.py         ← UPDATED
+│  └─ review_screen.py
+├─ lesson_loader.py
+├─ main.py
+├─ style.qss
+├─ requirements.txt
+└─ README.md

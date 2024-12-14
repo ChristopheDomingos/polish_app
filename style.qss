@@ -1,0 +1,85 @@
+/* Global font and background */
+QWidget {
+    background-color: #F9F9F9;
+    color: #333333;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    padding: 10px;
+}
+
+/* Titles */
+QLabel#titleLabel {
+    font-size: 26px;
+    font-weight: bold;
+    color: #00BFA5;
+    margin-bottom: 15px;
+}
+
+/* Regular labels inherit default widget style, but larger base size is set globally */
+
+/* Buttons */
+QPushButton {
+    background-color: #00BFA5;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+QPushButton:hover {
+    background-color: #008E7A;
+}
+
+QPushButton:disabled {
+    background-color: #cccccc;
+    color: #666666;
+}
+
+/* Line edits and inputs */
+QLineEdit, QTextEdit {
+    background-color: #FFFFFF;
+    border: 1px solid #cccccc;
+    border-radius: 6px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+QProgressBar {
+    border: 1px solid #aaa;
+    border-radius: 8px;
+    background-color: #E0E0E0;
+    text-align: center;
+    color: #333;
+    font-weight: bold;
+    height: 20px;
+}
+
+QProgressBar::chunk {
+    background-color: #00BFA5;
+    border-radius: 8px;
+}
+
+QRadioButton {
+    font-size: 16px;
+    padding: 3px;
+}
+
+QListWidget {
+    border: 1px solid #aaa;
+    border-radius: 6px;
+    background-color: #ffffff;
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+QListWidget::item {
+    padding: 8px;
+}
+
+QListWidget::item:selected {
+    background-color: #00BFA5;
+    color: white;
+}

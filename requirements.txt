@@ -1,0 +1,7 @@
+PyQt6
+gTTS
+pygame
+requests
+SpeechRecognition
+pyaudio
+Pillow

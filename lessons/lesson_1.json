@@ -1,0 +1,373 @@
+{
+  "lesson_id": "lesson_1",
+  "overview": {
+    "title": "Jak masz na imię?",
+    "duration": "15 minutes",
+    "objectives": [
+      "Greet someone informally and formally",
+      "Ask and answer 'What is your name?'",
+      "Respond to 'How are you?'",
+      "Introduce yourself and others",
+      "Use basic polite expressions"
+    ],
+    "cultural_notes": [
+      "In Polish, greetings vary by formality. 'Cześć' is informal, 'Dzień dobry' is formal. Using 'pan/pani' is a sign of respect.",
+      "Poles often greet with a firm handshake in formal situations.",
+      "Eye contact is considered respectful during introductions.",
+      "Greeting with 'Dzień dobry' is suitable from morning to late afternoon."
+    ],
+    "difficulty": "beginner"
+  },
+  "grammar_insight": {
+    "explanation": "To ask for someone's name informally, use 'Jak masz na imię?'. Formally, use 'Jak ma pan/pani na imię?'. Basic pronouns: ja (I), ty (you informal), pan/pani (you formal). 'Dzień dobry' is formal, 'Cześć' is informal.",
+    "tables": [
+      {
+        "title": "Basic Personal Pronouns",
+        "headers": ["Singular"],
+        "rows": [
+          ["ja (I)"],
+          ["ty (you, informal)"],
+          ["pan/pani (you, formal)"]
+        ]
+      },
+      {
+        "title": "Plural Personal Pronouns",
+        "headers": ["Plural"],
+        "rows": [
+          ["my (we)"],
+          ["wy (you all)"],
+          ["oni (they - masculine personal)"],
+          ["one (they - non-masculine personal)"]
+        ]
+      }
+    ],
+    "audio_explanation": "In this lesson, you will learn to greet people and ask for their names. Listen and repeat.",
+    "audio_explanation_url": null
+  },
+  "vocabulary": [
+    { "word": "Cześć", "translation": "Hi/Hello", "audio": "Cześć", "audio_url": null },
+    { "word": "Dzień dobry", "translation": "Good morning/Good day", "audio": "Dzień dobry", "audio_url": null },
+    { "word": "Jak masz na imię?", "translation": "What is your name? (informal)", "audio": "Jak masz na imię?", "audio_url": null },
+    { "word": "Mam na imię ...", "translation": "My name is ...", "audio": "Mam na imię", "audio_url": null },
+    { "word": "Miło mi", "translation": "Nice to meet you", "audio": "Miło mi", "audio_url": null },
+    { "word": "Przepraszam", "translation": "Excuse me / Sorry", "audio": "Przepraszam", "audio_url": null },
+    { "word": "Proszę", "translation": "Please / Here you are", "audio": "Proszę", "audio_url": null },
+    { "word": "Dziękuję", "translation": "Thank you", "audio": "Dziękuję", "audio_url": null },
+    { "word": "Tak", "translation": "Yes", "audio": "Tak", "audio_url": null },
+    { "word": "Nie", "translation": "No", "audio": "Nie", "audio_url": null }
+  ],
+  "guided_practice": [
+    {
+      "type": "fill_in_the_blank",
+      "sentence": "Jak masz na imię? _________ Anna.",
+      "answer": ["Mam na imię"],
+      "hint": "Introduce your name with 'Mam na imię ...'.",
+      "audio_url": null
+    },
+    {
+      "type": "fill_in_the_blank",
+      "sentence": "Jak się nazywasz? ________ Kowalski.",
+      "answer": ["Nazywam się"],
+      "hint": "Introduce your full name using 'Nazywam się ...'.",
+      "audio_url": null
+    },
+    {
+      "type": "multiple_choice",
+      "sentence": "Which is a formal greeting?",
+      "options": ["Cześć", "Dzień dobry", "Hej"],
+      "answer": ["Dzień dobry"],
+      "hint": "Formal greeting used during the day.",
+      "audio_url": null
+    },
+    {
+      "type": "multiple_choice",
+      "sentence": "What is the correct response to 'Jak masz na imię?'",
+      "options": ["Dzień dobry", "Mam na imię Anna", "Miło mi", "Dobry wieczór"],
+      "answer": ["Mam na imię Anna"],
+      "hint": "Provide your name after being asked.",
+      "audio_url": null
+    },
+    {
+      "type": "translate",
+      "sentence": "Translate 'Miło mi' to English.",
+      "answer": ["Nice to meet you"],
+      "hint": "A polite response when meeting someone.",
+      "audio_url": null
+    }
+  ],
+  "writing_practice": [
+    {
+      "prompt": "Write a dialogue introducing yourself in a formal setting.",
+      "expected_structure": ["Dzień dobry", "Mam na imię"],
+      "hint": "Use formal expressions to introduce yourself."
+    },
+    {
+      "prompt": "Describe how to greet someone politely and ask for their name.",
+      "expected_structure": ["Dzień dobry", "Jak ma pan/pani na imię?"],
+      "hint": "Formal greeting with a question."
+    },
+    {
+      "prompt": "Write a response to 'Jak masz na imię?' informally.",
+      "expected_structure": ["Mam na imię"],
+      "hint": "Simply state your name."
+    },
+    {
+      "prompt": "Create a dialogue where you ask and answer 'Jak się masz?'",
+      "expected_structure": ["Jak się masz?", "Dobrze, a ty?"],
+      "hint": "Include a question and a polite reply."
+    },
+    {
+      "prompt": "Write a sentence using 'Miło mi' after introducing yourself.",
+      "expected_structure": ["Miło mi"],
+      "hint": "Express pleasure in meeting someone."
+    }
+  ],
+  "listening_and_speaking": [
+    {
+      "type": "dictation",
+      "sentence": "Listen and write what you hear.",
+      "audio": "Cześć, jak masz na imię?",
+      "audio_url": null,
+      "answer": ["Cześć, jak masz na imię?"],
+      "hint": "Informal greeting and asking name."
+    },
+    {
+      "type": "speaking",
+      "sentence": "Say the following phrase aloud:",
+      "prompt": "Powiedz: 'Dzień dobry, mam na imię Anna.'",
+      "audio_url": null,
+      "reference_text": "Dzień dobry, mam na imię Anna.",
+      "hint": "Formal greeting + name."
+    },
+    {
+      "type": "dictation",
+      "sentence": "Listen and write what you hear.",
+      "audio": "Mam na imię Piotr.",
+      "audio_url": null,
+      "answer": ["Mam na imię Piotr."],
+      "hint": "Introduce your name."
+    },
+    {
+      "type": "speaking",
+      "sentence": "Say the following phrase aloud:",
+      "prompt": "Powiedz: 'Miło mi cię poznać.'",
+      "audio_url": null,
+      "reference_text": "Miło mi cię poznać.",
+      "hint": "Nice to meet you."
+    },
+    {
+      "type": "dictation",
+      "sentence": "Listen and write what you hear.",
+      "audio": "Jak się masz?",
+      "audio_url": null,
+      "answer": ["Jak się masz?"],
+      "hint": "Asking how someone is informally."
+    }
+  ],
+  "real_life_dialogue": {
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text": "Dzień dobry, jak ma pan na imię?",
+        "translation": "Good day, what is your name? (formal)"
+      },
+      {
+        "speaker": "B",
+        "text": "Dzień dobry, mam na imię Jan.",
+        "translation": "Good day, my name is Jan."
+      },
+      {
+        "speaker": "A",
+        "text": "Miło mi pana poznać.",
+        "translation": "Nice to meet you, sir."
+      },
+      {
+        "speaker": "B",
+        "text": "Miło mi również.",
+        "translation": "Nice to meet you too."
+      },
+      {
+        "speaker": "A",
+        "text": "Jak się pan ma?",
+        "translation": "How are you, sir?"
+      }
+    ],
+    "interactive_choices": [
+      {
+        "type": "multiple_choice",
+        "prompt": "Choose the correct formal greeting.",
+        "options": ["Cześć", "Dzień dobry", "Hej"],
+        "answer": ["Dzień dobry"],
+        "hint": "Formal greeting used during the day."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "How do you ask a man his name formally?",
+        "options": ["Jak masz na imię?", "Jak ma pan na imię?", "Jak się masz?"],
+        "answer": ["Jak ma pan na imię?"],
+        "hint": "Use 'pan' for formal."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Select the phrase that means 'Nice to meet you.'",
+        "options": ["Miło mi", "Proszę", "Dziękuję"],
+        "answer": ["Miło mi"],
+        "hint": "Used after introductions."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "How to respond if someone says 'Miło mi pana poznać'?",
+        "options": ["Miło mi również", "Dziękuję", "Przepraszam"],
+        "answer": ["Miło mi również"],
+        "hint": "You too."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "What does 'Jak się pan ma?' mean?",
+        "options": ["What's your name?", "How are you? (formal)", "Where are you from?"],
+        "answer": ["How are you? (formal)"],
+        "hint": "Asking about well-being formally."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "If someone asks 'Jak się pan ma?' and you feel well, you answer:",
+        "options": ["Bardzo dobrze, dziękuję.", "Tak, proszę.", "Nie, dziękuję."],
+        "answer": ["Bardzo dobrze, dziękuję."],
+        "hint": "Express that you are very well."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "If you want to say 'Excuse me' to get attention:",
+        "options": ["Przepraszam", "Proszę", "Dziękuję"],
+        "answer": ["Przepraszam"],
+        "hint": "Used to say 'excuse me'."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "To say 'Thank you' after help:",
+        "options": ["Dziękuję", "Proszę", "Nie"],
+        "answer": ["Dziękuję"],
+        "hint": "Express gratitude."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "To ask informally 'What is your name?'",
+        "options": ["Jak masz na imię?", "Jak ma pan na imię?", "Dzień dobry"],
+        "answer": ["Jak masz na imię?"],
+        "hint": "Used with friends."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "To politely request something, say:",
+        "options": ["Proszę", "Przepraszam", "Miło mi"],
+        "answer": ["Proszę"],
+        "hint": "Used for polite requests."
+      }
+    ]
+  },
+  "mini_quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "Which word means 'Yes'?",
+      "options": ["Tak", "Nie", "Cześć"],
+      "answer": ["Tak"],
+      "hint": "Affirmative response."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "How do you say 'Thank you' in Polish?",
+      "options": ["Dziękuję", "Proszę", "Przepraszam"],
+      "answer": ["Dziękuję"],
+      "hint": "Expressing gratitude."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which phrase is informal?",
+      "options": ["Cześć", "Dzień dobry", "Proszę"],
+      "answer": ["Cześć"],
+      "hint": "Used among friends."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "How do you ask someone's name informally?",
+      "options": ["Jak masz na imię?", "Jak ma pan na imię?", "Dzień dobry!"],
+      "answer": ["Jak masz na imię?"],
+      "hint": "Informal query for a name."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What does 'Miło mi' mean?",
+      "options": ["Nice to meet you", "I'm sorry", "Please"],
+      "answer": ["Nice to meet you"],
+      "hint": "Said after introductions."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is a formal greeting?",
+      "options": ["Cześć", "Dzień dobry", "Hej"],
+      "answer": ["Dzień dobry"],
+      "hint": "More polite and formal."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "How to say 'No' in Polish?",
+      "options": ["Tak", "Nie", "Proszę"],
+      "answer": ["Nie"],
+      "hint": "Negative response."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which phrase means 'Excuse me'?",
+      "options": ["Przepraszam", "Dziękuję", "Mam na imię"],
+      "answer": ["Przepraszam"],
+      "hint": "Use to apologize or get attention."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "If you feel very well, you say:",
+      "options": ["Źle", "Bardzo dobrze", "Nie"],
+      "answer": ["Bardzo dobrze"],
+      "hint": "Means very well."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "To politely request something, say:",
+      "options": ["Proszę", "Tak", "Nie"],
+      "answer": ["Proszę"],
+      "hint": "Polite request."
+    }
+  ],
+  "review_and_feedback": {
+    "summary": "Great job! You've learned basic greetings, asking and giving names, and polite expressions. Keep practicing these phrases daily.",
+    "feedback_questions": [
+      {
+        "question": "How to ask 'What is your name?' informally?",
+        "type": "short_answer",
+        "answer": ["Jak masz na imię?"]
+      },
+      {
+        "question": "What does 'Dziękuję' mean?",
+        "type": "short_answer",
+        "answer": ["Thank you"]
+      },
+      {
+        "question": "How do you greet someone formally during the day?",
+        "type": "short_answer",
+        "answer": ["Dzień dobry"]
+      },
+      {
+        "question": "Translate 'Miło mi' to English.",
+        "type": "short_answer",
+        "answer": ["Nice to meet you"]
+      },
+      {
+        "question": "How do you say 'Yes' in Polish?",
+        "type": "short_answer",
+        "answer": ["Tak"]
+      }
+    ],
+    "final_feedback": "If you struggled with any words, review the vocabulary and try the exercises again. Consistent practice will help you remember these phrases."
+  }
+}
+
+
