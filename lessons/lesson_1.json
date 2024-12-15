@@ -59,39 +59,112 @@
   "guided_practice": [
     {
       "type": "fill_in_the_blank",
-      "sentence": "Jak masz na imię? _________ Anna.",
-      "answer": ["Mam na imię"],
-      "hint": "Introduce your name with 'Mam na imię ...'.",
+      "sentence": "Jak się nazywasz? ________ Nowak.",
+      "answer": ["Nazywam się"],
+      "hint": "Respond with your full name using 'Nazywam się ...'.",
       "audio_url": null
     },
     {
       "type": "fill_in_the_blank",
-      "sentence": "Jak się nazywasz? ________ Kowalski.",
-      "answer": ["Nazywam się"],
-      "hint": "Introduce your full name using 'Nazywam się ...'.",
+      "sentence": "_______ Jan Kowalski. Miło mi.",
+      "answer": ["Jestem"],
+      "hint": "Introduce yourself informally.",
       "audio_url": null
     },
     {
       "type": "multiple_choice",
-      "sentence": "Which is a formal greeting?",
-      "options": ["Cześć", "Dzień dobry", "Hej"],
-      "answer": ["Dzień dobry"],
-      "hint": "Formal greeting used during the day.",
-      "audio_url": null
-    },
-    {
-      "type": "multiple_choice",
-      "sentence": "What is the correct response to 'Jak masz na imię?'",
-      "options": ["Dzień dobry", "Mam na imię Anna", "Miło mi", "Dobry wieczór"],
-      "answer": ["Mam na imię Anna"],
-      "hint": "Provide your name after being asked.",
+      "sentence": "Which is an informal greeting?",
+      "options": ["Dzień dobry", "Cześć", "Do widzenia"],
+      "answer": ["Cześć"],
+      "hint": "Informal greeting commonly used with friends.",
       "audio_url": null
     },
     {
       "type": "translate",
-      "sentence": "Translate 'Miło mi' to English.",
-      "answer": ["Nice to meet you"],
-      "hint": "A polite response when meeting someone.",
+      "sentence": "Translate 'Do widzenia' to English.",
+      "answer": ["Goodbye"],
+      "hint": "A formal way to say goodbye.",
+      "audio_url": null
+    },
+    {
+      "type": "fill_in_the_blank",
+      "sentence": "______, mam na imię Anna. A Ty?",
+      "answer": ["Cześć"],
+      "hint": "Start with an informal greeting.",
+      "audio_url": null
+    },
+    {
+      "type": "multiple_choice",
+      "sentence": "What is the response to 'Dzień dobry'? ",
+      "options": ["Cześć", "Dzień dobry", "Do widzenia"],
+      "answer": ["Dzień dobry"],
+      "hint": "Repeat the formal greeting.",
+      "audio_url": null
+    },
+    {
+      "type": "translate",
+      "sentence": "Translate 'Mam na imię Anna' to English.",
+      "answer": ["My name is Anna"],
+      "hint": "The phrase expresses your first name.",
+      "audio_url": null
+    },
+    {
+      "type": "fill_in_the_blank",
+      "sentence": "Jak się Pan nazywa? _________ Kowalski.",
+      "answer": ["Nazywam się"],
+      "hint": "Respond formally with your full name.",
+      "audio_url": null
+    },
+    {
+      "type": "multiple_choice",
+      "sentence": "Which of these is a polite way to ask someone’s name formally?",
+      "options": ["Jak się nazywasz?", "Jak się Pan/Pani nazywa?", "Cześć"],
+      "answer": ["Jak się Pan/Pani nazywa?"],
+      "hint": "The form 'Pan' or 'Pani' indicates formality.",
+      "audio_url": null
+    },
+    {
+      "type": "fill_in_the_blank",
+      "sentence": "Jak masz na imię? _________ Krzysztof.",
+      "answer": ["Mam na imię"],
+      "hint": "Use this to introduce your first name.",
+      "audio_url": null
+    },
+    {
+      "type": "translate",
+      "sentence": "Translate 'Jak się Pan nazywa?' to English.",
+      "answer": ["What is your name?"],
+      "hint": "A formal way of asking for someone's full name.",
+      "audio_url": null
+    },
+    {
+      "type": "multiple_choice",
+      "sentence": "Which is the appropriate response to 'Miło mi'?",
+      "options": ["Cześć", "Do widzenia", "Miło mi również"],
+      "answer": ["Miło mi również"],
+      "hint": "It means 'Nice to meet you too.'",
+      "audio_url": null
+    },
+    {
+      "type": "fill_in_the_blank",
+      "sentence": "_______ się Pan/Pani nazywa?",
+      "answer": ["Jak"],
+      "hint": "Start the question with 'Jak'.",
+      "audio_url": null
+    },
+    {
+      "type": "translate",
+      "sentence": "Translate 'Jestem Anna' to English.",
+      "answer": ["I am Anna"],
+      "hint": "A simple way to introduce yourself.",
+      "audio_url": null
+    },
+    {
+      "type": "multiple_choice",
+      "sentence": "Which greeting is used in the evening?",
+      "options": ["Dobry wieczór", "Dzień dobry", "Cześć"],
+      "answer": ["Dobry wieczór"],
+      "hint": "This greeting is specific to the evening hours.",
       "audio_url": null
     }
   ],
