@@ -12,14 +12,23 @@ class WritingPracticeScreen(QWidget):
         self.progress_tracker = progress_tracker
         self.scoring_manager = scoring_manager
         
-        # Load writing exercises
         self.exercises = self.lesson_data.get_writing_practice()
         self.current_index = 0
-        self.attempts = 0  # Track attempts per exercise
+        self.attempts = 0
 
-        self.isPolishPrompt = True  # To track if currently showing Polish prompt or English translation
+        self.isPolishPrompt = True
         self.original_prompt = ""
         self.prompt_translation = ""
+
+        # A simple dictionary of common Polish phrases we might expect.
+        # Add as many as needed.
+        self.translations_dict = {
+            "Jak masz na imię?": "What is your name? (informal)",
+            "Proszę, uzupełnić zdanie:": "Please complete the sentence:",
+            "Niepoprawne. Spróbuj jeszcze raz.": "Incorrect. Try again.",
+            "Niestety, poprawna odpowiedź:": "Unfortunately, the correct answer is:",
+            # Add any commonly used instructions or hints here...
+        }
 
         layout = QVBoxLayout()
         layout.setContentsMargins(20,20,20,20)
@@ -28,43 +37,41 @@ class WritingPracticeScreen(QWidget):
         title = QLabel("Pisanie (Writing Practice)")
         title.setObjectName("titleLabel")
         layout.addWidget(title, alignment=Qt.AlignmentFlag.AlignCenter)
-
+        
         self.prompt_label = QLabel()
         layout.addWidget(self.prompt_label)
-
-        self.translation_label = QLabel()  # Not used now as a separate label; we will toggle prompt_label
-        self.translation_label.setVisible(False)  # Deprecated usage
-        # We won't rely on translation_label separate from prompt_label. We'll store translations in variables.
         
-        self.show_translation_btn = QPushButton("Show Translation")
-        self.show_translation_btn.clicked.connect(self.toggle_translation)
-        layout.addWidget(self.show_translation_btn)
+        self.show_prompt_translation_btn = QPushButton("Show Prompt Translation")
+        self.show_prompt_translation_btn.clicked.connect(self.toggle_prompt_translation)
+        layout.addWidget(self.show_prompt_translation_btn)
 
+        # We remove self.translation_label since now we rely on toggling prompt directly from dictionary
+        # If you want an exercise-specific translation (like from ex["translation"]), handle similarly.
+        
         self.input_field = QLineEdit()
         layout.addWidget(self.input_field)
-
+        
         self.feedback = QLabel()
         layout.addWidget(self.feedback)
-
+        
         self.hint_label = QLabel()
         self.hint_label.setVisible(False)
         layout.addWidget(self.hint_label)
-
+        
         self.check_btn = QPushButton("Check")
         self.check_btn.clicked.connect(self.check_answer)
         layout.addWidget(self.check_btn)
-
+        
         self.next_btn = QPushButton("Next")
         self.next_btn.setEnabled(False)
         self.next_btn.clicked.connect(self.next_exercise)
         layout.addWidget(self.next_btn)
-
+        
         self.setLayout(layout)
         self.display_exercise()
     
     def display_exercise(self):
         if self.current_index >= len(self.exercises):
-            # No more exercises
             self.on_complete()
             return
         
@@ -77,24 +84,36 @@ class WritingPracticeScreen(QWidget):
         
         ex = self.exercises[self.current_index]
         self.original_prompt = ex["prompt"]
-        self.prompt_translation = ex.get("translation", "")
-        self.isPolishPrompt = True  # Reset to showing Polish initially
-        self.prompt_label.setText(self.original_prompt)
+        self.isPolishPrompt = True
+        self.update_prompt_label(self.original_prompt)
 
-        # If no translation provided, hide the show translation button
-        if self.prompt_translation.strip():
-            self.show_translation_btn.setVisible(True)
-            self.show_translation_btn.setText("Show Translation")
-        else:
-            self.show_translation_btn.setVisible(False)
-
-        self.expected_structure = ex["expected_structure"]  # array of strings
+        self.expected_structure = ex["expected_structure"]
         self.exercise_hint = ex.get("hint", "")
+        
+        self.scoring_manager.add_exercise(points=10)
 
-        self.scoring_manager.add_exercise(points=10)  # Adjust points as needed
-    
+        # If you have a separate translation for the prompt from ex["translation"],
+        # you could integrate it similarly by toggling between original_prompt and ex["translation"].
+
+    def update_prompt_label(self, text):
+        self.prompt_label.setText(text)
+
+    def toggle_prompt_translation(self):
+        if self.isPolishPrompt:
+            # Attempt to translate prompt from dictionary
+            translation = self.translations_dict.get(self.original_prompt, "")
+            if not translation:
+                translation = "No translation available."
+            self.update_prompt_label(translation)
+            self.show_prompt_translation_btn.setText("Show Polish")
+            self.isPolishPrompt = False
+        else:
+            # Show original Polish again
+            self.update_prompt_label(self.original_prompt)
+            self.show_prompt_translation_btn.setText("Show Prompt Translation")
+            self.isPolishPrompt = True
+
     def normalize_text(self, text):
-        # Remove diacritics and lower
         replacements = {
             'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ń': 'n',
             'ó': 'o', 'ś': 's', 'ź': 'z', 'ż': 'z',
@@ -106,23 +125,6 @@ class WritingPracticeScreen(QWidget):
         text = ''.join(ch for ch in text if not unicodedata.combining(ch))
         return ' '.join(text.lower().split())
     
-    def toggle_translation(self):
-        # Toggle between Polish and English prompt
-        if not self.prompt_translation.strip():
-            # No translation available
-            return
-
-        if self.isPolishPrompt:
-            # Currently Polish, switch to English
-            self.prompt_label.setText(self.prompt_translation)
-            self.show_translation_btn.setText("Show Polish")
-            self.isPolishPrompt = False
-        else:
-            # Currently English, switch back to Polish
-            self.prompt_label.setText(self.original_prompt)
-            self.show_translation_btn.setText("Show Translation")
-            self.isPolishPrompt = True
-
     def check_answer(self):
         user_answer = self.input_field.text().strip()
         user_norm = self.normalize_text(user_answer)
@@ -161,4 +163,5 @@ class WritingPracticeScreen(QWidget):
     def next_exercise(self):
         self.current_index += 1
         self.display_exercise()
+
 
