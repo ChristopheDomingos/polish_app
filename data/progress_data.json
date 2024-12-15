@@ -335,6 +335,13 @@
       "exercise_type": "vocabulary",
       "question": "viewed_vocab",
       "correct": true
+    },
+    {
+      "timestamp": "2024-12-15T09:04:51.713819",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
     }
   ]
 }
