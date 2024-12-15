@@ -293,6 +293,48 @@
       "exercise_type": "vocabulary",
       "question": "viewed_vocab",
       "correct": true
+    },
+    {
+      "timestamp": "2024-12-15T08:40:56.561033",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-15T08:48:46.303478",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-15T08:49:29.721824",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-15T08:57:42.462591",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-15T08:59:01.757677",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2024-12-15T09:01:02.062447",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
     }
   ]
 }

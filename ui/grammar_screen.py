@@ -1,54 +1,70 @@
-from PyQt6.QtWidgets import QWidget, QVBoxLayout, QLabel, QPushButton, QTableWidget, QTableWidgetItem
+# grammar_screen.py
+from PyQt6.QtWidgets import (
+    QWidget, QVBoxLayout, QLabel, QPushButton, QTableWidget, QTableWidgetItem, QHeaderView, QScrollArea, QWidget as QW, QFrame
+)
 from PyQt6.QtCore import Qt
-from utils.audio_manager import AudioManager
 
 class GrammarScreen(QWidget):
     def __init__(self, grammar_data, on_complete):
         super().__init__()
         self.grammar_data = grammar_data
         self.on_complete = on_complete
-        self.audio_manager = AudioManager()
 
-        layout = QVBoxLayout()
+        main_layout = QVBoxLayout()
+        main_layout.setContentsMargins(20, 20, 20, 20)
+        main_layout.setSpacing(20)
 
+        # Title (No inline style, rely on style.qss)
         title = QLabel("Grammar Insight")
         title.setObjectName("titleLabel")
-        layout.addWidget(title, alignment=Qt.AlignmentFlag.AlignCenter)
+        main_layout.addWidget(title, alignment=Qt.AlignmentFlag.AlignCenter)
 
-        explanation = self.grammar_data.get("explanation", "")
-        explanation_label = QLabel(explanation)
-        layout.addWidget(explanation_label)
+        explanation_text = self.grammar_data.get("explanation", "")
+        explanation_label = QLabel(explanation_text)
+        explanation_label.setObjectName("explanationLabel")
+        explanation_label.setWordWrap(True)
+        main_layout.addWidget(explanation_label)
 
-        # If we had a translation for explanation:
-        # If grammar_data.get("translation"):
-        #     self.translation_label = QLabel(grammar_data["translation"])
-        #     self.translation_label.setVisible(False)
-        #     layout.addWidget(self.translation_label)
-        #     trans_btn = QPushButton("Show Translation")
-        #     trans_btn.clicked.connect(lambda: self.translation_label.setVisible(True))
-        #     layout.addWidget(trans_btn)
+        # Scroll area for tables if they overflow
+        scroll_area = QScrollArea()
+        scroll_area.setWidgetResizable(True)
+        scroll_widget = QW()
+        scroll_layout = QVBoxLayout(scroll_widget)
+        scroll_layout.setContentsMargins(0, 0, 0, 0)
+        scroll_layout.setSpacing(20)
 
+        # Add tables without extra titles
         for table_data in self.grammar_data.get("tables", []):
-            table_title = QLabel(table_data["title"])
-            layout.addWidget(table_title)
-
             headers = table_data.get("headers", [])
             rows = table_data.get("rows", [])
 
-            table_widget = QTableWidget(len(rows), len(headers))
+            table_widget = QTableWidget()
+            table_widget.setColumnCount(len(headers))
             table_widget.setHorizontalHeaderLabels(headers)
+            table_widget.setRowCount(len(rows))
+
             for r_idx, row_data in enumerate(rows):
                 for c_idx, cell_data in enumerate(row_data):
-                    table_widget.setItem(r_idx, c_idx, QTableWidgetItem(cell_data))
-            layout.addWidget(table_widget)
+                    item = QTableWidgetItem(cell_data)
+                    table_widget.setItem(r_idx, c_idx, item)
 
-        if self.grammar_data.get("audio_explanation"):
-            audio_btn = QPushButton("Play Grammar Explanation")
-            audio_btn.clicked.connect(lambda: self.audio_manager.play_audio(self.grammar_data["audio_explanation"], url=self.grammar_data.get("audio_explanation_url")))
-            layout.addWidget(audio_btn)
+            # Resize to fit content
+            table_widget.horizontalHeader().setSectionResizeMode(QHeaderView.ResizeMode.ResizeToContents)
+            table_widget.verticalHeader().setSectionResizeMode(QHeaderView.ResizeMode.ResizeToContents)
+            table_widget.setSizeAdjustPolicy(QTableWidget.SizeAdjustPolicy.AdjustToContents)
+            table_widget.setFrameShape(QFrame.Shape.Panel)
+            table_widget.setFrameShadow(QFrame.Shadow.Raised)
+
+            scroll_layout.addWidget(table_widget)
+
+        scroll_area.setWidget(scroll_widget)
+        main_layout.addWidget(scroll_area)
+
+        # No "Play Grammar Explanation" button anymore
 
         continue_btn = QPushButton("Continue")
+        continue_btn.setObjectName("continueButton")
         continue_btn.clicked.connect(self.on_complete)
-        layout.addWidget(continue_btn, alignment=Qt.AlignmentFlag.AlignCenter)
+        main_layout.addWidget(continue_btn, alignment=Qt.AlignmentFlag.AlignCenter)
 
-        self.setLayout(layout)
+        self.setLayout(main_layout)
