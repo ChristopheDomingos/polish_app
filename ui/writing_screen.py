@@ -15,45 +15,50 @@ class WritingPracticeScreen(QWidget):
         # Load writing exercises
         self.exercises = self.lesson_data.get_writing_practice()
         self.current_index = 0
-        self.attempts = 0  # Track attempts for the current exercise
-        
+        self.attempts = 0  # Track attempts per exercise
+
+        self.isPolishPrompt = True  # To track if currently showing Polish prompt or English translation
+        self.original_prompt = ""
+        self.prompt_translation = ""
+
         layout = QVBoxLayout()
-        
+        layout.setContentsMargins(20,20,20,20)
+        layout.setSpacing(20)
+
         title = QLabel("Pisanie (Writing Practice)")
         title.setObjectName("titleLabel")
         layout.addWidget(title, alignment=Qt.AlignmentFlag.AlignCenter)
-        
+
         self.prompt_label = QLabel()
         layout.addWidget(self.prompt_label)
-        
-        # Translation label if you have translations (optional)
-        self.translation_label = QLabel()
-        self.translation_label.setVisible(False)
-        layout.addWidget(self.translation_label)
+
+        self.translation_label = QLabel()  # Not used now as a separate label; we will toggle prompt_label
+        self.translation_label.setVisible(False)  # Deprecated usage
+        # We won't rely on translation_label separate from prompt_label. We'll store translations in variables.
         
         self.show_translation_btn = QPushButton("Show Translation")
-        self.show_translation_btn.clicked.connect(lambda: self.translation_label.setVisible(True))
+        self.show_translation_btn.clicked.connect(self.toggle_translation)
         layout.addWidget(self.show_translation_btn)
-        
+
         self.input_field = QLineEdit()
         layout.addWidget(self.input_field)
-        
+
         self.feedback = QLabel()
         layout.addWidget(self.feedback)
-        
+
         self.hint_label = QLabel()
         self.hint_label.setVisible(False)
         layout.addWidget(self.hint_label)
-        
+
         self.check_btn = QPushButton("Check")
         self.check_btn.clicked.connect(self.check_answer)
         layout.addWidget(self.check_btn)
-        
+
         self.next_btn = QPushButton("Next")
         self.next_btn.setEnabled(False)
         self.next_btn.clicked.connect(self.next_exercise)
         layout.addWidget(self.next_btn)
-        
+
         self.setLayout(layout)
         self.display_exercise()
     
@@ -71,16 +76,21 @@ class WritingPracticeScreen(QWidget):
         self.check_btn.setEnabled(True)
         
         ex = self.exercises[self.current_index]
-        self.prompt_label.setText(ex["prompt"])
-        
-        # If you have a translation field, set it here, else hide
-        self.translation_label.setText(ex.get("translation", ""))
-        self.translation_label.setVisible(False)
-        
+        self.original_prompt = ex["prompt"]
+        self.prompt_translation = ex.get("translation", "")
+        self.isPolishPrompt = True  # Reset to showing Polish initially
+        self.prompt_label.setText(self.original_prompt)
+
+        # If no translation provided, hide the show translation button
+        if self.prompt_translation.strip():
+            self.show_translation_btn.setVisible(True)
+            self.show_translation_btn.setText("Show Translation")
+        else:
+            self.show_translation_btn.setVisible(False)
+
         self.expected_structure = ex["expected_structure"]  # array of strings
         self.exercise_hint = ex.get("hint", "")
-        
-        # Add this exercise for scoring
+
         self.scoring_manager.add_exercise(points=10)  # Adjust points as needed
     
     def normalize_text(self, text):
@@ -96,11 +106,27 @@ class WritingPracticeScreen(QWidget):
         text = ''.join(ch for ch in text if not unicodedata.combining(ch))
         return ' '.join(text.lower().split())
     
+    def toggle_translation(self):
+        # Toggle between Polish and English prompt
+        if not self.prompt_translation.strip():
+            # No translation available
+            return
+
+        if self.isPolishPrompt:
+            # Currently Polish, switch to English
+            self.prompt_label.setText(self.prompt_translation)
+            self.show_translation_btn.setText("Show Polish")
+            self.isPolishPrompt = False
+        else:
+            # Currently English, switch back to Polish
+            self.prompt_label.setText(self.original_prompt)
+            self.show_translation_btn.setText("Show Translation")
+            self.isPolishPrompt = True
+
     def check_answer(self):
         user_answer = self.input_field.text().strip()
         user_norm = self.normalize_text(user_answer)
         
-        # Check if any of the expected phrases match (normalized)
         correct = False
         for exp in self.expected_structure:
             if self.normalize_text(exp) in user_norm:
@@ -108,30 +134,23 @@ class WritingPracticeScreen(QWidget):
                 break
         
         if correct:
-            # If correct on first or second try
             if self.attempts == 0:
-                # full points
                 self.scoring_manager.correct_answer(first_try=True)
             else:
-                # fewer points if second try
                 self.scoring_manager.correct_answer(first_try=False)
             self.feedback.setText("Dobrze! (Good!)")
             self.check_btn.setEnabled(False)
             self.next_btn.setEnabled(True)
         else:
-            # Incorrect attempt
             self.attempts += 1
             if self.attempts == 1:
-                # First failure: show hint, allow second try
                 self.feedback.setText("Niepoprawne. Spróbuj jeszcze raz.")
                 if self.exercise_hint:
                     self.hint_label.setText("Hint: " + self.exercise_hint)
                     self.hint_label.setVisible(True)
                 self.scoring_manager.wrong_answer(final_attempt=False)
-                # Re-enable check to try again
                 self.check_btn.setEnabled(True)
             else:
-                # Second failure: reveal correct answer, allow to proceed
                 correct_str = ", ".join(self.expected_structure)
                 self.feedback.setText(f"Niestety, poprawna odpowiedź: {correct_str}")
                 self.hint_label.setVisible(False)
@@ -142,3 +161,4 @@ class WritingPracticeScreen(QWidget):
     def next_exercise(self):
         self.current_index += 1
         self.display_exercise()
+
