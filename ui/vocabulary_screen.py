@@ -1,5 +1,4 @@
 # vocabulary_screen.py
-import os
 from PyQt6.QtWidgets import (
     QWidget, QVBoxLayout, QLabel, QPushButton, QTableWidget, QTableWidgetItem, QHeaderView, QScrollArea, QWidget as QW, QAbstractItemView
 )
@@ -39,9 +38,15 @@ class VocabularyScreen(QWidget):
         table.setSelectionBehavior(QAbstractItemView.SelectionBehavior.SelectRows)
         table.setSelectionMode(QAbstractItemView.SelectionMode.NoSelection)
 
+        # Show vertical header (row numbers)
+        table.verticalHeader().setVisible(True)
+        table.verticalHeader().setSectionResizeMode(QHeaderView.ResizeMode.ResizeToContents)
+        table.verticalHeader().setMinimumWidth(50)  # Enough width for two-digit row numbers
+
         table.setRowCount(len(self.vocab_data))
         for r_idx, item in enumerate(self.vocab_data):
             word_item = QTableWidgetItem(item["word"])
+            # Store data for toggling translation
             word_item.setData(Qt.ItemDataRole.UserRole, {
                 "polish": item["word"],
                 "english": item["translation"],
@@ -58,13 +63,16 @@ class VocabularyScreen(QWidget):
             table.setCellWidget(r_idx, 2, play_btn)
 
         table.horizontalHeader().setSectionResizeMode(QHeaderView.ResizeMode.Stretch)
-        table.verticalHeader().setSectionResizeMode(QHeaderView.ResizeMode.ResizeToContents)
+        # Increase header height for clarity if needed
+        table.horizontalHeader().setMinimumHeight(50)
+
         table.setSizeAdjustPolicy(QTableWidget.SizeAdjustPolicy.AdjustToContents)
 
         scroll_layout.addWidget(table)
         scroll_area.setWidget(scroll_widget)
         main_layout.addWidget(scroll_area)
 
+        # Log attempt once viewed
         self.progress_tracker.log_attempt(self.lesson_id, "vocabulary", "viewed_vocab", True)
 
         continue_btn = QPushButton("Continue")
@@ -78,11 +86,13 @@ class VocabularyScreen(QWidget):
         item = table.item(row, 0)
         data = item.data(Qt.ItemDataRole.UserRole)
         if data["isPolish"]:
+            # Show English
             item.setText(data["english"])
             data["isPolish"] = False
             btn = table.cellWidget(row, 1)
             btn.setText("Show Polish")
         else:
+            # Show Polish again
             item.setText(data["polish"])
             data["isPolish"] = True
             btn = table.cellWidget(row, 1)

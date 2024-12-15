@@ -11,7 +11,7 @@ QWidget {
 QLabel#titleLabel {
     font-size: 26px;
     font-weight: bold;
-    color: #00BFA5; /* Same accent color as buttons for consistency */
+    color: #00BFA5; 
     margin-bottom: 15px;
 }
 
@@ -28,7 +28,7 @@ QPushButton {
 }
 
 QPushButton:hover {
-    background-color: #008E7A; /* Slightly darker for hover */
+    background-color: #008E7A;
 }
 
 QPushButton:disabled {
@@ -86,24 +86,17 @@ QListWidget::item:selected {
 QTableWidget {
     border: 1px solid #aaa;
     gridline-color: #ddd;
-    background-color: #ffffff; /* White background for clarity */
-    font-size: 16px; /* Consistent font size */
-    margin: 10px 0; /* Some vertical margin to avoid claustrophobic look */
+    background-color: #ffffff;
+    font-size: 16px;
+    margin: 10px 0;
 }
 
 /* Header styling for tables */
 QHeaderView::section {
-    background-color: #00BFA5; /* Consistent accent color */
+    background-color: #00BFA5;
     color: white;
     font-weight: bold;
     border: none;
-    padding: 8px;
+    padding: 12px; /* Increased padding for more readability */
 }
 
-/* Optional: If we had explanation labels or other named labels, we can style them similarly
-   but currently we rely on the global styling for normal labels. */
-
-/* This QSS now ensures consistent colors and font sizes across all screens,
-   uses the same accent color (#00BFA5) for titles and table headers, and no
-   drastically different colors. The tables are now styled similarly to other elements,
-   and the headers match the general theme. */
