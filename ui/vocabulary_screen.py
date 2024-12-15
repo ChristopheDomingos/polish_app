@@ -64,7 +64,7 @@ class VocabularyScreen(QWidget):
 
         table.horizontalHeader().setSectionResizeMode(QHeaderView.ResizeMode.Stretch)
         # Increase header height for clarity if needed
-        table.horizontalHeader().setMinimumHeight(50)
+        table.horizontalHeader().setMinimumHeight(80)
 
         table.setSizeAdjustPolicy(QTableWidget.SizeAdjustPolicy.AdjustToContents)
 
