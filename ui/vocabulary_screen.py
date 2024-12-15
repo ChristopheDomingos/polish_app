@@ -1,6 +1,8 @@
+# vocabulary_screen.py
 import os
-from PyQt6.QtWidgets import QWidget, QVBoxLayout, QLabel, QPushButton, QHBoxLayout, QScrollArea, QWidgetItem, QFrame
-from PyQt6.QtGui import QPixmap
+from PyQt6.QtWidgets import (
+    QWidget, QVBoxLayout, QLabel, QPushButton, QTableWidget, QTableWidgetItem, QHeaderView, QScrollArea, QWidget as QW, QAbstractItemView
+)
 from PyQt6.QtCore import Qt
 from utils.audio_manager import AudioManager
 
@@ -15,55 +17,77 @@ class VocabularyScreen(QWidget):
         self.lesson_data = lesson_data
         self.audio_manager = AudioManager()
 
-        layout = QVBoxLayout()
+        main_layout = QVBoxLayout()
+        main_layout.setContentsMargins(20, 20, 20, 20)
+        main_layout.setSpacing(20)
 
         title = QLabel("Słownictwo (Vocabulary Introduction)")
         title.setObjectName("titleLabel")
-        layout.addWidget(title, alignment=Qt.AlignmentFlag.AlignCenter)
+        main_layout.addWidget(title, alignment=Qt.AlignmentFlag.AlignCenter)
 
-        scroll = QScrollArea()
-        scroll_widget = QWidget()
-        scroll_layout = QVBoxLayout()
+        scroll_area = QScrollArea()
+        scroll_area.setWidgetResizable(True)
+        scroll_widget = QW()
+        scroll_layout = QVBoxLayout(scroll_widget)
+        scroll_layout.setContentsMargins(0, 0, 0, 0)
+        scroll_layout.setSpacing(20)
 
-        for item in self.vocab_data:
-            row = QHBoxLayout()
+        table = QTableWidget()
+        table.setColumnCount(3)
+        table.setHorizontalHeaderLabels(["Word", "Show Translation", "Play"])
+        table.setEditTriggers(QAbstractItemView.EditTrigger.NoEditTriggers)
+        table.setSelectionBehavior(QAbstractItemView.SelectionBehavior.SelectRows)
+        table.setSelectionMode(QAbstractItemView.SelectionMode.NoSelection)
 
-            img_label = QLabel()
-            if item.get("image") and os.path.exists(item["image"]):
-                pix = QPixmap(item["image"]).scaled(100, 100, Qt.AspectRatioMode.KeepAspectRatio)
-                img_label.setPixmap(pix)
-            else:
-                img_label.setText("[No Image]")
+        table.setRowCount(len(self.vocab_data))
+        for r_idx, item in enumerate(self.vocab_data):
+            word_item = QTableWidgetItem(item["word"])
+            word_item.setData(Qt.ItemDataRole.UserRole, {
+                "polish": item["word"],
+                "english": item["translation"],
+                "isPolish": True
+            })
+            table.setItem(r_idx, 0, word_item)
 
-            word_label = QLabel(item['word'])
-            # Create a translation label hidden initially
-            translation_label = QLabel(item['translation'])
-            translation_label.setVisible(False)
-
-            show_translation_btn = QPushButton("Show Translation")
-            show_translation_btn.clicked.connect(lambda _, lbl=translation_label: lbl.setVisible(True))
+            show_btn = QPushButton("Show Translation")
+            show_btn.clicked.connect(lambda ch, row=r_idx: self.toggle_translation(table, row))
+            table.setCellWidget(r_idx, 1, show_btn)
 
             play_btn = QPushButton("Play")
-            play_btn.clicked.connect(lambda _, text=item["audio"], url=item.get("audio_url"): self.audio_manager.play_audio(text, url=url))
+            play_btn.clicked.connect(lambda ch, text=item["word"]: self.play_audio(text))
+            table.setCellWidget(r_idx, 2, play_btn)
 
-            row.addWidget(img_label)
-            row.addWidget(word_label)
-            row.addWidget(show_translation_btn)
-            row.addWidget(translation_label)
-            row.addWidget(play_btn)
-            scroll_layout.addLayout(row)
+        table.horizontalHeader().setSectionResizeMode(QHeaderView.ResizeMode.Stretch)
+        table.verticalHeader().setSectionResizeMode(QHeaderView.ResizeMode.ResizeToContents)
+        table.setSizeAdjustPolicy(QTableWidget.SizeAdjustPolicy.AdjustToContents)
 
-        scroll_widget.setLayout(scroll_layout)
-        scroll.setWidget(scroll_widget)
-        scroll.setWidgetResizable(True)
-        layout.addWidget(scroll)
+        scroll_layout.addWidget(table)
+        scroll_area.setWidget(scroll_widget)
+        main_layout.addWidget(scroll_area)
 
-        # Not an exercise screen, but if you want to log attempts or score, you can skip. No attempts here.
-        # Just when finishing viewing:
         self.progress_tracker.log_attempt(self.lesson_id, "vocabulary", "viewed_vocab", True)
 
         continue_btn = QPushButton("Continue")
+        continue_btn.setObjectName("continueButton")
         continue_btn.clicked.connect(self.on_complete)
-        layout.addWidget(continue_btn, alignment=Qt.AlignmentFlag.AlignCenter)
+        main_layout.addWidget(continue_btn, alignment=Qt.AlignmentFlag.AlignCenter)
 
-        self.setLayout(layout)
+        self.setLayout(main_layout)
+
+    def toggle_translation(self, table, row):
+        item = table.item(row, 0)
+        data = item.data(Qt.ItemDataRole.UserRole)
+        if data["isPolish"]:
+            item.setText(data["english"])
+            data["isPolish"] = False
+            btn = table.cellWidget(row, 1)
+            btn.setText("Show Polish")
+        else:
+            item.setText(data["polish"])
+            data["isPolish"] = True
+            btn = table.cellWidget(row, 1)
+            btn.setText("Show Translation")
+        item.setData(Qt.ItemDataRole.UserRole, data)
+
+    def play_audio(self, text):
+        self.audio_manager.play_audio(text)
