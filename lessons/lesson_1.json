@@ -1,22 +1,23 @@
 {
-  "lesson_id": "lesson_1",
-  "overview": {
-    "title": "Jak masz na imię?",
-    "duration": "15 minutes",
-    "objectives": [
-      "Greet someone informally and formally",
-      "Ask and answer 'What is your name?'",
-      "Respond to 'How are you?'",
-      "Introduce yourself and others",
-      "Use basic polite expressions"
-    ],
-    "cultural_notes": [
-      "In Polish, greetings vary by formality. 'Cześć' is informal, 'Dzień dobry' is formal. Using 'pan/pani' is a sign of respect.",
-      "Poles often greet with a firm handshake in formal situations.",
-      "Eye contact is considered respectful during introductions.",
-      "Greeting with 'Dzień dobry' is suitable from morning to late afternoon."
-    ],
-    "difficulty": "beginner"
+"lesson_id": "lesson_1",
+"overview": {
+  "title": "Jak masz na imię?",
+  "duration": "15 minutes",
+  "objectives": [
+    "Learn informal and formal ways to greet someone",
+    "Ask and answer the question 'What is your name?'",
+    "Respond to 'How are you?' with various expressions",
+    "Introduce yourself and others, both formally and informally",
+    "Understand and use basic polite expressions in everyday contexts"
+  ],
+  "cultural_notes": [
+    "Polish greetings depend on the level of formality. 'Cześć' is used among friends and peers, while 'Dzień dobry' is used in formal or professional settings.",
+    "Using 'pan' (sir) or 'pani' (ma'am) when addressing someone formally shows respect.",
+    "Polish people often greet formally with a firm handshake and maintain eye contact during introductions as a sign of trust and sincerity.",
+    "Greeting with 'Dzień dobry' is appropriate until late afternoon, after which 'Dobry wieczór' (Good evening) is used.",
+    "Polish culture values politeness. Expressions such as 'Przepraszam' (Excuse me/Sorry), 'Proszę' (Please), and 'Dziękuję' (Thank you) are commonly used in daily interactions."
+  ],
+  "difficulty": "beginner"
   },
   "grammar_insight": {
     "explanation": "To ask for someone's name informally, use 'Jak masz na imię?'. Formally, use 'Jak ma pan/pani na imię?'. Basic pronouns: ja (I), ty (you informal), pan/pani (you formal). 'Dzień dobry' is formal, 'Cześć' is informal.",
