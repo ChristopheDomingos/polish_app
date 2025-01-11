@@ -1,0 +1,615 @@
+{
+    "lesson_id": "lesson_5",
+    "overview": {
+      "title": "Co lubisz robić? – Rozmowa o hobby",
+      "duration": "45 minutes",
+      "objectives": [
+        "Learn to discuss hobbies using verbs lubić + biernik/bezokolicznik and interesować się + narzędnik",
+        "Conjugate Polish verbs in various -m, -sz / -ę, -isz/-ysz / -ować patterns",
+        "Use frequency adverbs (zawsze, codziennie, zwykle, często, rzadko, nigdy) to talk about how often you do activities",
+        "Expand vocabulary for common hobbies and free-time activities",
+        "Practice listening comprehension and short dialogues around personal interests and leisure"
+      ],
+      "cultural_notes": [
+        "Poles often engage in a variety of free-time activities (hobbies), including reading books, going to cinemas or theaters, traveling, and playing sports. 'Lubię czytać książki' (I like reading books) and 'Interesuję się literaturą' (I'm interested in literature) are common ways to express interest.",
+        "When saying you like an activity, you can either use 'lubić + noun (in accusative)' or 'lubić + infinitive': e.g., 'Lubię sport' / 'Lubię uprawiać sport.' Similarly, 'Interesuję się sportem' takes the instrumental case.",
+        "Common frequency words: zawsze (always), codziennie (every day), często (often), zwykle (usually), rzadko (rarely), nigdy (never).",
+        "At a cafe or bar, it’s normal to discuss your hobbies with friends. In casual conversations, questions like 'Co lubisz robić w wolnym czasie?' are used frequently."
+      ],
+      "difficulty": "beginner"
+    },
+    "grammar_insight": {
+      "explanation": "In Lesson 5, we focus on expressing likes, dislikes, and interests. We use 'lubić + biernik' (e.g., Lubię herbatę) or 'lubić + infinitive' (e.g., Lubię czytać) to talk about what we like. We also explore 'interesować się + narzędnik' (e.g., Interesuję się muzyką), indicating interest in something. We practice conjugations in different patterns: -m, -sz (czytam, czytasz), -ę, -isz/-ysz (mówię, mówisz), and -ować (studiuję, studiujesz). Additionally, we learn how to incorporate frequency adverbs such as zawsze, często, czasami, rzadko, nigdy.",
+      "tables": [
+        {
+          "title": "Structures for Talking About Hobbies",
+          "headers": [
+            "Expression",
+            "Example"
+          ],
+          "rows": [
+            [
+              "lubić + biernik (noun)",
+              "Lubię kawę / Lubię muzykę / Lubię sport"
+            ],
+            [
+              "lubić + infinitive",
+              "Lubię czytać / Lubię tańczyć / Lubię podróżować"
+            ],
+            [
+              "interesować się + narzędnik",
+              "Interesuję się filmem / Interesuję się literaturą / Interesuję się sportem"
+            ]
+          ]
+        },
+        {
+          "title": "Frequency Adverbs (Przysłówki częstotliwości)",
+          "headers": [
+            "Polish",
+            "English"
+          ],
+          "rows": [
+            [
+              "zawsze",
+              "always"
+            ],
+            [
+              "codziennie",
+              "every day / daily"
+            ],
+            [
+              "zwykle",
+              "usually"
+            ],
+            [
+              "często",
+              "often"
+            ],
+            [
+              "rzadko",
+              "rarely"
+            ],
+            [
+              "nigdy",
+              "never"
+            ]
+          ]
+        },
+        {
+          "title": "Verb Conjugation Patterns (Examples)",
+          "headers": [
+            "Pattern",
+            "Example",
+            "1st Person Sing.",
+            "2nd Person Sing."
+          ],
+          "rows": [
+            [
+              "-m, -sz",
+              "mieszkać (to live)",
+              "mieszkam",
+              "mieszkasz"
+            ],
+            [
+              "-ę, -isz / -ysz",
+              "mówić (to speak)",
+              "mówię",
+              "mówisz"
+            ],
+            [
+              "-ować",
+              "studiować (to study)",
+              "studiuję",
+              "studiujesz"
+            ]
+          ]
+        }
+      ],
+      "audio_explanation": "Listen to dialogues where speakers talk about their hobbies and how often they do them. Pay attention to the correct verb conjugations and cases (accusative vs. instrumental).",
+      "audio_explanation_url": null
+    },
+    "vocabulary": [
+      {
+        "word": "lubić",
+        "translation": "to like",
+        "audio": "lubić",
+        "audio_url": null
+      },
+      {
+        "word": "interesować się",
+        "translation": "to be interested in",
+        "audio": "interesować_się",
+        "audio_url": null
+      },
+      {
+        "word": "uprawiać sport",
+        "translation": "to do / practice sports",
+        "audio": "uprawiać_sport",
+        "audio_url": null
+      },
+      {
+        "word": "słuchać muzyki",
+        "translation": "to listen to music",
+        "audio": "słuchać_muzyki",
+        "audio_url": null
+      },
+      {
+        "word": "oglądać telewizję",
+        "translation": "to watch TV",
+        "audio": "oglądać_telewizję",
+        "audio_url": null
+      },
+      {
+        "word": "czytać książki",
+        "translation": "to read books",
+        "audio": "czytać_książki",
+        "audio_url": null
+      },
+      {
+        "word": "chodzić do kina",
+        "translation": "to go to the cinema",
+        "audio": "chodzić_do_kina",
+        "audio_url": null
+      },
+      {
+        "word": "chodzić do teatru",
+        "translation": "to go to the theatre",
+        "audio": "chodzić_do_teatru",
+        "audio_url": null
+      },
+      {
+        "word": "podróżować",
+        "translation": "to travel",
+        "audio": "podróżować",
+        "audio_url": null
+      },
+      {
+        "word": "biegać",
+        "translation": "to run",
+        "audio": "biegać",
+        "audio_url": null
+      },
+      {
+        "word": "jeździć na rowerze",
+        "translation": "to ride a bike",
+        "audio": "jeździć_na_rowerze",
+        "audio_url": null
+      },
+      {
+        "word": "grać na gitarze",
+        "translation": "to play the guitar",
+        "audio": "grać_na_gitarze",
+        "audio_url": null
+      },
+      {
+        "word": "grać w tenisa",
+        "translation": "to play tennis",
+        "audio": "grać_w_tenisa",
+        "audio_url": null
+      },
+      {
+        "word": "spotykać się z kolegami",
+        "translation": "to meet with friends",
+        "audio": "spotykać_się_z_kolegami",
+        "audio_url": null
+      },
+      {
+        "word": "zawsze",
+        "translation": "always",
+        "audio": "zawsze",
+        "audio_url": null
+      },
+      {
+        "word": "codziennie",
+        "translation": "every day / daily",
+        "audio": "codziennie",
+        "audio_url": null
+      },
+      {
+        "word": "zwykle",
+        "translation": "usually",
+        "audio": "zwykle",
+        "audio_url": null
+      },
+      {
+        "word": "często",
+        "translation": "often",
+        "audio": "często",
+        "audio_url": null
+      },
+      {
+        "word": "rzadko",
+        "translation": "rarely",
+        "audio": "rzadko",
+        "audio_url": null
+      },
+      {
+        "word": "nigdy",
+        "translation": "never",
+        "audio": "nigdy",
+        "audio_url": null
+      },
+      {
+        "word": "pływać",
+        "translation": "to swim",
+        "audio": "pływać",
+        "audio_url": null
+      },
+      {
+        "word": "jeździć na nartach",
+        "translation": "to ski",
+        "audio": "jeździć_na_nartach",
+        "audio_url": null
+      }
+    ],
+    "guided_practice": [
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Lubię _______ (uprawiać / uprawiam) sport – interesuję się sportem.",
+        "answer": [
+          "uprawiać"
+        ],
+        "hint": "Use the infinitive after 'lubię'."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Czy _______ (ty) chodzić do kina? (lubić + infinitive)",
+        "answer": [
+          "lubisz"
+        ],
+        "hint": "2nd person singular of 'lubić'."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Interesuję się _______ (fotografia – narzędnik).",
+        "answer": [
+          "fotografią"
+        ],
+        "hint": "Instrumental form of 'fotografia' → fotografią."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which is correct for 'I like to watch TV'?",
+        "options": [
+          "Lubię oglądać telewizję",
+          "Lubię oglądam telewizję",
+          "Ja lubi telewizję"
+        ],
+        "answer": [
+          "Lubię oglądać telewizję"
+        ],
+        "hint": "Use 'lubię + infinitive'."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "How do you say ‘I’m interested in music’?",
+        "options": [
+          "Interesuję się muzyką",
+          "Interesuję się muzykę",
+          "Interesuję się muzyka"
+        ],
+        "answer": [
+          "Interesuję się muzyką"
+        ],
+        "hint": "Instrumental case after 'interesować się'."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Oni _______ (jeździć) na rowerze codziennie.",
+        "answer": [
+          "jeżdżą"
+        ],
+        "hint": "3rd person plural of 'jeździć'."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to English: 'Lubię chodzić po górach i robić zdjęcia.'",
+        "answer": [
+          "I like hiking in the mountains and taking photos."
+        ],
+        "hint": "Focus on the verb phrases in English."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to Polish: 'She is interested in French literature.'",
+        "answer": [
+          "Ona interesuje się literaturą francuską."
+        ],
+        "hint": "Use narzędnik for 'literatura francuska' → literaturą francuską."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Marcin _______ (spotykać się) z kolegami rzadko, bo jest bardzo zajęty.",
+        "answer": [
+          "spotyka się"
+        ],
+        "hint": "3rd person singular, reflexive verb 'spotykać się'."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Czy oni _______ (lubić) tańczyć w dyskotece?",
+        "answer": [
+          "lubią"
+        ],
+        "hint": "3rd person plural of 'lubić'."
+      }
+    ],
+    "writing_practice": [
+      {
+        "prompt": "Napisz, co lubisz robić w weekend. Użyj co najmniej 3 przysłówków (np. często, rzadko, nigdy) i 2 struktur (lubić + infinitive, interesować się + narzędnik).",
+        "expected_structure": [
+          "Lubię + bezokolicznik",
+          "Interesuję się + narzędnik",
+          "często, rzadko, nigdy"
+        ],
+        "hint": "Include both types of expressions (accusative vs. instrumental) and mention frequency."
+      },
+      {
+        "prompt": "Opisz hobby swojej rodziny lub przyjaciół. Użyj form: 'Mój brat interesuje się...', 'Moja siostra lubi...' itp.",
+        "expected_structure": [
+          "Mój brat interesuje się ...",
+          "Moja siostra lubi ...",
+          "On/ona lubi + verb in infinitive"
+        ],
+        "hint": "Use correct pronouns and forms of 'lubić' or 'interesować się'."
+      },
+      {
+        "prompt": "Napisz 3 zdania o tym, co lubisz robić każdego dnia (codziennie) i 3 zdania o tym, co robisz tylko czasami.",
+        "expected_structure": [
+          "Codziennie + verb ...",
+          "Czasami + verb ..."
+        ],
+        "hint": "Incorporate the adverbs codziennie, czasami."
+      },
+      {
+        "prompt": "Ułóż krótką rozmowę (min. 4 linijki), w której dwie osoby pytają się wzajemnie o hobby, używając: 'Co lubisz robić w wolnym czasie?', 'Interesujesz się...?', 'Ja lubię...', 'Często...'.",
+        "expected_structure": [
+          "Co lubisz robić w wolnym czasie?",
+          "Interesujesz się ... ?",
+          "Lubię + bezokolicznik / biernik",
+          "Często + verb"
+        ],
+        "hint": "Include at least one question about frequency."
+      },
+      {
+        "prompt": "Przećwicz koniugacje: napisz po jednym zdaniu z czasownikami (czytać, chodzić, studiować, mówić) we wszystkich osobach liczby pojedynczej (ja, ty, on/ona).",
+        "expected_structure": [
+          "Ja czytam/chodzę/studiuję/mówię",
+          "Ty czytasz/chodzisz/studiujesz/mówisz",
+          "On/Ona czyta/chodzi/studiuje/mówi"
+        ],
+        "hint": "Use correct endings for each pronoun."
+      }
+    ],
+    "listening_and_speaking": [
+      {
+        "type": "dictation",
+        "sentence": "Listen to the conversation:\n'– Co lubisz robić w weekend?\n– Lubię jeździć na rowerze i pływać.'",
+        "audio": "co_lubisz_robić_w_weekend",
+        "audio_url": null,
+        "answer": [
+          "– Co lubisz robić w weekend?\n– Lubię jeździć na rowerze i pływać."
+        ],
+        "hint": "Short exchange about free time activities."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz na głos: 'Codziennie słucham muzyki, a w weekendy chodzę do kina.'",
+        "prompt": "Practice using frequency adverbs and the correct verb conjugations.",
+        "audio_url": null,
+        "reference_text": "Codziennie słucham muzyki, a w weekendy chodzę do kina.",
+        "hint": "Focus on first person singular forms."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Posłuchaj i zapisz: 'Interesuję się fotografią i lubię robić zdjęcia w plenerze.'",
+        "audio": "interesuje_sie_fotografia",
+        "audio_url": null,
+        "answer": [
+          "Interesuję się fotografią i lubię robić zdjęcia w plenerze."
+        ],
+        "hint": "Narzędnik for ‘fotografia’ and the correct form of ‘lubić + infinitive'."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: 'Moja koleżanka nigdy nie chodzi do teatru, ale często ogląda filmy w domu.'",
+        "prompt": "Focus on usage of frequency adverbs (nigdy, często).",
+        "audio_url": null,
+        "reference_text": "Moja koleżanka nigdy nie chodzi do teatru, ale często ogląda filmy w domu.",
+        "hint": "Check verb conjugations carefully (chodzi, ogląda)."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen: 'Zawsze gramy w karty w piątek wieczorem. Czasem też chodzimy do restauracji.'",
+        "audio": "zawsze_gramy_w_karty",
+        "audio_url": null,
+        "answer": [
+          "Zawsze gramy w karty w piątek wieczorem. Czasem też chodzimy do restauracji."
+        ],
+        "hint": "Group activity about playing cards and going out."
+      }
+    ],
+    "real_life_dialogue": {
+      "dialogue": [
+        {
+          "speaker": "A",
+          "text": "Cześć, co lubisz robić w wolnym czasie?",
+          "translation": "Hi, what do you like to do in your free time?"
+        },
+        {
+          "speaker": "B",
+          "text": "Lubię biegać i jeździć na rowerze. A Ty?",
+          "translation": "I like running and riding my bike. And you?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ja zwykle spotykam się z przyjaciółmi w kawiarni i czasami oglądam filmy.",
+          "translation": "I usually meet my friends at a café and sometimes watch movies."
+        },
+        {
+          "speaker": "B",
+          "text": "Interesuję się też muzyką – gram na gitarze. Często wieczorem słucham rocka.",
+          "translation": "I’m also interested in music – I play the guitar. I often listen to rock in the evening."
+        },
+        {
+          "speaker": "A",
+          "text": "Fajnie! Może kiedyś zagrasz dla mnie?",
+          "translation": "Nice! Maybe you’ll play for me sometime?"
+        }
+      ],
+      "interactive_choices": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What does 'Jeżdżę na rowerze' mean?",
+          "options": [
+            "I ride a bike",
+            "I go swimming",
+            "I go to the mountains"
+          ],
+          "answer": [
+            "I ride a bike"
+          ],
+          "hint": "Literal meaning: 'I ride a bicycle.'"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which verb form is correct for 'I watch movies'?",
+          "options": [
+            "Oglądam filmy",
+            "Oglądasz filmy",
+            "Oglądać filmy"
+          ],
+          "answer": [
+            "Oglądam filmy"
+          ],
+          "hint": "First person singular."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which statement is correct if you 'often listen to rock'?",
+          "options": [
+            "Często słucham rocka",
+            "Często słuchasz rocka",
+            "Często słuchać rocka"
+          ],
+          "answer": [
+            "Często słucham rocka"
+          ],
+          "hint": "First person singular form of słuchać: słucham."
+        }
+      ]
+    },
+    "mini_quiz": [
+      {
+        "type": "multiple_choice",
+        "question": "How do you say 'I like reading books' in Polish?",
+        "options": [
+          "Lubię czytać książki",
+          "Ja lubię książki czytać",
+          "Kocham czytam książki"
+        ],
+        "answer": [
+          "Lubię czytać książki"
+        ],
+        "hint": "Use lubię + infinitive + direct object."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which is the correct form for 'I am interested in cinema'?",
+        "options": [
+          "Interesuję się kinem",
+          "Interesuję się kino",
+          "Interesuję się kina"
+        ],
+        "answer": [
+          "Interesuję się kinem"
+        ],
+        "hint": "Narzędnik case of 'kino' is 'kinem'."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which phrase uses the instrumental case?",
+        "options": [
+          "Lubię sport",
+          "Interesuję się sportem",
+          "Kocham sport"
+        ],
+        "answer": [
+          "Interesuję się sportem"
+        ],
+        "hint": "After 'interesuję się', we use narzędnik."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which word means ‘often’ in Polish?",
+        "options": [
+          "zawsze",
+          "często",
+          "rzadko"
+        ],
+        "answer": [
+          "często"
+        ],
+        "hint": "Frequency adverb for 'often'."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What is the correct 3rd person singular form of 'chodzić' (to go on foot)?",
+        "options": [
+          "chodzi",
+          "chodzę",
+          "chodzisz"
+        ],
+        "answer": [
+          "chodzi"
+        ],
+        "hint": "He / She / It goes: on/ona chodzi."
+      }
+    ],
+    "review_and_feedback": {
+      "summary": "Gratulacje! Nauczyłeś się, jak mówić o ulubionych zajęciach i hobby, używając konstrukcji 'lubić + biernik/bezokolicznik' i 'interesować się + narzędnik'. Poznałeś też przydatne przysłówki wyrażające częstotliwość. Pamiętaj, aby ćwiczyć koniugacje i używać nowych wyrażeń w codziennych rozmowach.",
+      "feedback_questions": [
+        {
+          "question": "Jak powiedzieć 'I like reading books' używając bezokolicznika?",
+          "type": "short_answer",
+          "answer": [
+            "Lubię czytać książki"
+          ]
+        },
+        {
+          "question": "Podaj przykład zdania z 'interesować się' w narzędniku (np. film).",
+          "type": "short_answer",
+          "answer": [
+            "Interesuję się filmem"
+          ]
+        },
+        {
+          "question": "Jak zapytasz kogoś o jego/jej hobby?",
+          "type": "short_answer",
+          "answer": [
+            "Co lubisz robić w wolnym czasie?",
+            "Jakie masz hobby?"
+          ]
+        },
+        {
+          "question": "Jak powiesz po polsku: ‘He never plays tennis’? (grać w tenisa).",
+          "type": "short_answer",
+          "answer": [
+            "On nigdy nie gra w tenisa."
+          ]
+        },
+        {
+          "question": "Jak powiesz ‘I often go to the cinema’ po polsku?",
+          "type": "short_answer",
+          "answer": [
+            "Często chodzę do kina."
+          ]
+        }
+      ],
+      "final_feedback": "Jeśli masz trudności z koniugacjami lub używaniem biernika i narzędnika, wróć do ćwiczeń i powtórz materiał. Regularna praktyka pomoże ci swobodnie opowiadać o swoim hobby i tym, co lubisz robić w wolnym czasie. Powodzenia!"
+    },
+    "next_lesson_placeholder": {
+      "lesson_6_intro": "In Lesson 6, we will discuss making plans, inviting someone to an event, and more verbs of motion...",
+      "lesson_7_intro": "In Lesson 7, we will learn about expressing needs, requests, and exploring Polish imperative forms..."
+    }
+  }  
