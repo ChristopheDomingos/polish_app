@@ -21,9 +21,10 @@ class MainApp(QStackedWidget):
         self.setWindowTitle("Polish Lessons App")
         self.setGeometry(100, 100, 900, 600)
 
-        # For now only one lesson
+        # For now only two lesson
         self.lessons = {
-            "Lesson 1": "lessons/lesson_1.json"
+            "Lesson 1": "lessons/lesson_1.json",
+            "Lesson 2": "lessons/lesson_2.json"
         }
 
         self.progress_tracker = ProgressTracker()
