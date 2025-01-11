@@ -1,0 +1,644 @@
+{
+    "lesson_id": "lesson_4",
+    "overview": {
+      "title": "Ile masz lat? Moja rodzina i adres e-mailowy",
+      "duration": "45 minutes",
+      "objectives": [
+        "Ask and answer about ages using numbers 20–100 (Ile masz lat?)",
+        "Discuss and write email addresses (Jaki masz adres e-mailowy?)",
+        "Use possessive pronouns (mój, twoja, jego, jej, nasz, wasz, ich) in the nominative case",
+        "Learn the accusative (biernik) singular of nouns, adjectives, and pronouns",
+        "Describe family members (To jest moja rodzina. On jest moim bratem...)"
+      ],
+      "cultural_notes": [
+        "When asking 'Ile masz lat?' (How old are you?), remember that Polish uses forms like 'Mam 20 lat', 'Mam 21 lat', 'Mam 22 lata'. The word changes depending on the number.",
+        "Email addresses in Polish often use the word ‘małpa’ (@), ‘kropka’ (.) for the dot, ‘ukośnik’ (/) for slash, and ‘podkreślenie’ (_) for underscore.",
+        "Possessive pronouns must agree in gender and number with the noun they modify: 'mój syn' (masc.), 'moja siostra' (fem.), 'moje dziecko' (neuter).",
+        "Accusative (biernik) is used after certain verbs like 'mieć' (to have), 'lubić' (to like), 'kochać' (to love), 'znać' (to know). Example: 'Mam nowego brata' / 'Lubię polską muzykę'.",
+        "Discussing family in Polish often uses terms like dziadek (grandfather), babcia (grandmother), rodzeństwo (siblings), mąż (husband), żona (wife)."
+      ],
+      "difficulty": "beginner"
+    },
+    "grammar_insight": {
+      "explanation": "In Lesson 4, we focus on higher numbers (20–100), possessive pronouns in the nominative (np. mój brat, twoja siostra, nasze dziecko), the question 'Ile masz lat?' and correct forms of 'lat/lata'. We also learn the accusative singular for describing what or who we have or like (e.g., Mam nowego brata, Lubię tę książkę, Kocham cię).",
+      "tables": [
+        {
+          "title": "Numbers 20–100 (liczebniki)",
+          "headers": [
+            "20",
+            "30",
+            "40",
+            "50",
+            "60",
+            "70",
+            "80",
+            "90",
+            "100"
+          ],
+          "rows": [
+            [
+              "dwadzieścia",
+              "trzydzieści",
+              "czterdzieści",
+              "pięćdziesiąt",
+              "sześćdziesiąt",
+              "siedemdziesiąt",
+              "osiemdziesiąt",
+              "dziewięćdziesiąt",
+              "sto"
+            ]
+          ]
+        },
+        {
+          "title": "Possessive Pronouns in the Nominative",
+          "headers": [
+            "Masculine",
+            "Feminine",
+            "Neuter"
+          ],
+          "rows": [
+            [
+              "mój / twój / jego / jej / nasz / wasz / ich (brat)",
+              "moja / twoja / jego / jej / nasza / wasza / ich (siostra)",
+              "moje / twoje / jego / jej / nasze / wasze / ich (dziecko)"
+            ]
+          ]
+        },
+        {
+          "title": "Accusative (Biernik) Singular",
+          "headers": [
+            "Masculine Animate (Kogo?)",
+            "Masculine Inanimate (Co?)",
+            "Feminine",
+            "Neuter"
+          ],
+          "rows": [
+            [
+              "nowego brata, sympatycznego kolegę (endings -ego/-iego for adj. + -a for noun)",
+              "nowy komputer, polski film (same as nominative: np. Lubię nowy komputer.)",
+              "nową książkę, interesującą gazetę (endings -ą for adj. + -ę for noun)",
+              "nowe dziecko, polskie kino (same as nominative: np. Kocham polskie kino.)"
+            ]
+          ]
+        }
+      ],
+      "audio_explanation": "Listen to the examples of using numbers 20–100 and the phrases: Ile masz lat? Mam ... lat. Also note how to ask for and state an email address in Polish (używając 'małpa', 'kropka').",
+      "audio_explanation_url": null
+    },
+    "vocabulary": [
+      {
+        "word": "dwadzieścia",
+        "translation": "twenty",
+        "audio": "dwadzieścia",
+        "audio_url": null
+      },
+      {
+        "word": "trzydzieści",
+        "translation": "thirty",
+        "audio": "trzydzieści",
+        "audio_url": null
+      },
+      {
+        "word": "czterdzieści",
+        "translation": "forty",
+        "audio": "czterdzieści",
+        "audio_url": null
+      },
+      {
+        "word": "pięćdziesiąt",
+        "translation": "fifty",
+        "audio": "pięćdziesiąt",
+        "audio_url": null
+      },
+      {
+        "word": "sześćdziesiąt",
+        "translation": "sixty",
+        "audio": "sześćdziesiąt",
+        "audio_url": null
+      },
+      {
+        "word": "siedemdziesiąt",
+        "translation": "seventy",
+        "audio": "siedemdziesiąt",
+        "audio_url": null
+      },
+      {
+        "word": "osiemdziesiąt",
+        "translation": "eighty",
+        "audio": "osiemdziesiąt",
+        "audio_url": null
+      },
+      {
+        "word": "dziewięćdziesiąt",
+        "translation": "ninety",
+        "audio": "dziewięćdziesiąt",
+        "audio_url": null
+      },
+      {
+        "word": "sto",
+        "translation": "one hundred",
+        "audio": "sto",
+        "audio_url": null
+      },
+      {
+        "word": "ile masz lat?",
+        "translation": "how old are you?",
+        "audio": "ile_masz_lat",
+        "audio_url": null
+      },
+      {
+        "word": "mam ... lat",
+        "translation": "I am ... years old",
+        "audio": "mam_lat",
+        "audio_url": null
+      },
+      {
+        "word": "mój / moja / moje",
+        "translation": "my (masc. / fem. / neut.)",
+        "audio": "mój_moja_moje",
+        "audio_url": null
+      },
+      {
+        "word": "twój / twoja / twoje",
+        "translation": "your (singular)",
+        "audio": "twój_twoja_twoje",
+        "audio_url": null
+      },
+      {
+        "word": "jego / jej",
+        "translation": "his / her",
+        "audio": "jego_jej",
+        "audio_url": null
+      },
+      {
+        "word": "nasz / nasza / nasze",
+        "translation": "our (masc. / fem. / neut.)",
+        "audio": "nasz_nasza_nasze",
+        "audio_url": null
+      },
+      {
+        "word": "wasz / wasza / wasze",
+        "translation": "your (plural, masc. / fem. / neut.)",
+        "audio": "wasz_wasza_wasze",
+        "audio_url": null
+      },
+      {
+        "word": "ich",
+        "translation": "their",
+        "audio": "ich",
+        "audio_url": null
+      },
+      {
+        "word": "rodzina",
+        "translation": "family",
+        "audio": "rodzina",
+        "audio_url": null
+      },
+      {
+        "word": "ojciec",
+        "translation": "father",
+        "audio": "ojciec",
+        "audio_url": null
+      },
+      {
+        "word": "matka",
+        "translation": "mother",
+        "audio": "matka",
+        "audio_url": null
+      },
+      {
+        "word": "mąż",
+        "translation": "husband",
+        "audio": "mąż",
+        "audio_url": null
+      },
+      {
+        "word": "żona",
+        "translation": "wife",
+        "audio": "żona",
+        "audio_url": null
+      },
+      {
+        "word": "syn",
+        "translation": "son",
+        "audio": "syn",
+        "audio_url": null
+      },
+      {
+        "word": "córka",
+        "translation": "daughter",
+        "audio": "córka",
+        "audio_url": null
+      },
+      {
+        "word": "dziadek / babcia",
+        "translation": "grandfather / grandmother",
+        "audio": "dziadek_babcia",
+        "audio_url": null
+      },
+      {
+        "word": "rodzeństwo",
+        "translation": "siblings",
+        "audio": "rodzeństwo",
+        "audio_url": null
+      },
+      {
+        "word": "biernik (accusative)",
+        "translation": "accusative case in Polish",
+        "audio": "biernik",
+        "audio_url": null
+      },
+      {
+        "word": "adres e-mailowy",
+        "translation": "email address",
+        "audio": "adres_emailowy",
+        "audio_url": null
+      },
+      {
+        "word": "małpa",
+        "translation": "at sign (@)",
+        "audio": "małpa",
+        "audio_url": null
+      }
+    ],
+    "guided_practice": [
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "– Ile masz lat?\n– Mam ______ lat. (25)",
+        "answer": [
+          "dwadzieścia pięć"
+        ],
+        "hint": "Use numbers 20–29 properly."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "– Kim jest twój ojciec?\n– ______ jest lekarzem. (mój/twój/jej?)",
+        "answer": [
+          "Mój"
+        ],
+        "hint": "Choose the correct possessive pronoun for masculine father."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "– Masz rodzeństwo?\n– Tak, mam ______ siostrę i ______ brata.",
+        "answer": [
+          "jedną",
+          "jednego"
+        ],
+        "hint": "Use accusative forms: (jedna → jedną for fem., jeden → jednego for masc. animate)."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which is correct for 'I love you' in Polish?",
+        "options": [
+          "Kocham cię",
+          "Kocham ty",
+          "Kocham ciebiego"
+        ],
+        "answer": [
+          "Kocham cię"
+        ],
+        "hint": "Remember the accusative pronoun for 'you': cię."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which is correct for the question 'How old are you?'",
+        "options": [
+          "Ile masz lat?",
+          "Ile masz roku?",
+          "Ile lat masz?"
+        ],
+        "answer": [
+          "Ile masz lat?"
+        ],
+        "hint": "Standard question form in Polish."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to English: 'Mam dwadzieścia lat.'",
+        "answer": [
+          "I am twenty years old."
+        ],
+        "hint": "Use the verb 'to be' in English, but 'mam ... lat' in Polish."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Mój dziadek ma 75 ______ .",
+        "answer": [
+          "lat"
+        ],
+        "hint": "75 → lat."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "– Jak masz na imię?\n– Jestem Kasia. Jaki masz ______ e-mailowy?",
+        "answer": [
+          "adres"
+        ],
+        "hint": "Asking for email address."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Mam now____ komputer (nowy – accusative inanimate).",
+        "answer": [
+          "nowy"
+        ],
+        "hint": "Masculine inanimate often matches nominative form."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to Polish: 'We have a big family.'",
+        "answer": [
+          "Mamy dużą rodzinę."
+        ],
+        "hint": "Use accusative for 'a big family': dużą rodzinę."
+      }
+    ],
+    "writing_practice": [
+      {
+        "prompt": "Napisz 5 zdań o sobie: Ile masz lat, jak się nazywasz, skąd jesteś, jaka jest twoja rodzina (np. mam siostrę), i jaki masz adres e-mailowy.",
+        "expected_structure": [
+          "Mam ... lat",
+          "Nazywam się ...",
+          "Jestem z ...",
+          "Mam siostrę / brata / ...",
+          "Mój adres e-mailowy to ..."
+        ],
+        "hint": "Include age, name, origin, basic family info, and email address."
+      },
+      {
+        "prompt": "Użyj liczebników 20–100 w krótkim tekście. Napisz o 3 osobach i ich wieku. (np. 'Moja babcia ma 70 lat, a mój dziadek ma 75 lat.')",
+        "expected_structure": [
+          "Moja babcia ma ... lat",
+          "Mój dziadek ma ... lat",
+          "Mój tata / moja mama ma ... lat"
+        ],
+        "hint": "Practice the correct form (lata/lat) for each number."
+      },
+      {
+        "prompt": "Napisz 3 zdania z biernikiem: Mam..., Lubię..., Kocham... (np. Mam nowego kota, Lubię polską muzykę, Kocham cię).",
+        "expected_structure": [
+          "Mam ... (accusative)",
+          "Lubię ... (accusative)",
+          "Kocham ... (accusative)"
+        ],
+        "hint": "Focus on the correct endings in the accusative."
+      },
+      {
+        "prompt": "Napisz 3 pytania i odpowiedzi z zaimkami dzierżawczymi (np. 'Jak się nazywa twój brat?' 'Mój brat nazywa się Piotr.').",
+        "expected_structure": [
+          "Jak się nazywa twój ...?",
+          "Mój ... nazywa się ...",
+          "Jak ma na imię wasza ...?",
+          "Nasza ... ma na imię ..."
+        ],
+        "hint": "Use the nominative forms of possessive pronouns with a matching gender."
+      },
+      {
+        "prompt": "Przećwicz email addresses: 'Mój adres e-mailowy to ...'. Wpisz 2 przykładowe adresy z użyciem małpa (@), kropka (.), i myślnik (-).",
+        "expected_structure": [
+          "Mój adres e-mailowy to imię-nazwisko@domena.pl",
+          "Mój adres e-mailowy to ..."
+        ],
+        "hint": "Write them in a correct format, reading them out as in Polish (małpa, kropka)."
+      }
+    ],
+    "listening_and_speaking": [
+      {
+        "type": "dictation",
+        "sentence": "Listen to the audio: 'Mam trzydzieści lat. Mieszkam w Polsce. Mój email to anna.kowalska@wp.pl.'",
+        "audio": "mam_30_lat_audio",
+        "audio_url": null,
+        "answer": [
+          "Mam trzydzieści lat. Mieszkam w Polsce. Mój email to anna.kowalska@wp.pl."
+        ],
+        "hint": "Pay attention to the number form and email address format."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz na głos: 'Mam dwadzieścia dwa lata. Mój adres e-mailowy to piotr-m@interia.pl.'",
+        "prompt": "Practice stating your age and email address aloud.",
+        "audio_url": null,
+        "reference_text": "Mam dwadzieścia dwa lata. Mój adres e-mailowy to piotr-m@interia.pl.",
+        "hint": "Focus on correct number (22 → dwadzieścia dwa) and reading the email in Polish."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Posłuchaj i zapisz: 'To jest moja rodzina. Mam męża i córkę. Moja córka ma dziesięć lat.'",
+        "audio": "to_jest_moja_rodzina_audio",
+        "audio_url": null,
+        "answer": [
+          "To jest moja rodzina. Mam męża i córkę. Moja córka ma dziesięć lat."
+        ],
+        "hint": "Focus on correct possessive pronouns and accusative forms."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: 'Mój brat ma nowy komputer. Lubię jego komputer, bo jest bardzo szybki.'",
+        "prompt": "Practice using the accusative with a masculine inanimate noun and a possessive pronoun.",
+        "audio_url": null,
+        "reference_text": "Mój brat ma nowy komputer. Lubię jego komputer, bo jest bardzo szybki.",
+        "hint": "Remember: Lubię + accusative (nowy komputer → nowy komputer)."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen: 'Kocham cię. Czy ty mnie kochasz? Tak, bardzo cię kocham!'",
+        "audio": "kocham_cie_audio",
+        "audio_url": null,
+        "answer": [
+          "Kocham cię. Czy ty mnie kochasz? Tak, bardzo cię kocham!"
+        ],
+        "hint": "Focus on accusative pronouns: cię, mnie."
+      }
+    ],
+    "real_life_dialogue": {
+      "dialogue": [
+        {
+          "speaker": "A",
+          "text": "Cześć, ile masz lat? Ja mam dwadzieścia pięć.",
+          "translation": "Hi, how old are you? I’m twenty-five."
+        },
+        {
+          "speaker": "B",
+          "text": "Mam trzydzieści lat. A jak się nazywasz?",
+          "translation": "I’m thirty years old. And what’s your name?"
+        },
+        {
+          "speaker": "A",
+          "text": "Nazywam się Marta. Kim jesteś z zawodu?",
+          "translation": "My name is Marta. What is your occupation?"
+        },
+        {
+          "speaker": "B",
+          "text": "Jestem studentem. A to jest moja siostra. Ona ma osiemnaście lat.",
+          "translation": "I’m a student. And this is my sister. She’s eighteen."
+        },
+        {
+          "speaker": "A",
+          "text": "Miło mi was poznać! Jaki masz adres e-mailowy?",
+          "translation": "Nice to meet you both! What is your email address?"
+        },
+        {
+          "speaker": "B",
+          "text": "Mój email to student_krakow@poczta.pl",
+          "translation": "My email is student_krakow@poczta.pl"
+        }
+      ],
+      "interactive_choices": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Which question means ‘What is your email address?’ in Polish?",
+          "options": [
+            "Jaki masz adres e-mailowy?",
+            "Ile masz lat?",
+            "Jak masz na imię?"
+          ],
+          "answer": [
+            "Jaki masz adres e-mailowy?"
+          ],
+          "hint": "Focus on the phrase 'adres e-mailowy'."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "If someone says ‘Mam trzydzieści lat’, how old are they?",
+          "options": [
+            "20",
+            "25",
+            "30"
+          ],
+          "answer": [
+            "30"
+          ],
+          "hint": "Trzydzieści means thirty."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which pronoun do you use to say ‘I love you’? (talking to one person)",
+          "options": [
+            "Kocham cię",
+            "Kocham nas",
+            "Kocham was"
+          ],
+          "answer": [
+            "Kocham cię"
+          ],
+          "hint": "Second person singular in accusative is ‘cię’."
+        }
+      ]
+    },
+    "mini_quiz": [
+      {
+        "type": "multiple_choice",
+        "question": "What does 'Mam pięćdziesiąt lat' mean in English?",
+        "options": [
+          "I'm fifteen years old",
+          "I'm fifty years old",
+          "I'm five years old"
+        ],
+        "answer": [
+          "I'm fifty years old"
+        ],
+        "hint": "Pięćdziesiąt = 50."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which is the correct accusative form of 'stary samochód'?",
+        "options": [
+          "stary samochód",
+          "starego samochodu",
+          "stary samochoda"
+        ],
+        "answer": [
+          "stary samochód"
+        ],
+        "hint": "Masculine inanimate matches nominative (e.g., Mam stary samochód)."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How to say 'my sister' in nominative case?",
+        "options": [
+          "moja siostra",
+          "moją siostrę",
+          "mój siostra"
+        ],
+        "answer": [
+          "moja siostra"
+        ],
+        "hint": "Feminine nominative + feminine possessive pronoun."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which is the correct way to say: 'I like this book'?",
+        "options": [
+          "Lubię tę książkę",
+          "Lubię ta książka",
+          "Lubię tą książka"
+        ],
+        "answer": [
+          "Lubię tę książkę"
+        ],
+        "hint": "Accusative singular of 'ta książka' is 'tę książkę'."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which is correct for the question 'Do you know him?' in Polish?",
+        "options": [
+          "Czy znasz go?",
+          "Czy znasz on?",
+          "Czy wiesz go?"
+        ],
+        "answer": [
+          "Czy znasz go?"
+        ],
+        "hint": "Use the accusative pronoun 'go' for 'him'."
+      }
+    ],
+    "review_and_feedback": {
+      "summary": "Gratulacje! Nauczyłeś się liczb 20–100, pytać o wiek (Ile masz lat?), używać zaimków dzierżawczych (mój, twoja, jej, ich) oraz odmieniać rzeczowniki, przymiotniki i zaimki w bierniku. Poznałeś też słownictwo potrzebne do opisania swojej rodziny i podawania adresu e-mailowego.",
+      "feedback_questions": [
+        {
+          "question": "Jak zapytasz o czyjś wiek po polsku?",
+          "type": "short_answer",
+          "answer": [
+            "Ile masz lat?",
+            "Ile pan/pani ma lat?"
+          ]
+        },
+        {
+          "question": "Przetłumacz: 'My father is 50 years old' na polski.",
+          "type": "short_answer",
+          "answer": [
+            "Mój ojciec ma pięćdziesiąt lat."
+          ]
+        },
+        {
+          "question": "Napisz przykład zdania z biernikiem: 'I have a new car'.",
+          "type": "short_answer",
+          "answer": [
+            "Mam nowy samochód."
+          ]
+        },
+        {
+          "question": "Jak powiesz ‘our family’ po polsku w mianowniku?",
+          "type": "short_answer",
+          "answer": [
+            "nasza rodzina"
+          ]
+        },
+        {
+          "question": "Jak zapytasz o adres e-mailowy po polsku?",
+          "type": "short_answer",
+          "answer": [
+            "Jaki masz adres e-mailowy?",
+            "Jaki jest twój adres e-mailowy?"
+          ]
+        }
+      ],
+      "final_feedback": "Jeśli któreś elementy sprawiają ci trudność, wróć do wcześniejszych ćwiczeń. Powtórz liczebniki, wyrażenia z biernikiem i zaimki dzierżawcze, opisując swoją rodzinę i znajomych. Powodzenia w dalszej nauce!"
+    },
+    "next_lesson_placeholder": {
+      "lesson_5_intro": "In Lesson 5, we will learn how to talk about daily routines, telling time, and basic verb aspects in Polish...",
+      "lesson_6_intro": "In Lesson 6, we will explore shopping dialogues and learning vocabulary for common items..."
+    }
+  }
+  
