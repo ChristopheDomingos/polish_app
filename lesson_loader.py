@@ -3,10 +3,19 @@ import json
 import random
 import unicodedata
 
+def remove_comments(data):
+    """Recursively remove '_comment' fields from JSON data."""
+    if isinstance(data, dict):
+        return {key: remove_comments(value) for key, value in data.items() if not key.startswith("_comment")}
+    elif isinstance(data, list):
+        return [remove_comments(item) for item in data]
+    return data
+
 class LessonLoader:
     def __init__(self, lesson_file):
         with open(lesson_file, 'r', encoding='utf-8') as f:
-            self.data = json.load(f)
+            raw_data = json.load(f)
+            self.data = remove_comments(raw_data)  # Filter out comments
 
     def get_overview(self):
         return self.data.get("overview", {})
