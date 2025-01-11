@@ -1,0 +1,702 @@
+{
+    "lesson_id": "lesson_6",
+    "overview": {
+      "title": "Proszę rachunek – W kawiarni i restauracji",
+      "duration": "45 minutes",
+      "objectives": [
+        "Ask and answer questions about food and drink preferences (Co lubisz jeść i pić?)",
+        "Use and practice numbers 100–1000 in pricing (Ile kosztuje/kosztują...?)",
+        "Reinforce use of the accusative (biernik) with jeść, pić and related nouns/adjectives",
+        "Practice with prepositions ‘z’ + instrumental (e.g., z masłem, z mlekiem)",
+        "Learn how to order food and drinks politely and understand basic menus"
+      ],
+      "cultural_notes": [
+        "In Polish cafes and restaurants, it’s common to ask ‘Co dla pana/pani?’ (What would you like?) and respond with ‘Proszę + accusative form’ (e.g., Proszę kawę, Proszę zupę).",
+        "Typical breakfast foods include bread (chleb), cheese (ser), ham (szynka), and coffee or tea. Lunch (obiad) often features soup (zupa) and a main dish (drugie danie).",
+        "Preposition ‘z’ + instrumental indicates ‘with something’ (e.g., herbata z cytryną, kanapka z szynką).",
+        "Numbers 100–1000 can be tricky. Example forms: sto (100), dwieście (200), trzysta (300), czterysta (400), pięćset (500), sześćset (600), siedemset (700), osiemset (800), dziewięćset (900), tysiąc (1000).",
+        "Restaurants commonly list items in the format: 'zupa pomidorowa – 10 zł, kawa czarna – 7 zł'. Watch for correct forms of złotych / złote, groszy / grosze based on the final digit(s)."
+      ],
+      "difficulty": "beginner"
+    },
+    "grammar_insight": {
+      "explanation": "Lesson 6 covers ordering and paying in cafes and restaurants, with a focus on the verbs jeść (to eat) and pić (to drink) in the accusative, as well as forming plural nouns (e.g., pomidor – pomidory, jabłko – jabłka). We revisit how to describe what we eat or drink (Biernik: Co jem/piję?), plus the preposition ‘z’ + instrumental (z mlekiem, z masłem, z pomidorem). We also learn numbers 100–1000 (sto, dwieście, trzysta, etc.) for prices.",
+      "tables": [
+        {
+          "title": "Verbs jeść and pić in the Present Tense",
+          "headers": [
+            "Person",
+            "jeść + biernik",
+            "pić + biernik"
+          ],
+          "rows": [
+            [
+              "ja",
+              "jem",
+              "piję"
+            ],
+            [
+              "ty",
+              "jesz",
+              "pijesz"
+            ],
+            [
+              "on/ona/ono (pan/pani)",
+              "je",
+              "pije"
+            ],
+            [
+              "my",
+              "jemy",
+              "pijemy"
+            ],
+            [
+              "wy",
+              "jecie",
+              "pijecie"
+            ],
+            [
+              "oni/one (państwo)",
+              "jedzą",
+              "piją"
+            ]
+          ]
+        },
+        {
+          "title": "Accusative with Food/Drink",
+          "headers": [
+            "Verb",
+            "Example"
+          ],
+          "rows": [
+            [
+              "jeść + biernik",
+              "Jem chleb, jem zupę, jem kanapkę"
+            ],
+            [
+              "pić + biernik",
+              "Piję herbatę, piję kawę, piję wodę"
+            ],
+            [
+              "lubić + biernik",
+              "Lubię kawę, lubię frytki, lubię sok"
+            ]
+          ]
+        },
+        {
+          "title": "Preposition ‘z’ + Instrumental",
+          "headers": [
+            "Meaning",
+            "Examples"
+          ],
+          "rows": [
+            [
+              "‘with’ + [instrumental]",
+              "kanapka z szynką, herbata z cytryną, kawa z mlekiem"
+            ]
+          ]
+        },
+        {
+          "title": "Numbers 100–1000 (liczebniki)",
+          "headers": [
+            "Number",
+            "Polish"
+          ],
+          "rows": [
+            [
+              "100",
+              "sto"
+            ],
+            [
+              "200",
+              "dwieście"
+            ],
+            [
+              "300",
+              "trzysta"
+            ],
+            [
+              "400",
+              "czterysta"
+            ],
+            [
+              "500",
+              "pięćset"
+            ],
+            [
+              "600",
+              "sześćset"
+            ],
+            [
+              "700",
+              "siedemset"
+            ],
+            [
+              "800",
+              "osiemset"
+            ],
+            [
+              "900",
+              "dziewięćset"
+            ],
+            [
+              "1000",
+              "tysiąc"
+            ]
+          ]
+        }
+      ],
+      "audio_explanation": "Listen to dialogues that demonstrate how to order food, ask prices, and use correct forms of jeść and pić. Notice the difference between z (with) + instrumental and direct objects in the accusative.",
+      "audio_explanation_url": null
+    },
+    "vocabulary": [
+      {
+        "word": "chleb",
+        "translation": "bread",
+        "audio": "chleb",
+        "audio_url": null
+      },
+      {
+        "word": "bułka",
+        "translation": "roll / bun",
+        "audio": "bułka",
+        "audio_url": null
+      },
+      {
+        "word": "masło",
+        "translation": "butter",
+        "audio": "masło",
+        "audio_url": null
+      },
+      {
+        "word": "jajko",
+        "translation": "egg",
+        "audio": "jajko",
+        "audio_url": null
+      },
+      {
+        "word": "dżem",
+        "translation": "jam",
+        "audio": "dżem",
+        "audio_url": null
+      },
+      {
+        "word": "miód",
+        "translation": "honey",
+        "audio": "miód",
+        "audio_url": null
+      },
+      {
+        "word": "kiełbasa",
+        "translation": "sausage",
+        "audio": "kiełbasa",
+        "audio_url": null
+      },
+      {
+        "word": "sól",
+        "translation": "salt",
+        "audio": "sól",
+        "audio_url": null
+      },
+      {
+        "word": "pieprz",
+        "translation": "pepper",
+        "audio": "pieprz",
+        "audio_url": null
+      },
+      {
+        "word": "cukier",
+        "translation": "sugar",
+        "audio": "cukier",
+        "audio_url": null
+      },
+      {
+        "word": "mleko",
+        "translation": "milk",
+        "audio": "mleko",
+        "audio_url": null
+      },
+      {
+        "word": "ser (biały / żółty)",
+        "translation": "cheese (white / yellow)",
+        "audio": "ser",
+        "audio_url": null
+      },
+      {
+        "word": "szynka",
+        "translation": "ham",
+        "audio": "szynka",
+        "audio_url": null
+      },
+      {
+        "word": "kawa",
+        "translation": "coffee",
+        "audio": "kawa",
+        "audio_url": null
+      },
+      {
+        "word": "herbata",
+        "translation": "tea",
+        "audio": "herbata",
+        "audio_url": null
+      },
+      {
+        "word": "płatki śniadaniowe",
+        "translation": "cereal / breakfast flakes",
+        "audio": "płatki_śniadaniowe",
+        "audio_url": null
+      },
+      {
+        "word": "owoce",
+        "translation": "fruit (general)",
+        "audio": "owoce",
+        "audio_url": null
+      },
+      {
+        "word": "warzywa",
+        "translation": "vegetables (general)",
+        "audio": "warzywa",
+        "audio_url": null
+      },
+      {
+        "word": "zupa",
+        "translation": "soup",
+        "audio": "zupa",
+        "audio_url": null
+      },
+      {
+        "word": "kotlet",
+        "translation": "cutlet (e.g., pork chop)",
+        "audio": "kotlet",
+        "audio_url": null
+      },
+      {
+        "word": "kurczak",
+        "translation": "chicken",
+        "audio": "kurczak",
+        "audio_url": null
+      },
+      {
+        "word": "sałata",
+        "translation": "lettuce",
+        "audio": "sałata",
+        "audio_url": null
+      },
+      {
+        "word": "sałatka",
+        "translation": "salad",
+        "audio": "sałatka",
+        "audio_url": null
+      },
+      {
+        "word": "frytki",
+        "translation": "French fries",
+        "audio": "frytki",
+        "audio_url": null
+      },
+      {
+        "word": "woda (mineralna)",
+        "translation": "water (mineral)",
+        "audio": "woda",
+        "audio_url": null
+      },
+      {
+        "word": "sok (pomarańczowy / jabłkowy)",
+        "translation": "juice (orange / apple)",
+        "audio": "sok",
+        "audio_url": null
+      },
+      {
+        "word": "piwo",
+        "translation": "beer",
+        "audio": "piwo",
+        "audio_url": null
+      },
+      {
+        "word": "wino",
+        "translation": "wine",
+        "audio": "wino",
+        "audio_url": null
+      },
+      {
+        "word": "rachunek",
+        "translation": "bill / check",
+        "audio": "rachunek",
+        "audio_url": null
+      },
+      {
+        "word": "złoty / złote / złotych",
+        "translation": "Polish currency (zł)",
+        "audio": "złoty",
+        "audio_url": null
+      },
+      {
+        "word": "grosz / grosze / groszy",
+        "translation": "Polish currency subunit",
+        "audio": "grosz",
+        "audio_url": null
+      }
+    ],
+    "guided_practice": [
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Na śniadanie jem ____ (chleb, masło, pomidor).",
+        "answer": [
+          "chleb z masłem i pomidorem"
+        ],
+        "hint": "Use z + instrumental forms after each ingredient if desired."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which is correct for ‘I drink water with lemon’?",
+        "options": [
+          "Piję wodę z cytryna.",
+          "Piję wodę z cytryną.",
+          "Piję woda z cytrynę."
+        ],
+        "answer": [
+          "Piję wodę z cytryną."
+        ],
+        "hint": "Use 'z' + instrumental: cytryna → cytryną."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Czy jesz ____ (ryba) na obiad?",
+        "answer": [
+          "rybę"
+        ],
+        "hint": "Accusative singular of ‘ryba’ is ‘rybę.’"
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Ile ____ (kosztować) jabłka w Twoim kraju?",
+        "answer": [
+          "kosztują"
+        ],
+        "hint": "3rd person plural for 'they cost' = kosztują."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which form is correct for 'We eat pizza'?",
+        "options": [
+          "My jemy pizzę",
+          "My jeść pizza",
+          "My jemy pizza"
+        ],
+        "answer": [
+          "My jemy pizzę"
+        ],
+        "hint": "Accusative singular of ‘pizza’ → pizzę."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Lubię ___ (herbata) z ___ (cytryna).",
+        "answer": [
+          "herbatę z cytryną"
+        ],
+        "hint": "Accusative of herbata = herbatę, instrumental of cytryna = cytryną."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to Polish: ‘Excuse me, could I have the bill, please?’",
+        "answer": [
+          "Przepraszam, czy mogę prosić rachunek?"
+        ],
+        "hint": "Typical polite phrase in a restaurant."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to English: ‘I am ordering chicken with fries and salad.’",
+        "answer": [
+          "Zamawiam kurczaka z frytkami i sałatką."
+        ],
+        "hint": "Focus on 'z + instrumental' for with fries (z frytkami) and with salad (z sałatką)."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "____ (I pay) gotówką, nie kartą.",
+        "answer": [
+          "Płacę"
+        ],
+        "hint": "First person singular of płacić = płacę."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Chciał(a)bym ____ (kawa) z mlekiem.",
+        "answer": [
+          "kawę"
+        ],
+        "hint": "Accusative of 'kawa' → kawę."
+      }
+    ],
+    "writing_practice": [
+      {
+        "prompt": "Napisz krótki dialog w restauracji, gdzie poprosisz o stolik, zamówisz posiłek (zupa + drugie danie + napój), a na koniec poprosisz o rachunek.",
+        "expected_structure": [
+          "Czy jest wolny stolik...?",
+          "Poproszę (zamawiam) ... w bierniku",
+          "Poproszę rachunek."
+        ],
+        "hint": "Use correct forms for each food item in the accusative."
+      },
+      {
+        "prompt": "Opisz, co lubisz jeść na śniadanie, obiad i kolację, używając czasowników jeść, pić oraz przyimka 'z' + narzędnik (np. Jem jajecznicę z szynką).",
+        "expected_structure": [
+          "Na śniadanie jem... piję...",
+          "Na obiad jem... piję...",
+          "Na kolację jem... piję..."
+        ],
+        "hint": "Include at least one instance of ‘z + instrumental’ in each meal."
+      },
+      {
+        "prompt": "Napisz 3-4 zdania, w których podasz ceny różnych produktów (z liczebnikami 100–1000). Przykład: Mój nowy telefon kosztuje sześćset pięćdziesiąt złotych.",
+        "expected_structure": [
+          "Produkt + kosztować + [liczba w setkach] złotych",
+          "Przykład: Książka kosztuje dwieście dwadzieścia pięć złotych."
+        ],
+        "hint": "Practice writing out Polish numbers in the hundreds correctly."
+      },
+      {
+        "prompt": "Opisz przykładowe 'zdrowe menu' dla wegetarianina (lub innej opcji z lekcji: dziecko, osoba na diecie, itp.). Uwzględnij śniadanie, obiad, kolację i napoje.",
+        "expected_structure": [
+          "Na śniadanie: ...",
+          "Na obiad: ...",
+          "Na kolację: ...",
+          "Piję..."
+        ],
+        "hint": "Use vocabulary from the lesson and be mindful of the correct gender and number forms."
+      },
+      {
+        "prompt": "Napisz krótką reklamę swojej wymyślonej kawiarni lub restauracji, podaj adres, numer telefonu i przykładowe menu (z cenami).",
+        "expected_structure": [
+          "Nazwa kawiarni/restauracji",
+          "Adres: ul. ...",
+          "Telefon: ...",
+          "Menu item + price"
+        ],
+        "hint": "Include at least 3–4 menu items with correct noun/adjective forms and prices."
+      }
+    ],
+    "listening_and_speaking": [
+      {
+        "type": "dictation",
+        "sentence": "Listen and write: 'Dzień dobry, co dla pana? – Proszę kawę z mlekiem i sernik.'",
+        "audio": "co_dla_pana_audio",
+        "audio_url": null,
+        "answer": [
+          "Dzień dobry, co dla pana? – Proszę kawę z mlekiem i sernik."
+        ],
+        "hint": "Standard ordering phrase in a café: Proszę + accusative + z + instrumental."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz na głos: 'Na śniadanie jem chleb z masłem i jajko. Piję herbatę z cytryną.'",
+        "prompt": "Practice combining accusative (chleb, jajko) with z + instrumental (masłem, cytryną).",
+        "audio_url": null,
+        "reference_text": "Na śniadanie jem chleb z masłem i jajko. Piję herbatę z cytryną.",
+        "hint": "Check the correct forms for each item."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Posłuchaj i zapisz: 'Przepraszam, ile kosztuje pizza Margherita? – Dwadzieścia dwa złote i pięćdziesiąt groszy.'",
+        "audio": "ile_kosztuje_margherita",
+        "audio_url": null,
+        "answer": [
+          "Przepraszam, ile kosztuje pizza Margherita? – Dwadzieścia dwa złote i pięćdziesiąt groszy."
+        ],
+        "hint": "Focus on pronouncing Polish currency amounts."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: 'Poproszę zupę pomidorową z ryżem i wodę niegazowaną. Dziękuję.'",
+        "prompt": "Order politely, using 'Poproszę + accusative' and 'z + instrumental.'",
+        "audio_url": null,
+        "reference_text": "Poproszę zupę pomidorową z ryżem i wodę niegazowaną. Dziękuję.",
+        "hint": "Remember: 'z ryżem' (instrumental)."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen: 'Czy mogę prosić rachunek? Płacę kartą.'",
+        "audio": "czy_moge_prosic_rachunek",
+        "audio_url": null,
+        "answer": [
+          "Czy mogę prosić rachunek? Płacę kartą."
+        ],
+        "hint": "Standard phrases for asking for the bill and payment method."
+      }
+    ],
+    "real_life_dialogue": {
+      "dialogue": [
+        {
+          "speaker": "Kelner",
+          "text": "Dzień dobry, co dla pana?",
+          "translation": "Good day, what would you like, sir?"
+        },
+        {
+          "speaker": "Klient",
+          "text": "Poproszę kawę z mlekiem i ciasto czekoladowe.",
+          "translation": "I’d like a coffee with milk and chocolate cake."
+        },
+        {
+          "speaker": "Kelner",
+          "text": "Oczywiście. Czy coś jeszcze?",
+          "translation": "Of course. Anything else?"
+        },
+        {
+          "speaker": "Klient",
+          "text": "Nie, dziękuję. Ile to kosztuje?",
+          "translation": "No, thank you. How much is that?"
+        },
+        {
+          "speaker": "Kelner",
+          "text": "Dziewiętnaście złotych pięćdziesiąt groszy.",
+          "translation": "Nineteen zlotys and fifty groszy."
+        },
+        {
+          "speaker": "Klient",
+          "text": "Dobrze, płacę gotówką. Proszę rachunek.",
+          "translation": "Alright, I’ll pay in cash. The bill, please."
+        }
+      ],
+      "interactive_choices": [
+        {
+          "type": "multiple_choice",
+          "prompt": "How do you say ‘Anything else?’ in Polish?",
+          "options": [
+            "Czy coś innego?",
+            "Czy coś jeszcze?",
+            "Coś jeszcze?"
+          ],
+          "answer": [
+            "Czy coś jeszcze?"
+          ],
+          "hint": "Common phrase from the dialogue."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "If the price is 19,50 zł, how do you say it in Polish?",
+          "options": [
+            "Dziewiętnaście złotych pięćdziesiąt",
+            "Dziewiętnaście i pięćdziesiąt złotych",
+            "Dziewiętnaście złotych pięćdziesięć groszy"
+          ],
+          "answer": [
+            "Dziewiętnaście złotych pięćdziesiąt groszy"
+          ],
+          "hint": "Include ‘groszy’ for .50."
+        }
+      ]
+    },
+    "mini_quiz": [
+      {
+        "type": "multiple_choice",
+        "question": "How to say: ‘I’d like cutlet with fries, please’?",
+        "options": [
+          "Poproszę kotleta z frytki",
+          "Poproszę kotlet z frytki",
+          "Poproszę kotlet z frytkami"
+        ],
+        "answer": [
+          "Poproszę kotlet z frytkami"
+        ],
+        "hint": "Accusative: kotlet, plus ‘z + instrumental’ for frytki → frytkami."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which is correct for ‘We drink tea with lemon’?",
+        "options": [
+          "Pijemy herbatę z cytryna",
+          "Pijemy herbatę z cytryną",
+          "Pijemy herbatę cytryna"
+        ],
+        "answer": [
+          "Pijemy herbatę z cytryną"
+        ],
+        "hint": "Instrumental after ‘z’: cytryna → cytryną."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which is the correct form for 600 in Polish?",
+        "options": [
+          "sześćsto",
+          "sześćset",
+          "sześćdziesiąt"
+        ],
+        "answer": [
+          "sześćset"
+        ],
+        "hint": "Check the correct spelling for 600."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If I want to say ‘Here is 20 zł and keep the change’, I say:",
+        "options": [
+          "Proszę dwadzieścia złotych. Reszta dla pana/pani.",
+          "Daję dwadzieścia złotych, mam resztę.",
+          "Biorę dwadzieścia złotych, reszta dla pana/pani."
+        ],
+        "answer": [
+          "Proszę dwadzieścia złotych. Reszta dla pana/pani."
+        ],
+        "hint": "Common phrase to give a tip or let the server keep the change."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which best translates ‘Can I have the bill, please?’",
+        "options": [
+          "Czy pan ma rachunek?",
+          "Poproszę rachunek.",
+          "Czy to jest rachunek?"
+        ],
+        "answer": [
+          "Poproszę rachunek."
+        ],
+        "hint": "Polite formula: ‘Poproszę + accusative.’"
+      }
+    ],
+    "review_and_feedback": {
+      "summary": "Doskonale! Nauczyłeś się zamawiać jedzenie i napoje w kawiarni i restauracji, pytać o ceny i korzystać z liczebników 100–1000. Pamiętaj, aby stosować poprawne formy biernika i narzędnika (np. kawa z mlekiem, kotlet z ziemniakami) oraz odpowiednio wymawiać ceny w złotówkach i groszach.",
+      "feedback_questions": [
+        {
+          "question": "Jak powiedzieć ‘I eat bread with cheese’ po polsku (używając z + narzędnik)?",
+          "type": "short_answer",
+          "answer": [
+            "Jem chleb z serem."
+          ]
+        },
+        {
+          "question": "Przetłumacz: ‘I’d like tea with lemon, please.’ na polski.",
+          "type": "short_answer",
+          "answer": [
+            "Poproszę herbatę z cytryną."
+          ]
+        },
+        {
+          "question": "Jak zapytasz o cenę kilograma pomidorów w Polsce?",
+          "type": "short_answer",
+          "answer": [
+            "Ile kosztują pomidory?"
+          ]
+        },
+        {
+          "question": "Którego przyimka używamy, żeby powiedzieć ‘with butter’? (masło → ?)",
+          "type": "short_answer",
+          "answer": [
+            "z masłem"
+          ]
+        },
+        {
+          "question": "Jak powiedzieć ‘We are paying by card’?",
+          "type": "short_answer",
+          "answer": [
+            "Płacimy kartą."
+          ]
+        }
+      ],
+      "final_feedback": "Świetna robota! Teraz potrafisz zamówić jedzenie i zapytać o ceny w restauracji. Kontynuuj ćwiczenia, by utrwalić słownictwo i gramatykę z tej lekcji."
+    },
+    "next_lesson_placeholder": {
+      "lesson_7_intro": "In Lesson 7, we’ll learn how to talk about preferences, express polite requests, and delve into more complex sentence structures in Polish..."
+    }
+  }
+  
