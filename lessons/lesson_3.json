@@ -1,0 +1,597 @@
+{
+    "lesson_id": "lesson_3",
+    "overview": {
+      "title": "Kim jesteś? Narodowości, zawody i języki",
+      "duration": "45 minutes",
+      "objectives": [
+        "Introduce yourself or someone else by stating nationality, occupation, and spoken languages",
+        "Use the instrumental case (narzędnik) in both singular and plural forms (e.g., Jestem nauczycielem / Jesteśmy nauczycielami)",
+        "Conjugate verbs in the -ę, -isz / -ysz pattern (e.g., mówić, lubić, tańczyć, uczyć się)",
+        "Ask and answer the question 'Kim jesteś z zawodu?' and respond with 'Jestem ...'",
+        "Discuss basic interests and express them using the instrumental case (e.g., Interesuję się japońskimi filmami)"
+      ],
+      "cultural_notes": [
+        "When asked 'Kim jesteś?' or 'Kim pan/pani jest?', Poles often reply with 'Jestem + [instrumental]'. For example, 'Jestem Polakiem' (I am Polish), 'Jestem studentem' (I’m a student).",
+        "For occupations, you frequently hear 'Kim jesteś z zawodu?' or 'Czym się zajmujesz?'. The answer is typically in the instrumental case: 'Jestem nauczycielem / nauczycielką'.",
+        "Poles take pride in learning foreign languages. Common phrases: 'Mówię po polsku/angielsku/hiszpańsku' or 'Znam język polski/angielski/hiszpański'. 'Po' + [adjective form] is used for speaking languages (e.g., 'po polsku'), while 'język polski' is used after 'znam'.",
+        "The instrumental case is also used to talk about interests: 'Interesuję się muzyką', 'Pasjonuję się sportem'.",
+        "In formal introductions, you might say: 'Nazywam się Jan Kowalski, jestem Polakiem, jestem inżynierem'."
+      ],
+      "difficulty": "beginner"
+    },
+    "grammar_insight": {
+      "explanation": "Lesson 3 focuses on the instrumental case (narzędnik) to describe nationality, profession, and using 'Kim?' (Who?) / 'Czym?' (What?). In singular, masculine adjectives often end with -ym or -im (after k/g) and nouns with -em (e.g., nauczycielem, Polakiem), while feminine adjectives end with -ą and nouns with -ą (e.g., nauczycielką, Polką). Neuter forms also take -ym/-im for adjectives and -em/-iem for nouns (e.g., dzieckiem). In plural, we use -ymi/-imi for adjectives and -ami for most nouns (studentami, kobietami). We also learn the new -ę, -isz / -ysz verb pattern: mówię / mówisz, lubię / lubisz, tańczę / tańczysz, etc.",
+      "tables": [
+        {
+          "title": "Instrumental Case (Singular) Examples",
+          "headers": [
+            "Masculine",
+            "Feminine",
+            "Neuter"
+          ],
+          "rows": [
+            [
+              "Jestem Polakiem / nauczycielem (adjective: sympatycznym)",
+              "Jestem Polką / nauczycielką (adjective: sympatyczną)",
+              "Jestem dzieckiem (adjective: sympatycznym) / centrum (zainteresowaniem: centrum?)"
+            ]
+          ]
+        },
+        {
+          "title": "Instrumental Case (Plural) Examples",
+          "headers": [
+            "Masculine Personal",
+            "Feminine Personal",
+            "Neuter / Non-personal"
+          ],
+          "rows": [
+            [
+              "Jesteśmy Polakami / studentami (adjective: ambitnymi)",
+              "Jesteśmy Polkami / studentkami (adjective: ambitnymi)",
+              "Interesujemy się polskimi miastami / europejskimi filmami"
+            ]
+          ]
+        },
+        {
+          "title": "Conjugation Pattern: -ę, -isz / -ysz",
+          "headers": [
+            "Pronoun",
+            "mówić (to speak)",
+            "lubić (to like)",
+            "uczyć się (to learn)",
+            "tańczyć (to dance)"
+          ],
+          "rows": [
+            [
+              "ja",
+              "mówię",
+              "lubię",
+              "uczę się",
+              "tańczę"
+            ],
+            [
+              "ty",
+              "mówisz",
+              "lubisz",
+              "uczysz się",
+              "tańczysz"
+            ],
+            [
+              "on/ona/pan/pani",
+              "mówi",
+              "lubi",
+              "uczy się",
+              "tańczy"
+            ]
+          ]
+        }
+      ],
+      "audio_explanation": "Listen to examples of 'Kim jesteś?' followed by the correct use of the instrumental case. Also note how -ę, -isz / -ysz verbs are pronounced, e.g. mówię / mówisz.",
+      "audio_explanation_url": null
+    },
+    "vocabulary": [
+      {
+        "word": "Polak / Polka",
+        "translation": "Pole (masc. / fem.)",
+        "audio": "Polak_Polka",
+        "audio_url": null
+      },
+      {
+        "word": "Niemiec / Niemka",
+        "translation": "German (masc. / fem.)",
+        "audio": "Niemiec_Niemka",
+        "audio_url": null
+      },
+      {
+        "word": "Rosjanin / Rosjanka",
+        "translation": "Russian (masc. / fem.)",
+        "audio": "Rosjanin_Rosjanka",
+        "audio_url": null
+      },
+      {
+        "word": "Francuz / Francuzka",
+        "translation": "French (masc. / fem.)",
+        "audio": "Francuz_Francuzka",
+        "audio_url": null
+      },
+      {
+        "word": "Włoch / Włoszka",
+        "translation": "Italian (masc. / fem.)",
+        "audio": "Wloch_Wloszka",
+        "audio_url": null
+      },
+      {
+        "word": "Hiszpan / Hiszpanka",
+        "translation": "Spanish (masc. / fem.)",
+        "audio": "Hiszpan_Hiszpanka",
+        "audio_url": null
+      },
+      {
+        "word": "Anglik / Angielka",
+        "translation": "English (masc. / fem.)",
+        "audio": "Anglik_Angielka",
+        "audio_url": null
+      },
+      {
+        "word": "Amerykanin / Amerykanka",
+        "translation": "American (masc. / fem.)",
+        "audio": "Amerykanin_Amerykanka",
+        "audio_url": null
+      },
+      {
+        "word": "Japończyk / Japonka",
+        "translation": "Japanese (masc. / fem.)",
+        "audio": "Japonczyk_Japonka",
+        "audio_url": null
+      },
+      {
+        "word": "student / studentka",
+        "translation": "student (masc. / fem.)",
+        "audio": "student_studentka",
+        "audio_url": null
+      },
+      {
+        "word": "nauczyciel / nauczycielka",
+        "translation": "teacher (masc. / fem.)",
+        "audio": "nauczyciel_nauczycielka",
+        "audio_url": null
+      },
+      {
+        "word": "dentysta / dentystka",
+        "translation": "dentist (masc. / fem.)",
+        "audio": "dentysta_dentystka",
+        "audio_url": null
+      },
+      {
+        "word": "biznesmen / bizneswoman",
+        "translation": "businessman / businesswoman",
+        "audio": "biznesmen_bizneswoman",
+        "audio_url": null
+      },
+      {
+        "word": "rolnik / rolniczka",
+        "translation": "farmer (masc. / fem.)",
+        "audio": "rolnik_rolniczka",
+        "audio_url": null
+      },
+      {
+        "word": "bezrobotny / bezrobotna",
+        "translation": "unemployed (masc. / fem.)",
+        "audio": "bezrobotny_bezrobotna",
+        "audio_url": null
+      },
+      {
+        "word": "emeryt / emerytka",
+        "translation": "retired man / woman",
+        "audio": "emeryt_emerytka",
+        "audio_url": null
+      },
+      {
+        "word": "lekarz / lekarka",
+        "translation": "doctor (masc. / fem.)",
+        "audio": "lekarz_lekarka",
+        "audio_url": null
+      },
+      {
+        "word": "dziennikarz / dziennikarka",
+        "translation": "journalist (masc. / fem.)",
+        "audio": "dziennikarz_dziennikarka",
+        "audio_url": null
+      },
+      {
+        "word": "mówić (mówię, mówisz)",
+        "translation": "to speak",
+        "audio": "mowic",
+        "audio_url": null
+      },
+      {
+        "word": "lubić (lubię, lubisz)",
+        "translation": "to like",
+        "audio": "lubic",
+        "audio_url": null
+      },
+      {
+        "word": "tańczyć (tańczę, tańczysz)",
+        "translation": "to dance",
+        "audio": "tanczyc",
+        "audio_url": null
+      },
+      {
+        "word": "uczyć się (uczę się, uczysz się)",
+        "translation": "to learn / study",
+        "audio": "uczyc_sie",
+        "audio_url": null
+      }
+    ],
+    "guided_practice": [
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "– Kim jesteś z zawodu?\n– Jestem ________. (student – instrumental form)",
+        "answer": [
+          "studentem"
+        ],
+        "hint": "Use narzędnik singular for masculine."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "– Skąd jesteś?\n– Jestem z Włoch. Jestem ________. (Włoch – instrumental form)",
+        "answer": [
+          "Włochem"
+        ],
+        "hint": "Masculine nationality in instrumental."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Ania jest dentystką, a Kasia jest ________ (nauczycielka – instrumental).",
+        "answer": [
+          "nauczycielką"
+        ],
+        "hint": "Feminine job in instrumental."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "– Kim oni są?\n– Oni są ________ (ambitny studenci – instrumental plural).",
+        "answer": [
+          "ambitnymi studentami"
+        ],
+        "hint": "Plural adjective and noun in instrumental."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which is the correct instrumental form for 'Jestem + Polak'?",
+        "options": [
+          "Polakiem",
+          "Polaki",
+          "Polacy"
+        ],
+        "answer": [
+          "Polakiem"
+        ],
+        "hint": "Use '-em' for masculine noun in instrumental."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Conjugate ‘tańczyć’ (to dance) for 'ty': (You dance)",
+        "options": [
+          "tańczę",
+          "tańczysz",
+          "tańczy"
+        ],
+        "answer": [
+          "tańczysz"
+        ],
+        "hint": "Second person singular in the -ę, -isz pattern."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Czy (ty) ________ po polsku? (mówić)",
+        "answer": [
+          "mówisz"
+        ],
+        "hint": "2nd person singular in -ę, -isz pattern."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "(My) ________ się języka hiszpańskiego. (uczyć się)",
+        "answer": [
+          "uczmy",
+          "uczymy"
+        ],
+        "hint": "First person plural form of 'uczyć się' is 'uczymy się'."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to English: 'Oni są wysokimi mężczyznami.'",
+        "answer": [
+          "They are tall men."
+        ],
+        "hint": "Instrumental plural describing men."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to Polish: 'She is an interesting journalist.' (journalist = dziennikarka)",
+        "answer": [
+          "Ona jest interesującą dziennikarką."
+        ],
+        "hint": "Use feminine adjective + noun in instrumental."
+      }
+    ],
+    "writing_practice": [
+      {
+        "prompt": "Napisz zdania: 'Kim jesteś z zawodu? Jestem ... (instrumental). Jakim jesteś człowiekiem? Jestem ... (adjective in instrumental).'",
+        "expected_structure": [
+          "Jestem + zawód (instrumental)",
+          "Jestem + przymiotnik (instrumental)"
+        ],
+        "hint": "Use narzędnik singular to describe your profession and yourself."
+      },
+      {
+        "prompt": "Opisz dwie osoby (np. polskiego dentystę i niemiecką studentkę) używając narzędnika liczby pojedynczej (e.g., 'On jest polskim dentystą. Ona jest niemiecką studentką.').",
+        "expected_structure": [
+          "On jest polskim dentystą",
+          "Ona jest niemiecką studentką"
+        ],
+        "hint": "Focus on correct gender and adjective endings."
+      },
+      {
+        "prompt": "Napisz krótką notatkę o sobie: skąd jesteś, kim jesteś, jakim jesteś człowiekiem, jakie języki znasz. (minimum 3 zdania).",
+        "expected_structure": [
+          "Jestem z...",
+          "Jestem ... (zawód w narzędniku)",
+          "Mówię po... / Znam język...",
+          "Jestem (adjective) ..."
+        ],
+        "hint": "Incorporate nationality, profession, and personal traits."
+      },
+      {
+        "prompt": "Przećwicz formy -ę, -isz / -ysz: napisz 3 zdania z czasownikiem 'mówić', 'lubić', 'tańczyć' w różnych osobach (ja, ty, on/ona).",
+        "expected_structure": [
+          "Mówię / mówisz / mówi",
+          "Lubię / lubisz / lubi",
+          "Tańczę / tańczysz / tańczy"
+        ],
+        "hint": "Use the correct endings for each pronoun."
+      },
+      {
+        "prompt": "Napisz pytania (Kim on/ona jest? Skąd on/ona jest? Jakimi językami mówi?) i krótkie odpowiedzi w narzędniku i formach -ę, -isz / -ysz.",
+        "expected_structure": [
+          "Kim on jest? On jest...",
+          "Skąd ona jest? Ona jest z...",
+          "Mówi po..."
+        ],
+        "hint": "Combine new grammar with nationality and language forms."
+      }
+    ],
+    "listening_and_speaking": [
+      {
+        "type": "dictation",
+        "sentence": "Listen to the short conversation:\n'– Kim jesteś?\n– Jestem dziennikarką. A Ty?\n– Jestem informatykiem i mówię po polsku.'",
+        "audio": "Kim_jestes_conversation",
+        "audio_url": null,
+        "answer": [
+          "– Kim jesteś?\n– Jestem dziennikarką. A Ty?\n– Jestem informatykiem i mówię po polsku."
+        ],
+        "hint": "Focus on the instrumental forms dziennikarką, informatykiem."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz na głos: 'Jestem Polakiem / Polką. Mówię po polsku i po angielsku. Interesuję się muzyką.'",
+        "prompt": "Practice stating nationality, languages, and interests using the instrumental case.",
+        "audio_url": null,
+        "reference_text": "Jestem Polakiem / Polką. Mówię po polsku i po angielsku. Interesuję się muzyką.",
+        "hint": "Remember 'interesuję się + narzędnik' e.g., muzyką."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Posłuchaj i zapisz: 'Cześć, jestem z Niemiec. Jestem nauczycielem. Mówię po niemiecku i trochę po polsku.'",
+        "audio": "jestem_nauczycielem",
+        "audio_url": null,
+        "answer": [
+          "Cześć, jestem z Niemiec. Jestem nauczycielem. Mówię po niemiecku i trochę po polsku."
+        ],
+        "hint": "Note masculine job form in instrumental: nauczycielem."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: 'Oni są sympatycznymi kolegami. One są sympatycznymi koleżankami.'",
+        "prompt": "Practice plural instrumental forms with adjectives.",
+        "audio_url": null,
+        "reference_text": "Oni są sympatycznymi kolegami. One są sympatycznymi koleżankami.",
+        "hint": "Instrumental plural for masculine and feminine forms."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen: 'Mam problem z gramatyką. Uczę się polskiego, ale mówię słabo po polsku.'",
+        "audio": "Mam_problem_z_gramatyka",
+        "audio_url": null,
+        "answer": [
+          "Mam problem z gramatyką. Uczę się polskiego, ale mówię słabo po polsku."
+        ],
+        "hint": "Common phrases for talking about language difficulties."
+      }
+    ],
+    "real_life_dialogue": {
+      "dialogue": [
+        {
+          "speaker": "Viola",
+          "text": "Cześć, jestem z Hiszpanii. Teraz studiuję w Warszawie. Uczę się polskiego i mam problemy z gramatyką.",
+          "translation": "Hi, I’m from Spain. I’m currently studying in Warsaw. I’m learning Polish and having trouble with grammar."
+        },
+        {
+          "speaker": "Romek",
+          "text": "Hej, skąd jesteś dokładnie?",
+          "translation": "Hey, where are you from exactly?"
+        },
+        {
+          "speaker": "Viola",
+          "text": "Z Madrytu. Jestem Hiszpanką i mówię po hiszpańsku, po angielsku i trochę po polsku.",
+          "translation": "From Madrid. I’m Spanish, and I speak Spanish, English, and a bit of Polish."
+        },
+        {
+          "speaker": "Leszek",
+          "text": "Jaką jesteś studentką?",
+          "translation": "What kind of student are you?"
+        },
+        {
+          "speaker": "Viola",
+          "text": "Chyba ambitną, ale nie lubię gramatyki!",
+          "translation": "I guess an ambitious one, but I don’t like grammar!"
+        }
+      ],
+      "interactive_choices": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Viola mówi po:",
+          "options": [
+            "hiszpańsku, angielsku, polsku",
+            "hiszpańsku, francusku, polsku",
+            "rosyjsku, niemiecku, polsku"
+          ],
+          "answer": [
+            "hiszpańsku, angielsku, polsku"
+          ],
+          "hint": "She says 'Mówię po hiszpańsku, po angielsku i trochę po polsku.'"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Viola jest z:",
+          "options": [
+            "Włoch",
+            "Hiszpanii",
+            "Francji"
+          ],
+          "answer": [
+            "Hiszpanii"
+          ],
+          "hint": "She mentions 'Jestem z Hiszpanii.'"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Viola mówi, że jest:",
+          "options": [
+            "leniwą studentką",
+            "ambitną studentką",
+            "wesołą studentką"
+          ],
+          "answer": [
+            "ambitną studentką"
+          ],
+          "hint": "She uses 'Chyba ambitną, ale nie lubię gramatyki.'"
+        }
+      ]
+    },
+    "mini_quiz": [
+      {
+        "type": "multiple_choice",
+        "question": "Which is correct: 'Jestem nauczycielem' or 'Jestem nauczyciel' for 'I am a (male) teacher'?",
+        "options": [
+          "Jestem nauczycielem",
+          "Jestem nauczyciel"
+        ],
+        "answer": [
+          "Jestem nauczycielem"
+        ],
+        "hint": "Use the instrumental form for a profession."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How to say ‘I speak Polish’ in Polish?",
+        "options": [
+          "Mówię po polsku",
+          "Mówię polski",
+          "Znam po polsku"
+        ],
+        "answer": [
+          "Mówię po polsku"
+        ],
+        "hint": "When stating the language you speak, use ‘po + [adjective form]’ (e.g., po polsku)."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which verb is NOT in the -ę, -isz / -ysz pattern?",
+        "options": [
+          "mówić",
+          "lubić",
+          "być"
+        ],
+        "answer": [
+          "być"
+        ],
+        "hint": "‘Być’ is irregular (jestem, jesteś…)."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Complete the sentence: 'Oni interesują się…'",
+        "options": [
+          "język polski",
+          "językiem polskim",
+          "język polskiemu"
+        ],
+        "answer": [
+          "językiem polskim"
+        ],
+        "hint": "Use instrumental case after ‘interesować się’ (językiem polskim)."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which is the correct feminine form of 'Jestem Polakiem'?",
+        "options": [
+          "Jestem Polką",
+          "Jestem Polkom",
+          "Jestem Polkąm"
+        ],
+        "answer": [
+          "Jestem Polką"
+        ],
+        "hint": "Feminine instrumental form is Polką."
+      }
+    ],
+    "review_and_feedback": {
+      "summary": "Świetnie! Nauczyłeś się, jak przedstawić siebie i innych, używając narzędnika, jak mówić o narodowości i zawodzie (Jestem Polakiem, nauczycielem, studentką...), oraz jak odmieniać czasowniki w schemacie -ę, -isz / -ysz. Poznałeś też różne sposoby na wyrażenie swoich zainteresowań (Interesuję się... / Pasjonuję się...).",
+      "feedback_questions": [
+        {
+          "question": "Jak zapytasz o czyjś zawód używając narzędnika?",
+          "type": "short_answer",
+          "answer": [
+            "Kim jesteś z zawodu?",
+            "Kim pan/pani jest z zawodu?"
+          ]
+        },
+        {
+          "question": "Jak powiesz 'I am a Spanish student' (female) po polsku?",
+          "type": "short_answer",
+          "answer": [
+            "Jestem hiszpańską studentką."
+          ]
+        },
+        {
+          "question": "Podaj przykład czasownika w schemacie -ę, -isz / -ysz (np. mówić, lubić) w pierwszej i drugiej osobie liczby pojedynczej.",
+          "type": "short_answer",
+          "answer": [
+            "mówię, mówisz",
+            "lubię, lubisz"
+          ]
+        },
+        {
+          "question": "Jak powiesz: 'We are ambitious students' po polsku, używając narzędnika liczby mnogiej?",
+          "type": "short_answer",
+          "answer": [
+            "Jesteśmy ambitnymi studentami (studentkami)."
+          ]
+        },
+        {
+          "question": "Czym się interesujesz? Odpowiedz krótko po polsku z użyciem narzędnika.",
+          "type": "short_answer",
+          "answer": [
+            "Interesuję się muzyką / sportem / filmem."
+          ]
+        }
+      ],
+      "final_feedback": "Kontynuuj ćwiczenia, aby utrwalać narzędnik i czasowniki w schemacie -ę, -isz / -ysz. Staraj się wplatać nowe słownictwo o narodowościach, zawodach i zainteresowaniach w rozmowach. Powodzenia w dalszej nauce!"
+    },
+    "next_lesson_placeholder": {
+      "lesson_4_intro": "In Lesson 4, we will learn about basic prepositions and how to describe locations in Polish...",
+      "lesson_5_intro": "In Lesson 5, we will explore talking about daily routines, times of day, and verb aspects..."
+    }
+  }
+  

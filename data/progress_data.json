@@ -433,6 +433,13 @@
       "exercise_type": "vocabulary",
       "question": "viewed_vocab",
       "correct": true
+    },
+    {
+      "timestamp": "2025-01-11T13:24:55.165946",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
     }
   ]
 }

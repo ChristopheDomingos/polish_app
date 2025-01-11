@@ -24,7 +24,8 @@ class MainApp(QStackedWidget):
         # For now only two lesson
         self.lessons = {
             "Lesson 1": "lessons/lesson_1.json",
-            "Lesson 2": "lessons/lesson_2.json"
+            "Lesson 2": "lessons/lesson_2.json",
+            "Lesson 3": "lessons/lesson_3.json"
         }
 
         self.progress_tracker = ProgressTracker()
