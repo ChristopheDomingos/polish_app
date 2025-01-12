@@ -23,6 +23,7 @@ class MainApp(QStackedWidget):
 
         # For now only two lesson
         self.lessons = {
+            "lesson 0": "lessons/lesson_0.json",
             "Lesson 1": "lessons/lesson_1.json",
             "Lesson 2": "lessons/lesson_2.json",
             "Lesson 3": "lessons/lesson_3.json",

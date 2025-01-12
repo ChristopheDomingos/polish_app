@@ -1,0 +1,377 @@
+{
+    "lesson_id": "lesson_0",
+    "overview": {
+      "title": "Pierwszy kontakt – Wymowa i Podstawowe Zwroty",
+      "duration": "30 minutes",
+      "objectives": [
+        "Familiarize yourself with Polish sounds (samogłoski, spółgłoski) and accent rules",
+        "Practice reading and pronouncing basic Polish words",
+        "Learn common expressions for greetings, apologies, and polite requests (e.g., „Dziękuję”, „Przepraszam”, „Proszę”)",
+        "Identify fundamental grammatical terms in Polish (rzeczownik, czasownik, przymiotnik, itd.)"
+      ],
+      "cultural_notes": [
+        "Polish accent usually falls on the penultimate (second-to-last) syllable, e.g., „Warszawa” → War-SZA-wa.",
+        "Some sounds may be challenging (e.g., ś, ć, ź, ż, dź, dż). Remember that ch = h, ó = u, rz = ż in terms of pronunciation.",
+        "Basic courtesy phrases in Polish: „Dzień dobry” (Good day), „Do widzenia” (Goodbye), „Cześć” (Hi), „Proszę” (Please / Here you are), „Przepraszam” (I’m sorry / Excuse me)."
+      ],
+      "difficulty": "beginner"
+    },
+    "grammar_insight": {
+      "explanation": "Lesson 0 introduces the Polish alphabet’s key sounds, accent patterns (stress on the penultimate syllable), and fundamental courtesy expressions. You’ll see basic grammatical terms in Polish (e.g., rzeczownik for noun, czasownik for verb) and learn simple greetings in formal/informal contexts.",
+      "tables": [
+        {
+          "title": "Polish Vowels (Samogłoski)",
+          "headers": ["Letter", "Pronunciation Hint"],
+          "rows": [
+            ["a", "like 'ah' in 'father'"],
+            ["e", "like 'e' in 'let'"],
+            ["i", "like 'ee' in 'see'"],
+            ["y", "like the 'i' in 'bit' (but more central)"],
+            ["ę", "like 'en' or 'em' (nasal)"],
+            ["ą", "like 'on' or 'om' (nasal)"],
+            ["o", "like 'o' in 'more' (British accent)"],
+            ["u / ó", "both pronounced like 'oo' in 'food'"]
+          ]
+        },
+        {
+          "title": "Polish Consonants (Spółgłoski) – Selected",
+          "headers": ["Letter", "Pronunciation Hint"],
+          "rows": [
+            ["ś / si", "soft 'sh' sound (palatal)"],
+            ["ć / ci", "soft 'ch' sound (palatal)"],
+            ["ź / zi", "soft 'zh' sound (palatal)"],
+            ["ż / rz", "like 'zh' in 'vision'"],
+            ["dź / dzi", "soft 'j' (palatal)"],
+            ["dż", "like 'j' in 'jump'"],
+            ["sz", "like 'sh' in 'ship'"],
+            ["ch / h", "like a throaty 'h'"],
+            ["ł", "like 'w' in 'water'"],
+            ["ń / ni", "soft 'n' (palatal)"]
+          ]
+        },
+        {
+          "title": "Basic Grammar Terms in Polish",
+          "headers": ["Latin", "Polish"],
+          "rows": [
+            ["vocalis", "samogłoska"],
+            ["consonantis", "spółgłoska"],
+            ["singularis", "liczba pojedyncza"],
+            ["pluralis", "liczba mnoga"],
+            ["masculinum", "rodzaj męski"],
+            ["femininum", "rodzaj żeński"],
+            ["neutrum", "rodzaj nijaki"],
+            ["verbum", "czasownik"],
+            ["infinitivus", "bezokolicznik"],
+            ["substantivum", "rzeczownik"],
+            ["adiectivum", "przymiotnik"],
+            ["adverbium", "przysłówek"],
+            ["pronomen", "zaimek"],
+            ["praepositio", "przyimek"],
+            ["numerale", "liczebnik"]
+          ]
+        }
+      ],
+      "audio_explanation": "Listen to your teacher pronouncing Polish vowels, consonants, and common phrases. Practice repeating them to master the Polish accent.",
+      "audio_explanation_url": null
+    },
+    "vocabulary": [
+      { "word": "Dzień dobry",   "translation": "Good day (formal)",   "audio": "Dzień dobry",   "audio_url": null },
+      { "word": "Do widzenia",   "translation": "Goodbye (formal)",   "audio": "Do widzenia",   "audio_url": null },
+      { "word": "Cześć",         "translation": "Hi/Bye (informal)",  "audio": "Cześć",         "audio_url": null },
+      { "word": "Proszę",        "translation": "Please / Here you are", "audio": "Proszę",     "audio_url": null },
+      { "word": "Dziękuję",      "translation": "Thank you",          "audio": "Dziękuję",      "audio_url": null },
+      { "word": "Przepraszam",   "translation": "Excuse me / I’m sorry", "audio": "Przepraszam", "audio_url": null },
+      { "word": "Nie rozumiem",  "translation": "I don’t understand",  "audio": "Nie rozumiem",  "audio_url": null },
+      { "word": "Nie wiem",      "translation": "I don’t know",        "audio": "Nie wiem",      "audio_url": null },
+      { "word": "Proszę powtórzyć", "translation": "Please repeat",   "audio": "Proszę powtórzyć", "audio_url": null },
+      { "word": "Proszę mówić wolniej", "translation": "Please speak more slowly", "audio": "Proszę mówić wolniej", "audio_url": null },
+      { "word": "Jak jest po polsku...?", "translation": "How do you say ... in Polish?", "audio": "Jak jest po polsku", "audio_url": null },
+      { "word": "Co to znaczy...?",  "translation": "What does it mean...?", "audio": "Co to znaczy", "audio_url": null },
+      { "word": "Mam pytanie",   "translation": "I have a question",   "audio": "Mam pytanie",   "audio_url": null },
+      { "word": "Tak / Nie",     "translation": "Yes / No",            "audio": "Tak / Nie",     "audio_url": null }
+    ],
+    "guided_practice": [
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Proszę ________ (powtórzyć / powtarzać) jeszcze raz!",
+        "answer": ["powtórzyć"],
+        "hint": "Imperative with ‘proszę’ often uses the infinitive: Proszę powtórzyć."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Jak jest po polsku ‘Excuse me’? – Po polsku to ‘________’.",
+        "answer": ["Przepraszam"],
+        "hint": "Common polite phrase in Polish."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "What does ‘Nie rozumiem’ mean?",
+        "options": ["I don’t know", "I don’t understand", "I’m sorry"],
+        "answer": ["I don’t understand"],
+        "hint": "Literal meaning: 'I don’t understand.'"
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which phrase means 'Please speak more slowly'?",
+        "options": ["Proszę mówić głośniej", "Proszę mówić wolniej", "Proszę napisać"],
+        "answer": ["Proszę mówić wolniej"],
+        "hint": "Focus on 'wolniej' = more slowly."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to English: ‘Jak jest po polsku “thank you”?’",
+        "answer": ["How do you say 'thank you' in Polish?"],
+        "hint": "Common structure for asking how to say something in Polish."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Proszę _________ (mówić / mówi) wolniej.",
+        "answer": ["mówić"],
+        "hint": "Use the infinitive after 'proszę' for polite requests."
+      }
+    ],
+    "writing_practice": [
+      {
+        "prompt": "Napisz 3 zdania, w których użyjesz wyrażeń: ‘Proszę powtórzyć’, ‘Przepraszam’, ‘Nie rozumiem’.",
+        "expected_structure": [
+          "Proszę powtórzyć",
+          "Przepraszam",
+          "Nie rozumiem"
+        ],
+        "hint": "Include basic courtesy/learning phrases from Lesson 0."
+      },
+      {
+        "prompt": "Wypisz 5 trudnych słów z wymowy polskiej (np. dziękuję, przepraszam) i zaznacz, gdzie akcent pada na przedostatnią sylabę.",
+        "expected_structure": [
+          "Trudne słowo + akcent na penultimate syllable"
+        ],
+        "hint": "Focus on accenting the correct syllable."
+      },
+      {
+        "prompt": "Zapisz zdanie, w którym prosisz kolegę/koleżankę, aby mówił/mówiła wolniej i powtórzył/powtórzyła słowo, którego nie rozumiesz.",
+        "expected_structure": [
+          "Proszę mówić wolniej.",
+          "Proszę powtórzyć słowo ... ."
+        ],
+        "hint": "Practice polite requests."
+      },
+      {
+        "prompt": "Napisz krótki dialog, w którym witacie się (raz formalnie, raz nieoficjalnie) i żegnacie (raz formalnie, raz nieoficjalnie).",
+        "expected_structure": [
+          "Dzień dobry / Do widzenia (formal)",
+          "Cześć / Pa (informal)"
+        ],
+        "hint": "Combine both styles in one short exchange."
+      },
+      {
+        "prompt": "Napisz 2 zdania z wyrażeniem ‘Jak jest po polsku…?’ i 2 zdania z wyrażeniem ‘Co to znaczy…?’ (np. ‘Jak jest po polsku “phone”?’).",
+        "expected_structure": [
+          "Jak jest po polsku '...?'",
+          "Co to znaczy '...?'"
+        ],
+        "hint": "Practice these learning phrases in writing."
+      }
+    ],
+    "listening_and_speaking": [
+      {
+        "type": "dictation",
+        "sentence": "Listen and write: ‘Proszę powtórzyć. Nie rozumiem tego słowa.’",
+        "audio": "proszę_powtórzyć_audio",
+        "audio_url": null,
+        "answer": [
+          "Proszę powtórzyć. Nie rozumiem tego słowa."
+        ],
+        "hint": "Practice basic requests and expressions of not understanding."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz na głos: ‘Dzień dobry. Jak się pan/pani nazywa?’",
+        "prompt": "Practice a formal greeting and question for someone’s name.",
+        "audio_url": null,
+        "reference_text": "Dzień dobry. Jak się pan/pani nazywa?",
+        "hint": "Formal style."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen: ‘Cześć, mam pytanie. Co to znaczy “proszę”?’",
+        "audio": "co_to_znaczy_proszę_audio",
+        "audio_url": null,
+        "answer": [
+          "Cześć, mam pytanie. Co to znaczy “proszę”?"
+        ],
+        "hint": "Asking about the meaning of a word."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: ‘Przepraszam, gdzie jest toaleta? Dziękuję.’",
+        "prompt": "Practice polite requests for location and courtesy expressions.",
+        "audio_url": null,
+        "reference_text": "Przepraszam, gdzie jest toaleta? Dziękuję.",
+        "hint": "Remember accenting the penultimate syllable in each word."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen and write: ‘Proszę napisać to słowo na tablicy.’",
+        "audio": "proszę_napisać_to_słowo_audio",
+        "audio_url": null,
+        "answer": [
+          "Proszę napisać to słowo na tablicy."
+        ],
+        "hint": "Useful command in class context."
+      }
+    ],
+    "real_life_dialogue": {
+      "dialogue": [
+        {
+          "speaker": "A",
+          "text": "Cześć, jak jest po polsku 'hello'?",
+          "translation": "Hi, how do you say 'hello' in Polish?"
+        },
+        {
+          "speaker": "B",
+          "text": "Po polsku to 'cześć'.",
+          "translation": "In Polish, it's 'cześć'."
+        },
+        {
+          "speaker": "A",
+          "text": "Aha, dziękuję. Nie rozumiem tego innego słowa: 'przepraszam'. Co to znaczy?",
+          "translation": "Ah, thank you. I don’t understand this other word: 'przepraszam'. What does it mean?"
+        },
+        {
+          "speaker": "B",
+          "text": "To znaczy 'excuse me' albo 'I’m sorry'.",
+          "translation": "It means 'excuse me' or 'I’m sorry'."
+        },
+        {
+          "speaker": "A",
+          "text": "Super, proszę powtórzyć jeszcze raz: prze-pr-a-szam.",
+          "translation": "Great, please repeat it one more time: prze-pr-a-szam."
+        }
+      ],
+      "interactive_choices": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Which is a polite way to say ‘thank you’ in Polish?",
+          "options": ["Dziękuję", "Przepraszam", "Do widzenia"],
+          "answer": ["Dziękuję"],
+          "hint": "Common courtesy phrase."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "If you want someone to repeat a word, you say:",
+          "options": ["Proszę napisać", "Proszę powtórzyć", "Proszę mówić wolniej"],
+          "answer": ["Proszę powtórzyć"],
+          "hint": "Asking for repetition."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "How do you say ‘I’m sorry / excuse me’ in Polish?",
+          "options": ["Przepraszam", "Dziękuję", "Proszę"],
+          "answer": ["Przepraszam"],
+          "hint": "We learned this as a fundamental phrase."
+        }
+      ]
+    },
+    "mini_quiz": [
+      {
+        "type": "multiple_choice",
+        "question": "Where does the accent in Polish usually fall?",
+        "options": [
+          "The first syllable",
+          "The penultimate syllable",
+          "The last syllable"
+        ],
+        "answer": [
+          "The penultimate syllable"
+        ],
+        "hint": "Most Polish words have a stress on the second-to-last syllable."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which pair shares the same sound in Polish?",
+        "options": [
+          "ó = u",
+          "rz = s",
+          "ch = k"
+        ],
+        "answer": [
+          "ó = u"
+        ],
+        "hint": "ó and u are pronounced the same in Polish."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "‘Jak jest po polsku “please”?’ is answered with:",
+        "options": [
+          "‘Dziękuję’",
+          "‘Przepraszam’",
+          "‘Proszę’"
+        ],
+        "answer": [
+          "‘Proszę’"
+        ],
+        "hint": "‘Please’ in Polish is ‘Proszę.’"
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What does ‘Nie wiem’ mean?",
+        "options": [
+          "I don’t know",
+          "I don’t understand",
+          "I don’t remember"
+        ],
+        "answer": [
+          "I don’t know"
+        ],
+        "hint": "Literal meaning of 'Nie wiem.'"
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which phrase means ‘Please write (it) down’?",
+        "options": [
+          "Proszę mówić wolniej",
+          "Proszę powtórzyć",
+          "Proszę napisać"
+        ],
+        "answer": [
+          "Proszę napisać"
+        ],
+        "hint": "Used to ask someone to write something."
+      }
+    ],
+    "review_and_feedback": {
+      "summary": "Gratulacje! Poznałeś polskie dźwięki, akcentowanie, oraz podstawowe wyrażenia przydatne przy pierwszym kontakcie w języku polskim. Ćwicz często, powtarzaj słowa na głos i słuchaj wymowy native speakerów, aby udoskonalić akcent i rozumienie.",
+      "feedback_questions": [
+        {
+          "question": "Jak zapytasz kolegę ‘What does it mean?’ po polsku?",
+          "type": "short_answer",
+          "answer": ["Co to znaczy?"]
+        },
+        {
+          "question": "Którego wyrażenia używamy w znaczeniu ‘Please repeat’?",
+          "type": "short_answer",
+          "answer": ["Proszę powtórzyć"]
+        },
+        {
+          "question": "Co znaczy ‘Przepraszam’?",
+          "type": "short_answer",
+          "answer": ["Excuse me / I’m sorry"]
+        },
+        {
+          "question": "Gdzie pada akcent w polskich słowach?",
+          "type": "short_answer",
+          "answer": ["Na przedostatnią sylabę"]
+        },
+        {
+          "question": "Jak zapytać 'How do you say … in Polish?'?",
+          "type": "short_answer",
+          "answer": ["Jak jest po polsku ‘…’?"]
+        }
+      ],
+      "final_feedback": "Brawo! Masz już fundament wymowy polskiej i podstawowych zwrotów. W kolejnym etapie zaczniesz budować proste zdania i rozwijać słownictwo. Pamiętaj o ćwiczeniu akcentu na przedostatnią sylabę i systematycznej powtórce."
+    },
+    "next_lesson_placeholder": {
+      "lesson_1_intro": "In Lesson 1, we will learn how to introduce ourselves formally and informally (Jak masz na imię? / Jak się nazywasz?), ask and answer ‘How are you?’ (Jak się masz?), and talk about personal pronouns."
+    }
+  }
+  
