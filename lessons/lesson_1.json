@@ -326,7 +326,7 @@
     },
     {
       "type": "fill_in_the_blank",
-      "sentence": "– Dzień dobry. Jak się _______ pan nazywa?\n– Nazywam się Kowalski.",
+      "sentence": "– Dzień dobry. Jak się _______ nazywa?\n– Nazywam się Kowalski.",
       "answer": [
         "pan"
       ],
