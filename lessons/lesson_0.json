@@ -93,131 +93,271 @@
     "guided_practice": [
       {
         "type": "fill_in_the_blank",
-        "sentence": "Proszę ________ (powtórzyć / powtarzać) jeszcze raz!",
-        "answer": ["powtórzyć"],
-        "hint": "Imperative with ‘proszę’ often uses the infinitive: Proszę powtórzyć."
+        "sentence": "Przepraszam, jak ________ (powiedzieć / mówić) to po polsku? (Excuse me, how do you say this in Polish?)",
+        "answer": ["powiedzieć"],
+        "hint": "Use the infinitive to ask how to say something."
       },
       {
         "type": "fill_in_the_blank",
-        "sentence": "Jak jest po polsku ‘Excuse me’? – Po polsku to ‘________’.",
+        "sentence": "Proszę ________ (napisać / napiszę) swoje imię tutaj. (Please write your name here.)",
+        "answer": ["napisać"],
+        "hint": "Polite requests with 'proszę' use the infinitive."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Jak się ________ (nazywasz / nazywa) pan? (What is your name, sir?)",
+        "answer": ["nazywa"],
+        "hint": "Use the formal form when addressing a man politely."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Czy może pan ________ (powtórzyć / powtarza) pytanie? (Could you repeat the question?)",
+        "answer": ["powtórzyć"],
+        "hint": "Requests often use the infinitive."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Proszę ________ (przeczytać / czytać) to zdanie na głos. (Please read this sentence out loud.)",
+        "answer": ["przeczytać"],
+        "hint": "Use the infinitive form for polite requests."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "What does ‘Jak się nazywasz?’ mean?",
+        "options": ["What is your name?", "Where are you from?", "How are you?"],
+        "answer": ["What is your name?"],
+        "hint": "Focus on 'nazywasz' = your name."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which phrase means ‘Excuse me’?",
+        "options": ["Przepraszam", "Dzień dobry", "Proszę"],
         "answer": ["Przepraszam"],
-        "hint": "Common polite phrase in Polish."
+        "hint": "'Przepraszam' is used for 'excuse me' and 'sorry'."
       },
       {
         "type": "multiple_choice",
-        "sentence": "What does ‘Nie rozumiem’ mean?",
-        "options": ["I don’t know", "I don’t understand", "I’m sorry"],
-        "answer": ["I don’t understand"],
-        "hint": "Literal meaning: 'I don’t understand.'"
+        "sentence": "How do you say ‘Thank you’ in Polish?",
+        "options": ["Proszę", "Dziękuję", "Przepraszam"],
+        "answer": ["Dziękuję"],
+        "hint": "'Dziękuję' means 'thank you'."
       },
       {
         "type": "multiple_choice",
-        "sentence": "Which phrase means 'Please speak more slowly'?",
-        "options": ["Proszę mówić głośniej", "Proszę mówić wolniej", "Proszę napisać"],
-        "answer": ["Proszę mówić wolniej"],
-        "hint": "Focus on 'wolniej' = more slowly."
+        "sentence": "What does 'Dzień dobry' mean?",
+        "options": ["Good day", "Goodbye", "Hello"],
+        "answer": ["Good day"],
+        "hint": "It's a polite greeting used during the day."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which phrase means ‘Please repeat’?",
+        "options": ["Proszę mówić wolniej", "Proszę powtórzyć", "Proszę napisać"],
+        "answer": ["Proszę powtórzyć"],
+        "hint": "Focus on 'powtórzyć' = to repeat."
       },
       {
         "type": "translate",
-        "sentence": "Translate to English: ‘Jak jest po polsku “thank you”?’",
-        "answer": ["How do you say 'thank you' in Polish?"],
-        "hint": "Common structure for asking how to say something in Polish."
+        "sentence": "Translate to English: ‘Jak masz na imię?’",
+        "answer": ["What is your name?"],
+        "hint": "Informal way of asking someone's name."
       },
       {
-        "type": "fill_in_the_blank",
-        "sentence": "Proszę _________ (mówić / mówi) wolniej.",
-        "answer": ["mówić"],
-        "hint": "Use the infinitive after 'proszę' for polite requests."
+        "type": "translate",
+        "sentence": "Translate to Polish: ‘I don’t understand.’",
+        "answer": ["Nie rozumiem"],
+        "hint": "Common phrase to express lack of understanding."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to English: ‘Proszę mówić wolniej.’",
+        "answer": ["Please speak slower."],
+        "hint": "Use 'wolniej' = more slowly."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to Polish: ‘Thank you very much.’",
+        "answer": ["Bardzo dziękuję"],
+        "hint": "Combine 'bardzo' (very) with 'dziękuję'."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to English: ‘Proszę powtórzyć pytanie.’",
+        "answer": ["Please repeat the question."],
+        "hint": "Use 'powtórzyć' for repeating."
       }
     ],
     "writing_practice": [
       {
-        "prompt": "Napisz 3 zdania, w których użyjesz wyrażeń: ‘Proszę powtórzyć’, ‘Przepraszam’, ‘Nie rozumiem’.",
+        "prompt": "Napisz 3 zdania z użyciem słów: ‘Proszę’, ‘Przepraszam’, ‘Dziękuję’. (Write 3 sentences using the words: ‘Please’, ‘Excuse me’, ‘Thank you’.)",
         "expected_structure": [
-          "Proszę powtórzyć",
-          "Przepraszam",
-          "Nie rozumiem"
+          "proszę",
+          "przepraszam",
+          "dziękuję"
         ],
-        "hint": "Include basic courtesy/learning phrases from Lesson 0."
+        "hint": "Write short, simple sentences like: 'Proszę powtórzyć.'"
       },
       {
-        "prompt": "Wypisz 5 trudnych słów z wymowy polskiej (np. dziękuję, przepraszam) i zaznacz, gdzie akcent pada na przedostatnią sylabę.",
+        "prompt": "Wypisz 5 słów, których nauczyłeś/nauczyłaś się dzisiaj (np. dziękuję, przepraszam). (Write 5 words you learned today, e.g., ‘thank you’, ‘excuse me’.)",
         "expected_structure": [
-          "Trudne słowo + akcent na penultimate syllable"
+          "dziękuję",
+          "przepraszam",
+          "cześć",
+          "nie rozumiem",
+          "proszę"
         ],
-        "hint": "Focus on accenting the correct syllable."
+        "hint": "Choose words from the lesson that are easy to remember and practice."
       },
       {
-        "prompt": "Zapisz zdanie, w którym prosisz kolegę/koleżankę, aby mówił/mówiła wolniej i powtórzył/powtórzyła słowo, którego nie rozumiesz.",
+        "prompt": "Napisz zdanie, w którym pytasz, jak powiedzieć coś po polsku. (Write a sentence asking how to say something in Polish.)",
         "expected_structure": [
-          "Proszę mówić wolniej.",
-          "Proszę powtórzyć słowo ... ."
+          "jak powiedzieć"
         ],
-        "hint": "Practice polite requests."
+        "hint": "Use the phrase 'Jak powiedzieć ...?' for asking about Polish words."
       },
       {
-        "prompt": "Napisz krótki dialog, w którym witacie się (raz formalnie, raz nieoficjalnie) i żegnacie (raz formalnie, raz nieoficjalnie).",
+        "prompt": "Napisz zdanie, w którym przepraszasz za błąd. (Write a sentence apologizing for a mistake.)",
         "expected_structure": [
-          "Dzień dobry / Do widzenia (formal)",
-          "Cześć / Pa (informal)"
+          "przepraszam za błąd"
         ],
-        "hint": "Combine both styles in one short exchange."
+        "hint": "Use the phrase 'Przepraszam za błąd.' to apologize."
       },
       {
-        "prompt": "Napisz 2 zdania z wyrażeniem ‘Jak jest po polsku…?’ i 2 zdania z wyrażeniem ‘Co to znaczy…?’ (np. ‘Jak jest po polsku “phone”?’).",
+        "prompt": "Napisz krótki dialog, w którym witacie się (np. Cześć, Dzień dobry). (Write a short dialogue where you greet each other, e.g., Hello, Good morning.)",
         "expected_structure": [
-          "Jak jest po polsku '...?'",
-          "Co to znaczy '...?'"
+          "dzień dobry",
+          "cześć"
         ],
-        "hint": "Practice these learning phrases in writing."
+        "hint": "Write very simple greetings, one informal and one formal."
+      },
+      {
+        "prompt": "Napisz zdanie, w którym prosisz kogoś, aby mówił wolniej. (Write a sentence asking someone to speak more slowly.)",
+        "expected_structure": [
+          "proszę mówić wolniej"
+        ],
+        "hint": "Use the phrase 'Proszę mówić wolniej.' from the lesson."
+      },
+      {
+        "prompt": "Napisz zdanie, w którym prosisz kogoś o powtórzenie. (Write a sentence asking someone to repeat something.)",
+        "expected_structure": [
+          "proszę powtórzyć"
+        ],
+        "hint": "Use 'Proszę powtórzyć.' to ask politely for repetition."
+      },
+      {
+        "prompt": "Wypisz 3 słowa związane z lekcją 0 (np. słowa z rozmowy: ‘Dzień dobry’, ‘Cześć’). (Write 3 words related to Lesson 0, e.g., words from the conversation: ‘Good morning’, ‘Hello’.)",
+        "expected_structure": [
+          "dzień dobry",
+          "cześć",
+          "proszę"
+        ],
+        "hint": "Pick any words you remember from Lesson 0."
+      },
+      {
+        "prompt": "Napisz zdanie, w którym mówisz, że czegoś nie rozumiesz. (Write a sentence saying that you don’t understand something.)",
+        "expected_structure": [
+          "nie rozumiem"
+        ],
+        "hint": "Use the phrase 'Nie rozumiem.' to say 'I don’t understand.'"
+      },
+      {
+        "prompt": "Napisz pytanie, jak zapytać nauczyciela o znaczenie słowa. (Write a question asking the teacher for the meaning of a word.)",
+        "expected_structure": [
+          "co to znaczy"
+        ],
+        "hint": "Use 'Co to znaczy ...?' to ask for a meaning."
       }
     ],
     "listening_and_speaking": [
       {
         "type": "dictation",
-        "sentence": "Listen and write: ‘Proszę powtórzyć. Nie rozumiem tego słowa.’",
-        "audio": "proszę_powtórzyć_audio",
+        "sentence": "Listen and write: ‘Przepraszam, jak powiedzieć to po polsku?’ (Excuse me, how do you say this in Polish?)",
+        "audio": "jak_powiedzieć_audio",
         "audio_url": null,
         "answer": [
-          "Proszę powtórzyć. Nie rozumiem tego słowa."
+          "Przepraszam, jak powiedzieć to po polsku?"
         ],
-        "hint": "Practice basic requests and expressions of not understanding."
+        "hint": "Practice asking how to say something in Polish."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen and write: ‘Nie rozumiem. Proszę mówić wolniej.’ (I don’t understand. Please speak more slowly.)",
+        "audio": "nie_rozumiem_audio",
+        "audio_url": null,
+        "answer": [
+          "Nie rozumiem. Proszę mówić wolniej."
+        ],
+        "hint": "Basic phrase for not understanding and asking to speak more slowly."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen and write: ‘Jak się nazywasz? Skąd jesteś?’ (What is your name? Where are you from?)",
+        "audio": "jak_się_nazywasz_audio",
+        "audio_url": null,
+        "answer": [
+          "Jak się nazywasz? Skąd jesteś?"
+        ],
+        "hint": "Practice informal questions about someone's name and origin."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen and write: ‘Proszę powtórzyć ostatnie zdanie.’ (Please repeat the last sentence.)",
+        "audio": "proszę_powtórzyć_ostatnie_audio",
+        "audio_url": null,
+        "answer": [
+          "Proszę powtórzyć ostatnie zdanie."
+        ],
+        "hint": "Requesting repetition of the last sentence."
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen and write: ‘Dziękuję za pomoc. Do widzenia.’ (Thank you for your help. Goodbye.)",
+        "audio": "dziękuję_za_pomoc_audio",
+        "audio_url": null,
+        "answer": [
+          "Dziękuję za pomoc. Do widzenia."
+        ],
+        "hint": "Expressing gratitude and saying goodbye."
       },
       {
         "type": "speaking",
-        "sentence": "Powiedz na głos: ‘Dzień dobry. Jak się pan/pani nazywa?’",
-        "prompt": "Practice a formal greeting and question for someone’s name.",
+        "sentence": "Powiedz na głos: ‘Jak masz na imię? Skąd jesteś?’ (Say out loud: ‘What is your name? Where are you from?’)",
+        "prompt": "Practice informal questions asking someone's name and where they are from.",
         "audio_url": null,
-        "reference_text": "Dzień dobry. Jak się pan/pani nazywa?",
+        "reference_text": "Jak masz na imię? Skąd jesteś?",
+        "hint": "Informal style."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: ‘Proszę powtórzyć to słowo. Nie rozumiem.’ (Say: ‘Please repeat this word. I don’t understand.’)",
+        "prompt": "Practice asking someone to repeat a word and saying you don’t understand.",
+        "audio_url": null,
+        "reference_text": "Proszę powtórzyć to słowo. Nie rozumiem.",
+        "hint": "Polite request."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: ‘Przepraszam, gdzie jest szkoła? Dziękuję.’ (Say: ‘Excuse me, where is the school? Thank you.’)",
+        "prompt": "Practice asking for directions and using polite expressions.",
+        "audio_url": null,
+        "reference_text": "Przepraszam, gdzie jest szkoła? Dziękuję.",
+        "hint": "Polite question and gratitude."
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: ‘Dzień dobry. Proszę mówić wolniej.’ (Say: ‘Good morning. Please speak more slowly.’)",
+        "prompt": "Practice formal greeting and asking someone to speak more slowly.",
+        "audio_url": null,
+        "reference_text": "Dzień dobry. Proszę mówić wolniej.",
         "hint": "Formal style."
       },
       {
-        "type": "dictation",
-        "sentence": "Listen: ‘Cześć, mam pytanie. Co to znaczy “proszę”?’",
-        "audio": "co_to_znaczy_proszę_audio",
-        "audio_url": null,
-        "answer": [
-          "Cześć, mam pytanie. Co to znaczy “proszę”?"
-        ],
-        "hint": "Asking about the meaning of a word."
-      },
-      {
         "type": "speaking",
-        "sentence": "Powiedz: ‘Przepraszam, gdzie jest toaleta? Dziękuję.’",
-        "prompt": "Practice polite requests for location and courtesy expressions.",
+        "sentence": "Powiedz na głos: ‘Cześć! Mam pytanie. Co to znaczy “dziękuję”?’ (Say out loud: ‘Hi! I have a question. What does “thank you” mean?’)",
+        "prompt": "Practice informal conversation and asking the meaning of a word.",
         "audio_url": null,
-        "reference_text": "Przepraszam, gdzie jest toaleta? Dziękuję.",
-        "hint": "Remember accenting the penultimate syllable in each word."
-      },
-      {
-        "type": "dictation",
-        "sentence": "Listen and write: ‘Proszę napisać to słowo na tablicy.’",
-        "audio": "proszę_napisać_to_słowo_audio",
-        "audio_url": null,
-        "answer": [
-          "Proszę napisać to słowo na tablicy."
-        ],
-        "hint": "Useful command in class context."
+        "reference_text": "Cześć! Mam pytanie. Co to znaczy “dziękuję”?",
+        "hint": "Informal conversation."
       }
     ],
     "real_life_dialogue": {
@@ -251,92 +391,206 @@
       "interactive_choices": [
         {
           "type": "multiple_choice",
-          "prompt": "Which is a polite way to say ‘thank you’ in Polish?",
+          "prompt": "Which is a polite way to say ‘thank you’ in Polish? (translation in English)",
           "options": ["Dziękuję", "Przepraszam", "Do widzenia"],
           "answer": ["Dziękuję"],
           "hint": "Common courtesy phrase."
         },
         {
           "type": "multiple_choice",
-          "prompt": "If you want someone to repeat a word, you say:",
+          "prompt": "If you want someone to repeat a word, you say: (translation in English)",
           "options": ["Proszę napisać", "Proszę powtórzyć", "Proszę mówić wolniej"],
           "answer": ["Proszę powtórzyć"],
           "hint": "Asking for repetition."
         },
         {
           "type": "multiple_choice",
-          "prompt": "How do you say ‘I’m sorry / excuse me’ in Polish?",
+          "prompt": "How do you say ‘I’m sorry / excuse me’ in Polish? (translation in English)",
           "options": ["Przepraszam", "Dziękuję", "Proszę"],
           "answer": ["Przepraszam"],
           "hint": "We learned this as a fundamental phrase."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What does ‘Do widzenia’ mean in English? (translation in English)",
+          "options": ["Goodbye", "Good morning", "Excuse me"],
+          "answer": ["Goodbye"],
+          "hint": "It's a formal way to say farewell."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What phrase means ‘Good morning’ in Polish? (translation in English)",
+          "options": ["Dzień dobry", "Do widzenia", "Cześć"],
+          "answer": ["Dzień dobry"],
+          "hint": "Use this in the morning or early afternoon."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "If someone says ‘Nie rozumiem’, what does it mean? (translation in English)",
+          "options": ["I don’t know", "I don’t understand", "I’m sorry"],
+          "answer": ["I don’t understand"],
+          "hint": "Literal meaning: 'I don’t understand.'"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which phrase means ‘Please speak more slowly’? (translation in English)",
+          "options": ["Proszę mówić głośniej", "Proszę mówić wolniej", "Proszę napisać"],
+          "answer": ["Proszę mówić wolniej"],
+          "hint": "Focus on 'wolniej' = more slowly."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "How do you ask ‘How do you say “thank you” in Polish?’ in Polish? (translation in English)",
+          "options": ["Jak jest po polsku 'thank you'?", "Co to znaczy 'thank you'?", "Proszę napisać 'thank you'."],
+          "answer": ["Jak jest po polsku 'thank you'?"],
+          "hint": "Focus on 'Jak jest po polsku'."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "If you hear someone say ‘Cześć’, what does it mean? (translation in English)",
+          "options": ["Hello / Hi", "Good morning", "Goodbye"],
+          "answer": ["Hello / Hi"],
+          "hint": "This is informal and can also mean goodbye."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What phrase would you use to ask for the meaning of a word? (translation in English)",
+          "options": ["Jak jest po polsku", "Co to znaczy", "Proszę powtórzyć"],
+          "answer": ["Co to znaczy"],
+          "hint": "Focus on 'Co to znaczy'."
         }
       ]
     },
     "mini_quiz": [
       {
         "type": "multiple_choice",
-        "question": "Where does the accent in Polish usually fall?",
+        "question": "Which phrase means ‘Good evening’ in Polish? (translation in English)",
         "options": [
-          "The first syllable",
-          "The penultimate syllable",
-          "The last syllable"
+          "Dzień dobry",
+          "Dobry wieczór",
+          "Do widzenia"
         ],
         "answer": [
-          "The penultimate syllable"
+          "Dobry wieczór"
         ],
-        "hint": "Most Polish words have a stress on the second-to-last syllable."
+        "hint": "‘Good evening’ is used in the evening."
       },
       {
         "type": "multiple_choice",
-        "question": "Which pair shares the same sound in Polish?",
+        "question": "How do you say ‘thank you’ in Polish? (translation in English)",
         "options": [
-          "ó = u",
-          "rz = s",
-          "ch = k"
+          "Przepraszam",
+          "Dziękuję",
+          "Do widzenia"
         ],
         "answer": [
-          "ó = u"
+          "Dziękuję"
         ],
-        "hint": "ó and u are pronounced the same in Polish."
+        "hint": "It’s a polite phrase you use to express gratitude."
       },
       {
         "type": "multiple_choice",
-        "question": "‘Jak jest po polsku “please”?’ is answered with:",
+        "question": "What does ‘Proszę mówić wolniej’ mean? (translation in English)",
         "options": [
-          "‘Dziękuję’",
-          "‘Przepraszam’",
-          "‘Proszę’"
+          "Please repeat",
+          "Please write it down",
+          "Please speak more slowly"
         ],
         "answer": [
-          "‘Proszę’"
+          "Please speak more slowly"
         ],
-        "hint": "‘Please’ in Polish is ‘Proszę.’"
+        "hint": "‘Wolniej’ means slower."
       },
       {
         "type": "multiple_choice",
-        "question": "What does ‘Nie wiem’ mean?",
+        "question": "Which greeting is informal in Polish? (translation in English)",
+        "options": [
+          "Cześć",
+          "Dzień dobry",
+          "Dobry wieczór"
+        ],
+        "answer": [
+          "Cześć"
+        ],
+        "hint": "It’s used among friends or in casual settings."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What does ‘Przepraszam’ mean? (translation in English)",
+        "options": [
+          "Excuse me / I’m sorry",
+          "Thank you",
+          "Please"
+        ],
+        "answer": [
+          "Excuse me / I’m sorry"
+        ],
+        "hint": "It’s used to apologize or get someone’s attention."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How do you say ‘goodbye’ in Polish? (translation in English)",
+        "options": [
+          "Do widzenia",
+          "Dobry wieczór",
+          "Cześć"
+        ],
+        "answer": [
+          "Do widzenia"
+        ],
+        "hint": "It’s a formal way to say farewell."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which question asks for the meaning of a word? (translation in English)",
+        "options": [
+          "Jak jest po polsku?",
+          "Co to znaczy?",
+          "Proszę powtórzyć"
+        ],
+        "answer": [
+          "Co to znaczy?"
+        ],
+        "hint": "It translates to ‘What does it mean?’."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which of these means ‘please repeat’? (translation in English)",
+        "options": [
+          "Proszę mówić wolniej",
+          "Proszę napisać",
+          "Proszę powtórzyć"
+        ],
+        "answer": [
+          "Proszę powtórzyć"
+        ],
+        "hint": "Focus on ‘powtórzyć’ which means ‘repeat.’"
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What does ‘Nie rozumiem’ mean? (translation in English)",
         "options": [
           "I don’t know",
           "I don’t understand",
-          "I don’t remember"
+          "I’m sorry"
         ],
         "answer": [
-          "I don’t know"
+          "I don’t understand"
         ],
-        "hint": "Literal meaning of 'Nie wiem.'"
+        "hint": "‘Nie’ means no, and ‘rozumiem’ means understand."
       },
       {
         "type": "multiple_choice",
-        "question": "Which phrase means ‘Please write (it) down’?",
+        "question": "What does ‘Dzień dobry’ mean in English? (translation in English)",
         "options": [
-          "Proszę mówić wolniej",
-          "Proszę powtórzyć",
-          "Proszę napisać"
+          "Good morning",
+          "Goodbye",
+          "Thank you"
         ],
         "answer": [
-          "Proszę napisać"
+          "Good morning"
         ],
-        "hint": "Used to ask someone to write something."
+        "hint": "Used during the day to greet someone formally."
       }
     ],
     "review_and_feedback": {
