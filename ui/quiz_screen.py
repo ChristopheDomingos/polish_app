@@ -104,12 +104,12 @@ class QuizScreen(QWidget):
         else:
             self.attempts += 1
             if self.attempts == 1:
-                self.feedback.setText("Niepoprawne. Spróbuj jeszcze raz.")
+                self.feedback.setText("Niepoprawne. Spróbuj jeszcze raz. (Incorrect. Try again.)")
                 self.hint_label.setText("Hint: " + ex.get("hint", ""))
                 self.hint_label.setVisible(True)
                 self.scoring_manager.wrong_answer(final_attempt=False)
             else:
-                self.feedback.setText(f"Poprawna odpowiedź: {correct_answers[0]}")
+                self.feedback.setText(f"Poprawna odpowiedź: (The correct answer is:) {correct_answers[0]}")
                 self.check_btn.setEnabled(False)
                 self.next_btn.setEnabled(True)
                 self.scoring_manager.wrong_answer(final_attempt=True, exercise_id=f"quiz_{self.current_index}")

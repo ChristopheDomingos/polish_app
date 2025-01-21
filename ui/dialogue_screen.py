@@ -116,7 +116,7 @@ class DialogueScreen(QWidget):
             # Incorrect
             self.attempts += 1
             if self.attempts == 1:
-                self.feedback.setText("Niepoprawne. Spróbuj jeszcze raz.")
+                self.feedback.setText("Niepoprawne. Spróbuj jeszcze raz. (Incorrect. Try again.)")
                 if "hint" in ex:
                     self.hint_label.setText("Hint: " + ex["hint"])
                     self.hint_label.setVisible(True)
@@ -125,7 +125,7 @@ class DialogueScreen(QWidget):
             else:
                 # Second attempt, reveal correct answer
                 correct_str = ", ".join(correct_answers)
-                self.feedback.setText(f"Niestety, poprawna odpowiedź: {correct_str}")
+                self.feedback.setText(f"Niestety, poprawna odpowiedź: (Unfortunately, the correct answer is:) {correct_str}")
                 self.hint_label.setVisible(False)
                 self.check_btn.setEnabled(False)
                 self.next_btn.setEnabled(True)

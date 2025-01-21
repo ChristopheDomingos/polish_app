@@ -146,7 +146,7 @@ class WritingPracticeScreen(QWidget):
         else:
             self.attempts += 1
             if self.attempts == 1:
-                self.feedback.setText("Niepoprawne. Spróbuj jeszcze raz.")
+                self.feedback.setText("Niepoprawne. Spróbuj jeszcze raz. (Incorrect. Try again.)")
                 if self.exercise_hint:
                     self.hint_label.setText("Hint: " + self.exercise_hint)
                     self.hint_label.setVisible(True)
@@ -154,7 +154,7 @@ class WritingPracticeScreen(QWidget):
                 self.check_btn.setEnabled(True)
             else:
                 correct_str = ", ".join(self.expected_structure)
-                self.feedback.setText(f"Niestety, poprawna odpowiedź: {correct_str}")
+                self.feedback.setText(f"Niestety, poprawna odpowiedź: (Unfortunately, the correct answer is:) {correct_str}")
                 self.hint_label.setVisible(False)
                 self.check_btn.setEnabled(False)
                 self.next_btn.setEnabled(True)

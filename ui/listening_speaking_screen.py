@@ -151,7 +151,7 @@ class ListeningSpeakingScreen(QWidget):
         else:
             self.attempts += 1
             if self.attempts == 1:
-                self.feedback.setText("Niepoprawne. Spróbuj jeszcze raz lub spróbuj nagrać ponownie.")
+                self.feedback.setText("Niepoprawne. Spróbuj jeszcze raz lub spróbuj nagrać ponownie. (Incorrect. Try again or record again.)")
                 if "hint" in ex:
                     self.hint_label.setText("Hint: " + ex["hint"])
                     self.hint_label.setVisible(True)
@@ -160,7 +160,7 @@ class ListeningSpeakingScreen(QWidget):
             else:
                 # Second failure: reveal correct answer
                 correct_str = ", ".join(correct_answers)
-                self.feedback.setText(f"Niestety, poprawna odpowiedź: {correct_str}")
+                self.feedback.setText(f"Niestety, poprawna odpowiedź: (Unfortunately, the correct answer is:) {correct_str}")
                 self.hint_label.setVisible(False)
                 self.check_btn.setEnabled(False)
                 self.next_btn.setEnabled(True)
