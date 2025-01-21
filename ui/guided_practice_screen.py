@@ -20,16 +20,16 @@ class GuidedPracticeScreen(QWidget):
         self.isPolishUI = True  # Initially Polish UI
 
         # Pre-define strings in both Polish and English
-        self.polish_instruction = "Proszę, uzupełnić zdanie:"
+        self.polish_instruction = "Proszę, uzupełnić zdanie: (Please complete the sentence:)"
         self.english_instruction = "Please complete the sentence:"
 
-        self.polish_try_again = "Nie całkiem. Spróbuj jeszcze raz."
+        self.polish_try_again = "Nie całkiem. Spróbuj jeszcze raz. (Not quite. Try again.)"
         self.english_try_again = "Not quite. Try again."
 
         self.polish_correct = "Bardzo dobrze! (Very good!)"
         self.english_correct = "Very good!"
 
-        self.polish_incorrect_prefix = "Niestety, poprawna odpowiedź:"
+        self.polish_incorrect_prefix = "Niestety, poprawna odpowiedź: (Unfortunately, the correct answer is:)"
         self.english_incorrect_prefix = "Unfortunately, the correct answer is:"
 
         # Main layout
