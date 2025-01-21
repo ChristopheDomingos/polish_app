@@ -272,7 +272,7 @@
       {
         "type": "dictation",
         "sentence": "Listen and write: ‘Przepraszam, jak powiedzieć to po polsku?’ (Excuse me, how do you say this in Polish?)",
-        "audio": "jak_powiedzieć_audio",
+        "audio": "Przepraszam, jak powiedzieć to po polsku?",
         "audio_url": null,
         "answer": [
           "Przepraszam, jak powiedzieć to po polsku?"
@@ -282,7 +282,7 @@
       {
         "type": "dictation",
         "sentence": "Listen and write: ‘Nie rozumiem. Proszę mówić wolniej.’ (I don’t understand. Please speak more slowly.)",
-        "audio": "nie_rozumiem_audio",
+        "audio": "Nie rozumiem. Proszę mówić wolniej.",
         "audio_url": null,
         "answer": [
           "Nie rozumiem. Proszę mówić wolniej."
@@ -292,7 +292,7 @@
       {
         "type": "dictation",
         "sentence": "Listen and write: ‘Jak się nazywasz? Skąd jesteś?’ (What is your name? Where are you from?)",
-        "audio": "jak_się_nazywasz_audio",
+        "audio": "Jak się nazywasz? Skąd jesteś?",
         "audio_url": null,
         "answer": [
           "Jak się nazywasz? Skąd jesteś?"
@@ -302,7 +302,7 @@
       {
         "type": "dictation",
         "sentence": "Listen and write: ‘Proszę powtórzyć ostatnie zdanie.’ (Please repeat the last sentence.)",
-        "audio": "proszę_powtórzyć_ostatnie_audio",
+        "audio": "Proszę powtórzyć ostatnie zdanie.",
         "audio_url": null,
         "answer": [
           "Proszę powtórzyć ostatnie zdanie."
@@ -312,7 +312,7 @@
       {
         "type": "dictation",
         "sentence": "Listen and write: ‘Dziękuję za pomoc. Do widzenia.’ (Thank you for your help. Goodbye.)",
-        "audio": "dziękuję_za_pomoc_audio",
+        "audio": "Dziękuję za pomoc. Do widzenia.",
         "audio_url": null,
         "answer": [
           "Dziękuję za pomoc. Do widzenia."
