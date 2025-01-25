@@ -489,6 +489,209 @@
           "ja"
         ],
         "hint": "Use the correct formal address pronoun (pan/pani) and then 'ja' for the reply."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Carlos jest z Portugalii. On ma _______ paszport. (portugalski)",
+        "answer": [
+          "portugalski"
+        ],
+        "hint": "Use the masculine adjective form for 'paszport' (masc.)."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Które zdanie oznacza ‘He is Portuguese’?",
+        "options": [
+          "On jest Polakiem.",
+          "On jest Portugalczykiem.",
+          "On jest Hiszpanem."
+        ],
+        "answer": [
+          "On jest Portugalczykiem."
+        ],
+        "hint": "Polish noun for a Portuguese man is ‘Portugalczyk.’"
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Ja jestem z Portugalii, a ty jesteś z Niemiec? Nie, ja _______ z Francji.",
+        "answer": [
+          "jestem"
+        ],
+        "hint": "Use ‘jestem’ (I am) + 'z' + country in genitive."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Sara jest z Włoch, więc ona jest _______ (Włoszka).",
+        "answer": [
+          "Włoszką"
+        ],
+        "hint": "Feminine form: ‘Ona jest Włoszką’ (Italian woman)."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Jak zapytasz: ‘Are you from Portugal?’ (formal, sir) w języku polskim?",
+        "options": [
+          "Czy pan jest z Portugalii?",
+          "Czy jesteś z Portugalii?",
+          "Czy on jest z Portugalii?"
+        ],
+        "answer": [
+          "Czy pan jest z Portugalii?"
+        ],
+        "hint": "Formal form: 'Czy pan jest...?'"
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Czy oni są z Anglii? Nie, oni _______ z Portugalii.",
+        "answer": [
+          "są"
+        ],
+        "hint": "Third person plural of 'być': (oni) są."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which adjective is correct for ‘Portuguese coffee’? (kawa – fem.)",
+        "options": [
+          "portugalska kawa",
+          "portugalski kawa",
+          "portugalskie kawa"
+        ],
+        "answer": [
+          "portugalska kawa"
+        ],
+        "hint": "Feminine adjective: -ska."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "On jest z Francji, ale ona jest z _______ (Portugalia).",
+        "answer": [
+          "Portugalii"
+        ],
+        "hint": "‘Portugalia’ changes to ‘Portugalii’ in genitive (z + country)."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Które zdanie oznacza ‘She is Portuguese’ (feminine)?",
+        "options": [
+          "Ona jest Portugalką.",
+          "Ona jest Portugalczykiem.",
+          "Ona jest Polką."
+        ],
+        "answer": [
+          "Ona jest Portugalką."
+        ],
+        "hint": "Feminine noun: Portugalką."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Mam _______ adres w Lizbonie. (portugalski / polski?)",
+        "answer": [
+          "portugalski"
+        ],
+        "hint": "Lizbona is in Portugal, so presumably ‘portugalski adres.’"
+    
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Czy to są twoje _______? (nożyczki)",
+        "answer": [
+          "nożyczki"
+        ],
+        "hint": "Always plural: ‘to są nożyczki.’"
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Który zwrot jest poprawny: ‘To jest drzwi’ czy ‘To są drzwi’?",
+        "options": [
+          "To jest drzwi",
+          "To są drzwi"
+        ],
+        "answer": [
+          "To są drzwi"
+        ],
+        "hint": "‘drzwi’ is plural-only."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "________ (To jest / To są) okulary. One ______ (is / są) bardzo ładne.",
+        "answer": [
+          "To są",
+          "są"
+        ],
+        "hint": "‘okulary’ is always plural, so use ‘To są’ and ‘one są.’"
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Wybierz poprawne zdanie: ‘One są dżinsy’ czy ‘To są dżinsy’?",
+        "options": [
+          "One są dżinsy",
+          "To są dżinsy"
+        ],
+        "answer": [
+          "To są dżinsy"
+        ],
+        "hint": "We typically say ‘To są dżinsy’ for jeans (plural)."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Gdzie są moje _______? (spodnie)",
+        "answer": [
+          "spodnie"
+        ],
+        "hint": "‘spodnie’ is always plural. Use ‘są’ not ‘jest.’"
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Które pytanie jest poprawne dla plural-only nouns?\n(Where are the scissors?)",
+        "options": [
+          "Gdzie jest nożyczki?",
+          "Gdzie są nożyczki?",
+          "Gdzie nożyczka?"
+        ],
+        "answer": [
+          "Gdzie są nożyczki?"
+        ],
+        "hint": "Use plural form: ‘nożyczki,’ so ‘Gdzie są…’"
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "_______ (To jest / To są) drzwi. _______ (One jest / One są) stare i białe.",
+        "answer": [
+          "To są",
+          "One są"
+        ],
+        "hint": "‘drzwi’ is plural. Use ‘To są… One są…’ for describing them."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Które zdanie pasuje do ‘okulary’ (plural)?",
+        "options": [
+          "To jest okulary.",
+          "To są okulary.",
+          "To są okular."
+        ],
+        "answer": [
+          "To są okulary."
+        ],
+        "hint": "‘okulary’ is always plural. Use ‘To są…’"
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Czy to _______ wasze dżinsy? Tak, _______ nasze dżinsy.",
+        "answer": [
+          "są",
+          "to są"
+        ],
+        "hint": "Remember: 'dżinsy' plural → 'to są dżinsy.'"
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Moje _______ (spodnie) są ciemne. One są _______ (jeansowe).",
+        "answer": [
+          "spodnie",
+          "jeansowe"
+        ],
+        "hint": "Both forms treat 'spodnie' as plural. Adjective also in plural: 'jeansowe.'"
       }
     ],
     "writing_practice": [
@@ -655,6 +858,84 @@
           "Nie on nie ma nowego telefonu"
         ],
         "hint": "Double 'nie' is typical: 'Nie, on nie ma...'"
+      },
+      {
+        "prompt": "Opisz siebie: ‘I am Portuguese’ (masc.) i ‘I have a Portuguese passport.’ / Write in Polish: ‘Jestem Portugalczykiem’ and ‘Mam portugalski paszport’",
+        "expected_structure": [
+          "Jestem Portugalczykiem",
+          "Mam portugalski paszport"
+        ],
+        "hint": "Use masculine form for nationality: Portugalczykiem, portugalski"
+      },
+      {
+        "prompt": "Opisz koleżankę: ‘She is Portuguese’ (fem.) i ‘She lives in Lisbon.’ / Write in Polish: ‘Ona jest Portugalką’ and ‘Ona mieszka w Lizbonie’",
+        "expected_structure": [
+          "Ona jest Portugalką",
+          "Ona mieszka w Lizbonie"
+        ],
+        "hint": "Feminine form: Portugalką; use 'ona mieszka' (3rd person)."
+      },
+      {
+        "prompt": "Napisz dwa zdania: ‘I am from Portugal.’ ‘He is from France.’ / Write in Polish: ‘Jestem z Portugalii’ and ‘On jest z Francji’",
+        "expected_structure": [
+          "Jestem z Portugalii",
+          "On jest z Francji"
+        ],
+        "hint": "Use z + genitive: Portugalii, Francji"
+      },
+      {
+        "prompt": "Zapytaj: ‘Are you (formal) from Portugal?’ i odpowiedz: ‘Yes, I’m from Portugal.’ / Write in Polish: ‘Czy pan jest z Portugalii?’ and ‘Tak, jestem z Portugalii’",
+        "expected_structure": [
+          "Czy pan jest z Portugalii",
+          "Tak jestem z Portugalii"
+        ],
+        "hint": "Formal question to a man: 'pan jest...'; answer with 'jestem.'"
+      },
+      {
+        "prompt": "Opisz migrujących kolegów: ‘They are Italians.’ ‘They have Italian passports.’ / Write in Polish: ‘Oni są Włochami’ and ‘Oni mają włoskie paszporty’",
+        "expected_structure": [
+          "Oni są Włochami",
+          "Oni mają włoskie paszporty"
+        ],
+        "hint": "Plural forms: Włochami (Italians), włoskie (Italian) + paszporty (pl.)"
+      },
+      {
+        "prompt": "Napisz zdanie: ‘These are my scissors.’ / Write in Polish: ‘To są moje nożyczki.’",
+        "expected_structure": [
+          "To są moje nożyczki"
+        ],
+        "hint": "nożyczki = plural only, use ‘to są…’"
+      },
+      {
+        "prompt": "Zadaj pytanie: ‘Where are your jeans?’ and odpowiedz: ‘They are here.’ / Write in Polish: ‘Gdzie są twoje dżinsy?’ and ‘One są tutaj.’",
+        "expected_structure": [
+          "Gdzie są twoje dżinsy",
+          "One są tutaj"
+        ],
+        "hint": "dżinsy is always plural; use ‘są’ and ‘one.’"
+      },
+      {
+        "prompt": "Stwórz zdanie o drzwiach: ‘These doors are old’ / Write in Polish: ‘To są stare drzwi.’",
+        "expected_structure": [
+          "To są stare drzwi"
+        ],
+        "hint": "drzwi is plural; ‘to są…’ + ‘stare’"
+      },
+      {
+        "prompt": "Zapytaj: ‘Are these your glasses?’ i odpowiedz: ‘Yes, these are my glasses.’ / Write in Polish: ‘Czy to są twoje okulary?’ and ‘Tak, to są moje okulary.’",
+        "expected_structure": [
+          "Czy to są twoje okulary",
+          "Tak to są moje okulary"
+        ],
+        "hint": "okulary is plural. Use ‘to są…’"
+      },
+      {
+        "prompt": "Opisz spodnie: ‘These trousers are new. They are comfortable.’ / Write in Polish: ‘To są nowe spodnie. One są wygodne.’",
+        "expected_structure": [
+          "To są nowe spodnie",
+          "One są wygodne"
+        ],
+        "hint": "spodnie is plural-only, so ‘to są… one są…’"
       }
     ],
     "listening_and_speaking": [
@@ -1377,6 +1658,136 @@
           "Czy mówisz po polsku?"
         ],
         "hint": "Use 'mówisz' for you (ty)."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Które pytanie oznacza ‘Who is this?’ w języku polskim?",
+        "options": [
+          "Co to jest?",
+          "Kto to jest?",
+          "Jak to jest?"
+        ],
+        "answer": [
+          "Kto to jest?"
+        ],
+        "hint": "Use 'kto' for asking about a person."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Które pytanie oznacza ‘What is this?’ w języku polskim?",
+        "options": [
+          "Co to jest?",
+          "Kto to jest?",
+          "Gdzie to jest?"
+        ],
+        "answer": [
+          "Co to jest?"
+        ],
+        "hint": "Use 'co' for asking about an object/thing."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Które zdanie poprawnie mówi: ‘He is in Warsaw now’? (Polish: ‘On jest teraz w Warszawie.’)",
+        "options": [
+          "On jest teraz w Warszawie.",
+          "On jest teraz na Warszawie.",
+          "On teraz Warszawie jest."
+        ],
+        "answer": [
+          "On jest teraz w Warszawie."
+        ],
+        "hint": "Remember ‘w + locative form’ for cities (w Warszawie)."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Jak zapytać ‘How are things?’ w języku polskim?",
+        "options": [
+          "Co słychać?",
+          "Skąd jesteś?",
+          "Gdzie mieszkasz?"
+        ],
+        "answer": [
+          "Co słychać?"
+        ],
+        "hint": "Literally ‘What’s heard?’"
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Które zdanie jest poprawne, jeśli mówimy o osobach mieszanych płci? (English: If we talk about a mixed-gender group ‘they’ in Polish...)",
+        "options": [
+          "One są w domu.",
+          "Oni są w domu.",
+          "Ona są w domu."
+        ],
+        "answer": [
+          "Oni są w domu."
+        ],
+        "hint": "Use ‘oni’ if at least one male is in the group."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Które słowo oznacza ‘my (feminine)’ for a singular noun? (English: ‘mojej / moje / moja’)?",
+        "options": [
+          "moja",
+          "moje",
+          "mojej"
+        ],
+        "answer": [
+          "moja"
+        ],
+        "hint": "Use ‘moja’ for feminine nominative singular (e.g., moja kawa)."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Które zdanie oznacza „I have a Polish book”? (Polish: ‘Mam polską książkę’)",
+        "options": [
+          "Mam polski książka",
+          "Mam polską książkę",
+          "Mam polskie książkę"
+        ],
+        "answer": [
+          "Mam polską książkę"
+        ],
+        "hint": "Feminine: książka → polską książkę (accusative)."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Które wyrażenie oznacza ‘He is from Spain’? (Polish: ‘On jest z Hiszpanii’)",
+        "options": [
+          "On jest w Hiszpanii.",
+          "On jest z Hiszpanii.",
+          "On jest Hiszpanią."
+        ],
+        "answer": [
+          "On jest z Hiszpanii."
+        ],
+        "hint": "z + genitive: z Hiszpanii."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Jak przetłumaczyć ‘She is tall, but she is not slim’? (Polish: ‘Ona jest wysoka, ale nie jest szczupła’)",
+        "options": [
+          "Ona jest wysoka, ale nie jest szczupła.",
+          "Ona jest wysoki, ale nie jest szczupły.",
+          "Ona jesteś wysoka, ale nie szczupły."
+        ],
+        "answer": [
+          "Ona jest wysoka, ale nie jest szczupła."
+        ],
+        "hint": "Both adjectives must be in feminine form: wysoka, szczupła."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Które pytanie jest poprawne, by zapytać ‘Where are you from?’ (formal)? (English: 'Skąd pan/pani jest?')",
+        "options": [
+          "Skąd pan jest?",
+          "Gdzie pan jest?",
+          "Co pan jest?"
+        ],
+        "answer": [
+          "Skąd pan jest?"
+        ],
+        "hint": "We ask ‘Skąd?’ for origin, plus formal ‘pan.’"
       }
     ],
     "review_and_feedback": {
