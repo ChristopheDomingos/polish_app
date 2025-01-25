@@ -12,98 +12,57 @@
       "Learn numbers 0–10"
     ],
     "cultural_notes": [
-      "Use 'Cześć' in informal situations; 'Dzień dobry' in formal or professional settings.",
-      "Refer to strangers or superiors with 'pan' (sir) or 'pani' (ma'am) to show respect.",
-      "It’s polite to offer a firm handshake and maintain eye contact when meeting someone.",
-      "'Dzień dobry' is used until late afternoon; after that, 'Dobry wieczór' is used.",
-      "Common polite expressions include 'Przepraszam' (Excuse me/Sorry), 'Proszę' (Please), and 'Dziękuję' (Thank you)."
+      "Use 'Cześć' in informal situations (e.g., with friends like Lorenzo or Lydia); 'Dzień dobry' in formal/professional settings (e.g., with Ghada or Zahid).",
+      "Refer to strangers/superiors with 'pan' (sir) or 'pani' (ma'am). Example: 'Dzień dobry, Pani Ghada!'",
+      "Handshakes and eye contact are important. When meeting Hamed or Zahid, offer a firm handshake.",
+      "Use 'Dzień dobry' until late afternoon; switch to 'Dobry wieczór' afterward.",
+      "Polish addresses often include street names. Example: Christophe’s address: Na Szaniec 23/27.",
+      "Phone numbers follow formats like 762-843-89-02 (from exercises)."
     ],
     "difficulty": "beginner"
   },
   "grammar_insight": {
-    "explanation": "In this lesson, we focus on greetings, introducing oneself, and basic verbs. To ask someone’s name informally: ‘Jak masz na imię?’. Formally: ‘Jak ma pan/pani na imię?’. Basic pronouns include: ja (I), ty (you informal), on (he), ona (she), pan/pani (you formal). Verbs być (to be) and mieć (to have) in the singular. ‘Jak się masz?’ or ‘Co słychać?’ is used to ask ‘How are you?’. Possible answers: świetnie, bardzo dobrze, dobrze, tak sobie, źle, fatalnie.",
+    "explanation": "In this lesson, we focus on greetings, introducing oneself, and basic verbs. To ask someone’s name informally: ‘Jak masz na imię?’ (e.g., with Lorenzo). Formally: ‘Jak ma pan/pani na imię?’ (e.g., with Ghada). Basic pronouns include: ja (I), ty (you informal), on (he), ona (she), pan/pani (you formal). Verbs być (to be) and mieć (to have) in the singular. ‘Jak się masz?’ or ‘Co słychać?’ is used to ask ‘How are you?’. Possible answers: świetnie, bardzo dobrze, dobrze, tak sobie, źle, fatalnie.",
     "tables": [
       {
         "title": "Personal Pronouns (Singular)",
-        "headers": [
-          "Singular"
-        ],
+        "headers": ["Singular", "Example"],
         "rows": [
-          [
-            "ja (I)"
-          ],
-          [
-            "ty (you, informal)"
-          ],
-          [
-            "on / ona / ono (he / she / it)"
-          ],
-          [
-            "pan / pani (you, formal)"
-          ]
+          ["ja (I)", "Ja jestem Christophe."],
+          ["ty (you, informal)", "Ty jesteś Lorenzo?"],
+          ["on / ona / ono (he / she / it)", "On jest Berkan. Ona jest Lydia."],
+          ["pan / pani (you, formal)", "Jak się pani nazywa? (do Ghady)"]
         ]
       },
       {
         "title": "Personal Pronouns (Plural)",
-        "headers": [
-          "Plural"
-        ],
+        "headers": ["Plural", "Example"],
         "rows": [
-          [
-            "my (we)"
-          ],
-          [
-            "wy (you all)"
-          ],
-          [
-            "oni / one (they)"
-          ]
+          ["my (we)", "My jesteśmy z Polski."],
+          ["wy (you all)", "Wy jesteście studentami?"],
+          ["oni / one (they)", "Oni mają dzieci (Hamed i Zahid)."]
         ]
       },
       {
         "title": "Conjugation: być (to be) - singular",
-        "headers": [
-          "Person",
-          "Form"
-        ],
+        "headers": ["Person", "Form", "Example"],
         "rows": [
-          [
-            "(ja) jestem",
-            "I am"
-          ],
-          [
-            "(ty) jesteś",
-            "you are (informal)"
-          ],
-          [
-            "(on/ona/pan/pani) jest",
-            "he/she/formal you is"
-          ]
+          ["(ja) jestem", "I am", "Jestem Christophe. (I am Christophe)"],
+          ["(ty) jesteś", "you are (inf.)", "Jesteś Lorenzo? (Are you Lorenzo?)"],
+          ["(on/ona/pan/pani) jest", "he/she/formal is", "Ona jest inżynierem. (Ghada is an engineer)"]
         ]
       },
       {
         "title": "Conjugation: mieć (to have) - singular",
-        "headers": [
-          "Person",
-          "Form"
-        ],
+        "headers": ["Person", "Form", "Example"],
         "rows": [
-          [
-            "(ja) mam",
-            "I have"
-          ],
-          [
-            "(ty) masz",
-            "you have (informal)"
-          ],
-          [
-            "(on/ona/pan/pani) ma",
-            "he/she/formal you has"
-          ]
+          ["(ja) mam", "I have", "Mam 32 lata. (I am 32 years old)"],
+          ["(ty) masz", "you have (inf.)", "Masz dzieci? (Hamed, do you have kids?)"],
+          ["(on/ona/pan/pani) ma", "he/she/formal has", "Pan Zahid ma dwóch synów. (Mr. Zahid has two sons)"]
         ]
       }
     ],
-    "audio_explanation": "Listen to the examples of greetings, introductions, and basic verb forms. Repeat aloud to practice pronunciation.",
+    "audio_explanation": "Listen to dialogues: Christophe meets Lorenzo (informal) and Ghada (formal). Repeat phrases like 'Cześć!' and 'Dzień dobry, Pani Ghada!'",
     "audio_explanation_url": null
   },
   "vocabulary": [
@@ -111,330 +70,363 @@
       "word": "Cześć",
       "translation": "Hi / Hello",
       "audio": "Cześć",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Cześć, Lorenzo! Jak się masz? (Hi Lorenzo! How are you?)"
     },
     {
       "word": "Dzień dobry",
       "translation": "Good morning / Good day",
       "audio": "Dzień dobry",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Dzień dobry, Pani Ghada! (Good morning, Ms. Ghada!)"
     },
     {
       "word": "Dobry wieczór",
       "translation": "Good evening",
       "audio": "Dobry wieczór",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Dobry wieczór, Panie Zahid! (Good evening, Mr. Zahid!)"
     },
     {
       "word": "Do widzenia",
       "translation": "Goodbye (formal)",
       "audio": "Do widzenia",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Do widzenia, Pani Lydia! (Goodbye, Ms. Lydia!)"
     },
     {
       "word": "Pa",
       "translation": "Bye (informal)",
       "audio": "Pa",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Pa, Lorenzo! Do jutra! (Bye Lorenzo! See you tomorrow!)"
     },
     {
       "word": "Proszę",
       "translation": "Please / Here you are",
       "audio": "Proszę",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Proszę, numer telefonu: 762-843-89-02. (Here’s my phone number.)"
     },
     {
       "word": "Przepraszam",
       "translation": "Excuse me / Sorry",
       "audio": "Przepraszam",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Przepraszam, gdzie mieszka Ghada? (Excuse me, where does Ghada live?)"
     },
     {
       "word": "Dziękuję",
       "translation": "Thank you",
       "audio": "Dziękuję",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Dziękuję, Lorenzo! (Thank you, Lorenzo!)"
     },
     {
       "word": "Jak masz na imię?",
       "translation": "What is your name? (inf.)",
       "audio": "Jak masz na imię?",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Jak masz na imię? Jestem Christophe. (What’s your name? I’m Christophe.)"
     },
     {
       "word": "Jak ma pan/pani na imię?",
       "translation": "What is your name? (formal)",
       "audio": "Jak ma pan/pani na imię?",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Jak się pani nazywa? Nazywam się Ghada. (What’s your name? My name is Ghada.)"
     },
     {
       "word": "Mam na imię ...",
       "translation": "My name is ...",
       "audio": "Mam na imię ...",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Mam na imię Christophe. Mieszkam w Krakowie. (My name is Christophe. I live in Kraków.)"
     },
     {
       "word": "Nazywam się ...",
       "translation": "My full name is ...",
       "audio": "Nazywam się ...",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Nazywam się Lydia Wójcik. (My full name is Lydia Wójcik.)"
     },
     {
       "word": "Jak się masz?",
       "translation": "How are you? (inf.)",
       "audio": "Jak się masz?",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Jak się masz, Lorenzo? Dobrze, dziękuję! (How are you, Lorenzo? Good, thank you!)"
     },
     {
       "word": "Jak się pan/pani ma?",
       "translation": "How are you? (formal)",
       "audio": "Jak się pan/pani ma?",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Jak się pani ma, Pani Ghada? (How are you, Ms. Ghada?)"
     },
     {
       "word": "Co słychać?",
       "translation": "How are things?",
       "audio": "Co słychać?",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Co słychać, Berkan? Nic nowego. (How are things, Berkan? Nothing new.)"
     },
     {
       "word": "świetnie",
       "translation": "Great",
       "audio": "świetnie",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Jak się masz? Świetnie! (How are you? Great!)"
     },
     {
       "word": "bardzo dobrze",
       "translation": "Very well",
       "audio": "bardzo dobrze",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Dziękuję, bardzo dobrze. (Thank you, very well.)"
     },
     {
       "word": "dobrze",
       "translation": "Well / Good",
       "audio": "dobrze",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Wszystko dobrze, Lorenzo? (Everything good, Lorenzo?)"
     },
     {
       "word": "tak sobie",
       "translation": "So-so",
       "audio": "tak sobie",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Jak się masz? Tak sobie. (How are you? So-so.)"
     },
     {
       "word": "źle",
       "translation": "Bad",
       "audio": "źle",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Dziś jestem źle. (I’m feeling bad today.)"
     },
     {
       "word": "fatalnie",
       "translation": "Terrible",
       "audio": "fatalnie",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Pogoda jest fatalnie. (The weather is terrible.)"
     },
     {
       "word": "Miło mi",
       "translation": "Nice to meet you",
       "audio": "Miło mi",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Miło mi, panie Zahid. (Nice to meet you, Mr. Zahid.)"
     },
     {
       "word": "zero",
       "translation": "zero",
       "audio": "zero",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Mam zero problemów. (I have zero problems.)"
     },
     {
       "word": "jeden",
       "translation": "one",
       "audio": "jeden",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Mam jeden dom w Krakowie. (I have one house in Kraków.)"
     },
     {
       "word": "dwa",
       "translation": "two",
       "audio": "dwa",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Lorenzo ma dwa koty. (Lorenzo has two cats.)"
     },
     {
       "word": "trzy",
       "translation": "three",
       "audio": "trzy",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Ghada ma trzy siostry. (Ghada has three sisters.)"
     },
     {
       "word": "cztery",
       "translation": "four",
       "audio": "cztery",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Mamy cztery krzesła. (We have four chairs.)"
     },
     {
       "word": "pięć",
       "translation": "five",
       "audio": "pięć",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Pan Zahid ma pięć książek. (Mr. Zahid has five books.)"
     },
     {
       "word": "sześć",
       "translation": "six",
       "audio": "sześć",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Numer telefonu: sześć, siedem, dwa... (Phone number: 6, 7, 2...)"
     },
     {
       "word": "siedem",
       "translation": "seven",
       "audio": "siedem",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Mieszkam w Krakowie siedem lat. (I’ve lived in Kraków for seven years.)"
     },
     {
       "word": "osiem",
       "translation": "eight",
       "audio": "osiem",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Lorenzo ma osiem lat. (Lorenzo is eight years old.)"
     },
     {
       "word": "dziewięć",
       "translation": "nine",
       "audio": "dziewięć",
-      "audio_url": null
+      "audio_url": null,
+      "example": "To jest dziewięć osób. (There are nine people.)"
     },
     {
       "word": "dziesięć",
       "translation": "ten",
       "audio": "dziesięć",
-      "audio_url": null
+      "audio_url": null,
+      "example": "Mam dziesięć minut. (I have ten minutes.)"
     }
   ],
   "guided_practice": [
     {
       "type": "fill_in_the_blank",
-      "sentence": "– Cześć, jak się _______?\n– Dobrze, a Ty?\n– Tak sobie.",
+      "sentence": "– Cześć, ______ Christophe. A ty? (Hey, I'm Christophe. And you?)\n– Jestem Lorenzo. (I'm Lorenzo.)",
       "answer": [
-        "masz"
+        "jestem"
       ],
-      "hint": "Informal: Jak się (masz)?"
+      "hint": "Use the verb ‘to be’ in the first-person singular."
     },
     {
       "type": "fill_in_the_blank",
-      "sentence": "– Jak masz na _______?\n– Mam na _______ Ewa.",
+      "sentence": "– Skąd ______, Lorenzo? (Where are you from, Lorenzo?)\n– Jestem z Włoch. (I'm from Italy.)",
+      "answer": [
+        "jesteś"
+      ],
+      "hint": "Use the correct form of 'być' for ‘you’ (ty)."
+    },
+    {
+      "type": "fill_in_the_blank",
+      "sentence": "– Gdzie ______, Christophe? (Where do you live, Christophe?)\n– Mieszkam w Krakowie. (I live in Kraków.)",
+      "answer": [
+        "mieszkasz"
+      ],
+      "hint": "Use the correct form of ‘mieszkać’ for ‘you’ (ty)."
+    },
+    {
+      "type": "fill_in_the_blank",
+      "sentence": "– Jak ma na ______ Lydia? (What is Lydia's name?)\n– Ma na ______ Lydia. (Her name is Lydia.)",
       "answer": [
         "imię",
         "imię"
       ],
-      "hint": "Both blanks refer to ‘imię’ but test recognition."
-    },
-    {
-      "type": "fill_in_the_blank",
-      "sentence": "– Dzień dobry. Jak się _______ nazywa?\n– Nazywam się Kowalski.",
-      "answer": [
-        "pan"
-      ],
-      "hint": "Formal question with 'pan'."
-    },
-    {
-      "type": "fill_in_the_blank",
-      "sentence": "Jak się pani _______? – Mam się świetnie, dziękuję.",
-      "answer": [
-        "ma"
-      ],
-      "hint": "Formal: Jak się pani (ma)?"
-    },
-    {
-      "type": "fill_in_the_blank",
-      "sentence": "Nazywam się Nowak. Miło mi _______.",
-      "answer": [
-        "pana/pani poznać"
-      ],
-      "hint": "Formal: ‘Miło mi pana/pani poznać.’"
+      "hint": "Both blanks require the same word."
     },
     {
       "type": "multiple_choice",
-      "sentence": "How do you say 'How are you?' informally?",
+      "sentence": "Which sentence means 'I am from Portugal'?",
       "options": [
-        "Jak się masz?",
-        "Jak ma pan na imię?",
-        "Dzień dobry"
+        "Jestem w Portugalii.",
+        "Jestem z Portugalii.",
+        "Jestem na Portugalii."
       ],
       "answer": [
-        "Jak się masz?"
+        "Jestem z Portugalii."
       ],
-      "hint": "Remember the informal expression."
+      "hint": "Pay attention to the correct preposition."
     },
     {
       "type": "fill_in_the_blank",
-      "sentence": "(ja) ______ z Polski. (Correct form of ‘być’)",
+      "sentence": "(ja) ______ się Christophe. (My name is Christophe.)",
       "answer": [
-        "jestem"
+        "nazywam"
       ],
-      "hint": "First person singular of ‘być’."
+      "hint": "Use the correct form of 'nazywać się' in the first person."
     },
     {
       "type": "fill_in_the_blank",
-      "sentence": "(ty) ______ telefon? (Correct form of ‘mieć’)",
+      "sentence": "(oni) ______ w Krakowie. (They live in Kraków.)",
       "answer": [
-        "masz"
+        "mieszkają"
       ],
-      "hint": "Second person singular of ‘mieć’."
+      "hint": "Use the third-person plural form."
     },
     {
       "type": "translate",
-      "sentence": "Translate to English: 'Nazywam się Anna Kowalska.'",
+      "sentence": "Translate to English: 'Jestem z Polski.'",
       "answer": [
-        "My name is Anna Kowalska."
+        "I am from Poland."
       ],
-      "hint": "Full name introduction."
+      "hint": "Translate word by word."
     },
     {
       "type": "translate",
-      "sentence": "Translate to Polish: 'Nice to meet you.'",
+      "sentence": "Translate to Polish: 'Where do you live?'",
       "answer": [
-        "Miło mi cię poznać."
+        "Gdzie mieszkasz?"
       ],
-      "hint": "Common polite phrase after introductions."
+      "hint": "Think of the verb ‘mieszkać’."
+    },
+    {
+      "type": "multiple_choice",
+      "sentence": "How do you say 'Where is Lorenzo from?' in Polish?",
+      "options": [
+        "Skąd Lorenzo?",
+        "Skąd jest Lorenzo?",
+        "Gdzie Lorenzo?"
+      ],
+      "answer": [
+        "Skąd jest Lorenzo?"
+      ],
+      "hint": "Use 'Skąd' + 'jest' for asking about origin."
     }
   ],
   "writing_practice": [
     {
-      "prompt": "Napisz dialog nieoficjalny (Cześć, jak masz na imię? Jak się masz?).",
+      "prompt": "Napisz dialog nieoficjalny (Cześć, jak masz na imię? Jak się masz?). / Write an informal dialogue: Hi, what's your name? How are you?",
       "expected_structure": [
-        "Cześć",
-        "Jak masz na imię?",
-        "Jak się masz?",
-        "Mam na imię ...",
-        "Dobrze"
+        "Cześć! Mam na imię Christophe. / Hi! My name is Christophe.",
+        "Dobrze, dziękuję. / Good, thank you."
       ],
-      "hint": "Use informal expressions from Lesson 1."
+      "hint": "Informal: Use 'Mam na imię' (first name only) + 'Dobrze' (Good)."
     },
     {
-      "prompt": "Napisz dialog oficjalny (Dzień dobry, jak się pan/pani nazywa?).",
+      "prompt": "Napisz dialog oficjalny (Dzień dobry, jak się pan/pani nazywa?). / Write a formal dialogue: Good morning, what's your name?",
       "expected_structure": [
-        "Dzień dobry",
-        "Jak się pan/pani nazywa?",
-        "Nazywam się ...",
-        "Miło mi pana/panią poznać"
+        "Dzień dobry. Nazywam się Christophe Domingos. / Good morning. My name is Christophe Domingos.",
+        "Miło mi. / Nice to meet you."
       ],
-      "hint": "Use formal expressions from Lesson 1."
+      "hint": "Formal: Use 'Nazywam się' (full name) + 'Miło mi'."
     },
     {
-      "prompt": "Poproś kolegę/koleżankę o jego/jej imię i nazwisko. Użyj formy 'Jak masz na imię?' i 'Jak się nazywasz?'.",
+      "prompt": "Poproś kolegę/koleżankę o jego/jej imię i nazwisko. / Ask a friend for their first and last name.",
       "expected_structure": [
-        "Jak masz na imię?",
-        "Jak się nazywasz?"
+        "Jak masz na imię? / What’s your first name?",
+        "Jak się nazywasz? / What’s your surname?"
       ],
-      "hint": "Practice both 'imię' and 'nazwisko'."
+      "hint": "First: 'Jak masz na imię?' (first name). Second: 'Jak się nazywasz?' (surname)."
     },
     {
-      "prompt": "Uzupełnij zdania: (Ja) ____________ z Polski. (Ty) ____________ telefon. (On) ____________ na imię Michał.",
+      "prompt": "Uzupełnij zdania: (Ja) ______ z Polski. (Ty) ______ telefon. (On) ______ na imię Michał. / Complete: I am from Poland. You have a phone. His name is Michał.",
       "expected_structure": [
-        "jestem",
+        "Jestem",
         "masz",
         "ma"
       ],
-      "hint": "Conjugate ‘być’ and ‘mieć’ correctly."
+      "hint": "Conjugate: Ja=jestem (I am), Ty=masz (you have), On=ma (he has)."
     },
     {
-      "prompt": "Napisz liczebniki 0–10 po polsku z przykładami zdań.",
+      "prompt": "Napisz liczebniki 0–10 po polsku. / Write numbers 0-10 in Polish.",
       "expected_structure": [
         "zero",
         "jeden",
@@ -448,58 +440,276 @@
         "dziewięć",
         "dziesięć"
       ],
-      "hint": "Practice correct spelling and usage in a sentence."
+      "hint": "Copy from vocabulary. No sentences needed."
+    },
+    {
+      "prompt": "Napisz krótką rozmowę między tobą a Lorenzo. Użyj: 'Jak się masz?', 'Gdzie mieszkasz?'. / Write a short conversation with Lorenzo using: How are you? Where do you live?",
+      "expected_structure": [
+        "Cześć Lorenzo! Jak się masz?",
+        "Dobrze. A ty? / Good. And you?",
+        "Mieszkam w Krakowie."
+      ],
+      "hint": "Use: 'A ty?' (And you?) for natural flow."
+    },
+    {
+      "prompt": "Zapisz przedstawienie się państwa Kowalskich w formie oficjalnej. / Write a formal introduction for Mr. and Mrs. Kowalski.",
+      "expected_structure": [
+        "Dzień dobry. Nazywamy się Kowalscy.",
+        "Jesteśmy z Polski.",
+        "Mieszkamy w Warszawie."
+      ],
+      "hint": "Formal plural: Use 'Nazywamy się' (We are called) for families."
+    },
+    {
+      "prompt": "Uzupełnij: (Ja) ______ Christophe. (My) ______ w Krakowie. (Pan) ______ na imię Adam? / Complete: I am Christophe. We live in Kraków. Is your name Adam, sir?",
+      "expected_structure": [
+        "jestem",
+        "mieszkamy",
+        "ma"
+      ],
+      "hint": "Formal: 'Czy pan ma na imię...?' (Do you have the name...?)."
+    },
+    {
+      "prompt": "Napisz pytania do zdań: (1) Lydia jest z Etiopii. (2) Oni mieszkają w Krakowie. (3) On ma na imię Jan. / Write questions for: 1) Lydia is from Ethiopia. 2) They live in Kraków. 3) His name is Jan.",
+      "expected_structure": [
+        "Skąd jest Lydia?",
+        "Gdzie oni mieszkają?",
+        "Jak ma na imię?"
+      ],
+      "hint": "Questions must match the sentence structure. No extra words."
+    },
+    {
+      "prompt": "Uzupełnij: (Panowie) ______ z Polski? (My) ______ na imię Chris i Lorenzo. (Państwo) ______ w Krakowie? / Complete: Are you (gentlemen) from Poland? We are named Chris and Lorenzo. Do you (formal) live in Kraków?",
+      "expected_structure": [
+        "jesteście",
+        "mamy",
+        "mieszkają"
+      ],
+      "hint": "Panowie (you plural) = jesteście. Państwo (they formal) = mieszkają."
+    },
+    {
+      "prompt": "Napisz dialog między tobą a nową osobą w klasie. Użyj formy oficjalnej. / Write a dialogue with a new classmate using formal language.",
+      "expected_structure": [
+        "Dzień dobry. Jak się pani nazywa?",
+        "Nazywam się Anna Nowak. A pan?",
+        "Jestem Christophe Domingos. Miło mi."
+      ],
+      "hint": "Formal reciprocity: Ask 'A pan?' (And you, sir?) after introducing yourself."
+    },
+    {
+      "prompt": "Poproś znajomego o numer telefonu. / Ask a friend for their phone number.",
+      "expected_structure": [
+        "Jaki masz numer telefonu?",
+        "Mój numer to 123-456-789."
+      ],
+      "hint": "No emails (not in Lesson 1). Use only phone numbers."
+    },
+    {
+      "prompt": "Napisz, jak przedstawisz siebie na nowym kursie. / Write how you’d introduce yourself in a new course.",
+      "expected_structure": [
+        "Cześć! Mam na imię Christophe.",
+        "Jestem z Portugalii.",
+        "Mieszkam w Krakowie."
+      ],
+      "hint": "Lesson 1 scope: Name, origin, residence. No jobs/hobbies."
+    },
+    {
+      "prompt": "Napisz krótki opis grupy znajomych, używając 'oni', 'one', 'panowie'. / Write a short description of a friend group using 'they' (male/female/formal).",
+      "expected_structure": [
+        "Oni są z Włoch. (Lorenzo i Berkan)",
+        "One są z Polski. (Anna i Kasia)",
+        "Panowie pracują w biurze. (Pan Nowak i Pan Kowalski)"
+      ],
+      "hint": "Oni (mixed gender), One (all female), Panowie (formal male group)."
     }
   ],
   "listening_and_speaking": [
     {
       "type": "dictation",
-      "sentence": "Listen to the dialogue: 'Cześć, co słychać? – Wszystko w porządku. A u ciebie?'",
+      "sentence": "Listen to the dialogue: 'Cześć, co słychać? – Wszystko w porządku. A u ciebie?' / 'Hi, how are things? – Everything’s fine. And you?'",
       "audio": "Cześć, co słychać? – Wszystko w porządku. A u ciebie?",
       "audio_url": null,
-      "answer": [
-        "Cześć, co słychać? – Wszystko w porządku. A u ciebie?"
-      ],
-      "hint": "Informal conversation about well-being."
+      "answer": ["Cześć, co słychać? – Wszystko w porządku. A u ciebie?"],
+      "hint": "Informal conversation about well-being. (Polish: 'co słychać?' = 'how are things?')"
     },
     {
       "type": "speaking",
-      "sentence": "Powiedz na głos: 'Jak się masz? – Dobrze, dziękuję.'",
-      "prompt": "Practice asking and answering 'Jak się masz?' out loud.",
+      "sentence": "Powiedz na głos: 'Jak się masz? – Dobrze, dziękuję.' / 'Say aloud: How are you? – Good, thank you.'",
+      "audio": "Jak się masz? – Dobrze, dziękuję.",
       "audio_url": null,
-      "reference_text": "Jak się masz? – Dobrze, dziękuję.",
-      "hint": "Focus on good pronunciation."
+      "answer": ["Jak się masz? – Dobrze, dziękuję."],
+      "hint": "Focus on pronouncing 'dziękuję' as 'jen-koo-yeh'. (Polish: 'Jak się masz?' = 'How are you?')"
     },
     {
       "type": "dictation",
-      "sentence": "Listen and write: 'Dzień dobry, mam na imię Paweł. Jak się pani nazywa?'",
+      "sentence": "Listen and write: 'Dzień dobry, mam na imię Paweł. Jak się pani nazywa?' / 'Good morning, my name is Paweł. What’s your name, ma'am?'",
       "audio": "Dzień dobry, mam na imię Paweł. Jak się pani nazywa?",
       "audio_url": null,
-      "answer": [
-        "Dzień dobry, mam na imię Paweł. Jak się pani nazywa?"
-      ],
-      "hint": "Formal introduction."
+      "answer": ["Dzień dobry, mam na imię Paweł. Jak się pani nazywa?"],
+      "hint": "Formal introduction. 'mam na imię' = first name. (Polish: 'pani' = ma'am)"
     },
     {
       "type": "speaking",
-      "sentence": "Powiedz: 'Nazywam się Anna Nowak. Miło mi pana poznać.'",
-      "prompt": "Formal introduction with full name.",
+      "sentence": "Powiedz: 'Nazywam się Anna Nowak. Miło mi pana poznać.' / 'Say: My name is Anna Nowak. Nice to meet you, sir.'",
+      "audio": "Nazywam się Anna Nowak. Miło mi pana poznać.",
       "audio_url": null,
-      "reference_text": "Nazywam się Anna Nowak. Miło mi pana poznać.",
-      "hint": "Emphasize correct pronunciation of 'Nazywam się'."
+      "answer": ["Nazywam się Anna Nowak. Miło mi pana poznać."],
+      "hint": "Use 'nazywam się' for full names. Formal: 'pana' = sir. (Polish: 'Nazywam się...' = 'My name is...')"
     },
     {
       "type": "dictation",
-      "sentence": "Listen and write: 'Mam pytanie: Gdzie mieszkasz?'",
+      "sentence": "Listen and write: 'Mam pytanie: Gdzie mieszkasz?' / 'I have a question: Where do you live?'",
       "audio": "Mam pytanie: Gdzie mieszkasz?",
       "audio_url": null,
-      "answer": [
-        "Mam pytanie: Gdzie mieszkasz?"
-      ],
-      "hint": "Practice the question about place of residence."
+      "answer": ["Mam pytanie: Gdzie mieszkasz?"],
+      "hint": "Ask about residence. Informal: 'mieszkasz' = you live."
+    },
+    {
+      "type": "dictation",
+      "sentence": "Listen and write: 'Jestem z Polski.' / 'I am from Poland.'",
+      "audio": "Jestem z Polski.",
+      "audio_url": null,
+      "answer": ["Jestem z Polski."],
+      "hint": "Use 'jestem z + country'. Example: 'Jestem z Portugalii.' (I’m from Portugal)"
+    },
+    {
+      "type": "speaking",
+      "sentence": "Powiedz: 'Mam na imię [Your Name].' / 'Say: My name is [Your Name].'",
+      "audio": "Mam na imię Christophe.",
+      "audio_url": null,
+      "answer": ["Mam na imię Christophe."],
+      "hint": "Replace with your name. (Polish: 'mam na imię' = my name is)"
+    },
+    {
+      "type": "dictation",
+      "sentence": "Listen and write: 'Tak sobie.' / 'So-so.'",
+      "audio": "Tak sobie.",
+      "audio_url": null,
+      "answer": ["Tak sobie."],
+      "hint": "Answer 'so-so' to 'Jak się masz?'. Pronounce 'tahk soh-byeh'."
+    },
+    {
+      "type": "speaking",
+      "sentence": "Ask: 'Skąd jesteś?' / 'Where are you from?'",
+      "audio": "Skąd jesteś?",
+      "audio_url": null,
+      "answer": ["Skąd jesteś?"],
+      "hint": "Informal question. Formal: 'Skąd pan/pani jest?' (Polish: 'Skąd' = 'From where?')"
+    },
+    {
+      "type": "dictation",
+      "sentence": "Listen and write: 'Mieszkam w Krakowie.' / 'I live in Kraków.'",
+      "audio": "Mieszkam w Krakowie.",
+      "audio_url": null,
+      "answer": ["Mieszkam w Krakowie."],
+      "hint": "Use 'mieszkam w + city'. Example: 'Warszawie' = Warsaw."
+    },
+    {
+      "type": "speaking",
+      "sentence": "Powiedz: 'Dobry wieczór!' / 'Say: Good evening!'",
+      "audio": "Dobry wieczór!",
+      "audio_url": null,
+      "answer": ["Dobry wieczór!"],
+      "hint": "Formal evening greeting. Pronounce 'vyeh-choor'."
+    },
+    {
+      "type": "dictation",
+      "sentence": "Listen and write: 'Nie mówię po polsku.' / 'I don’t speak Polish.'",
+      "audio": "Nie mówię po polsku.",
+      "audio_url": null,
+      "answer": ["Nie mówię po polsku."],
+      "hint": "Focus on 'mówię' = I speak. (Polish: 'Nie mówię...' = 'I don’t speak...')"
+    },
+    {
+      "type": "speaking",
+      "sentence": "Ask: 'Czy masz dzieci?' / 'Do you have children?'",
+      "audio": "Czy masz dzieci?",
+      "audio_url": null,
+      "answer": ["Czy masz dzieci?"],
+      "hint": "Informal: 'Czy masz...?' Formal: 'Czy pan/pani ma...?'"
+    },
+    {
+      "type": "dictation",
+      "sentence": "Listen and write: 'Miło mi.' / 'Nice to meet you.'",
+      "audio": "Miło mi.",
+      "audio_url": null,
+      "answer": ["Miło mi."],
+      "hint": "Neutral phrase after introductions. Pronounce 'mee-wo mee'."
+    },
+    {
+      "type": "speaking",
+      "sentence": "Count from 0-5: 'zero, jeden, dwa, trzy, cztery, pięć' / 'zero, one, two, three, four, five'",
+      "audio": "zero, jeden, dwa, trzy, cztery, pięć",
+      "audio_url": null,
+      "answer": ["zero, jeden, dwa, trzy, cztery, pięć"],
+      "hint": "Numbers 0-5. Pronounce 'pięć' as 'pyench'."
+    },
+    {
+      "type": "dictation",
+      "sentence": "Listen and write: 'To jest mój telefon.' / 'This is my phone.'",
+      "audio": "To jest mój telefon.",
+      "audio_url": null,
+      "answer": ["To jest mój telefon."],
+      "hint": "'to jest' = this is, 'mój' = my. (Polish: 'telefon' = phone)"
+    },
+    {
+      "type": "speaking",
+      "sentence": "Say: 'Do widzenia!' / 'Goodbye!'",
+      "audio": "Do widzenia!",
+      "audio_url": null,
+      "answer": ["Do widzenia!"],
+      "hint": "Formal goodbye. Pronounce 'vih-dzeh-nya'."
+    },
+    {
+      "type": "dictation",
+      "sentence": "Listen and write: 'Jak ma pan na imię?' / 'What is your name, sir?'",
+      "audio": "Jak ma pan na imię?",
+      "audio_url": null,
+      "answer": ["Jak ma pan na imię?"],
+      "hint": "Formal: 'pan' = sir. Use 'ma' = has. (Polish: 'Jak...?' = 'How...?')"
+    },
+    {
+      "type": "speaking",
+      "sentence": "Respond to 'Dziękuję!': 'Proszę!' / 'You’re welcome!'",
+      "audio": "Proszę!",
+      "audio_url": null,
+      "answer": ["Proszę!"],
+      "hint": "Polite response. Pronounce 'pro-sheh'."
+    },
+    {
+      "type": "dictation",
+      "sentence": "Listen and write: 'Nie rozumiem.' / 'I don’t understand.'",
+      "audio": "Nie rozumiem.",
+      "audio_url": null,
+      "answer": ["Nie rozumiem."],
+      "hint": "Pronounce 'roh-zoo-myem'. (Polish: 'rozumiem' = I understand)"
+    },
+    {
+      "type": "speaking",
+      "sentence": "Ask: 'Przepraszam, jak masz na imię?' / 'Excuse me, what’s your name?'",
+      "audio": "Przepraszam, jak masz na imię?",
+      "audio_url": null,
+      "answer": ["Przepraszam, jak masz na imię?"],
+      "hint": "Start with 'Przepraszam' (Excuse me). Informal."
+    },
+    {
+      "type": "dictation",
+      "sentence": "Listen and write: 'On ma na imię Jan.' / 'His name is Jan.'",
+      "audio": "On ma na imię Jan.",
+      "audio_url": null,
+      "answer": ["On ma na imię Jan."],
+      "hint": "Third person: 'On/ona ma...' (He/She has...)."
+    },
+    {
+      "type": "speaking",
+      "sentence": "Say: 'Pa!' / 'Bye!'",
+      "audio": "Pa!",
+      "audio_url": null,
+      "answer": ["Pa!"],
+      "hint": "Informal goodbye. Pronounce as 'pah'."
     }
   ],
-  "real_life_dialogue": {
+"real_life_dialogue": {
     "dialogue": [
       {
         "speaker": "A",
@@ -566,75 +776,491 @@
           "tak sobie"
         ],
         "hint": "It means 'so-so'."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which phrase means ‘Where are you from?’ in Polish?",
+        "options": [
+          "Jak się masz?",
+          "Skąd jesteś?",
+          "Gdzie mieszkasz?"
+        ],
+        "answer": [
+          "Skąd jesteś?"
+        ],
+        "hint": "Literally: 'From where are you?'"
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which form of ‘you’ is used formally to address a male teacher in Polish?",
+        "options": [
+          "Ty",
+          "Pan",
+          "Wy"
+        ],
+        "answer": [
+          "Pan"
+        ],
+        "hint": "It's the polite form for a male."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which phrase is a correct formal greeting?",
+        "options": [
+          "Cześć",
+          "Hej",
+          "Dzień dobry"
+        ],
+        "answer": [
+          "Dzień dobry"
+        ],
+        "hint": "Used in a more official situation."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which set of pronouns is used in the singular for ‘I, you (informal), he’ in Polish?",
+        "options": [
+          "ja, ty, on",
+          "my, wy, oni",
+          "ty, on, ja"
+        ],
+        "answer": [
+          "ja, ty, on"
+        ],
+        "hint": "Remember the order from the grammar table."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which answer is correct for the question ‘Jak masz na imię?’",
+        "options": [
+          "Mam się dobrze.",
+          "Mam na imię Marek.",
+          "Mam dom w Warszawie."
+        ],
+        "answer": [
+          "Mam na imię Marek."
+        ],
+        "hint": "They ask for your name, not your well-being or place of living."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which phrase means ‘I have a question’ in Polish?",
+        "options": [
+          "Mam na imię Andrzej.",
+          "Mam pytanie.",
+          "Mam auto."
+        ],
+        "answer": [
+          "Mam pytanie."
+        ],
+        "hint": "The verb ‘mieć’ means ‘to have.’"
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "If you want to ask ‘Do you have a new car?’ in Polish (informally), which phrase is correct?",
+        "options": [
+          "Czy masz nowy samochód?",
+          "Masz się dobrze?",
+          "Gdzie jest twoje auto?"
+        ],
+        "answer": [
+          "Czy masz nowy samochód?"
+        ],
+        "hint": "Use ‘czy’ for a yes/no question."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which phrase is correct for ‘He is from Poland’ in Polish?",
+        "options": [
+          "On jest z Polsce.",
+          "On jest Polska.",
+          "On jest z Polski."
+        ],
+        "answer": [
+          "On jest z Polski."
+        ],
+        "hint": "Pay attention to the correct case: ‘z Polski.’"
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which phrase means ‘He is in Warsaw now’ in Polish?",
+        "options": [
+          "On jest teraz w Warszawie.",
+          "On jest teraz Warszawa.",
+          "On teraz Warszawie jest."
+        ],
+        "answer": [
+          "On jest teraz w Warszawie."
+        ],
+        "hint": "Use ‘w Warszawie’ for ‘in Warsaw.’"
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which set of numbers is correct in Polish for 0, 1, 2, 3?",
+        "options": [
+          "zero, jeden, dwa, trzy",
+          "zara, jeden, dwa, czry",
+          "zera, jednym, dwaj, trzej"
+        ],
+        "answer": [
+          "zero, jeden, dwa, trzy"
+        ],
+        "hint": "Check the spelling carefully."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which is the correct question to ask for a phone number in Polish?",
+        "options": [
+          "Jaki masz adres?",
+          "Jaki masz numer telefonu?",
+          "Jak masz na imię?"
+        ],
+        "answer": [
+          "Jaki masz numer telefonu?"
+        ],
+        "hint": "Literally: ‘What is your phone number?’"
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which option is correct for ‘My name is Anna Kowalska’ in Polish?",
+        "options": [
+          "Ja jestem Anna Kowalska.",
+          "Nazywam się Anna Kowalska.",
+          "Ona się nazywa Anna Kowalska."
+        ],
+        "answer": [
+          "Nazywam się Anna Kowalska."
+        ],
+        "hint": "Standard way to introduce yourself."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which phrase best translates ‘A u ciebie?’?",
+        "options": [
+          "And how about you?",
+          "Where do you live?",
+          "What’s your name?"
+        ],
+        "answer": [
+          "And how about you?"
+        ],
+        "hint": "Literally: ‘And at you?’"
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which phrase means ‘Everything is fine’ in Polish?",
+        "options": [
+          "Wszystko w porządku.",
+          "Nic nowego.",
+          "Fatalnie."
+        ],
+        "answer": [
+          "Wszystko w porządku."
+        ],
+        "hint": "Used to say that everything is all right."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "If you want to say ‘I’m from Germany’ in Polish, which is correct?",
+        "options": [
+          "Jestem Niemcy.",
+          "Jestem z Niemiec.",
+          "Jestem na Niemcach."
+        ],
+        "answer": [
+          "Jestem z Niemiec."
+        ],
+        "hint": "Use ‘z’ + genitive: ‘z Niemiec.’"
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which phrase means ‘Good evening’ in Polish?",
+        "options": [
+          "Dobranoc",
+          "Dzień dobry",
+          "Dobry wieczór"
+        ],
+        "answer": [
+          "Dobry wieczór"
+        ],
+        "hint": "Used after about 6 PM."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Which expression is used to say goodbye in a formal context?",
+        "options": [
+          "Pa!",
+          "Do widzenia!",
+          "Na razie!"
+        ],
+        "answer": [
+          "Do widzenia!"
+        ],
+        "hint": "Formal farewell."
       }
     ]
   },
-  "mini_quiz": [
-    {
-      "type": "multiple_choice",
-      "question": "What does 'Co słychać?' mean?",
-      "options": [
-        "What’s your name?",
-        "How are things?",
-        "Where do you live?"
-      ],
-      "answer": [
-        "How are things?"
-      ],
-      "hint": "It’s another way to ask ‘How are you?’."
-    },
-    {
-      "type": "multiple_choice",
-      "question": "Which verb means ‘to be’ in Polish?",
-      "options": [
-        "być",
-        "mieć",
-        "mieszkać"
-      ],
-      "answer": [
-        "być"
-      ],
-      "hint": "Basic verb for existence/identity."
-    },
-    {
-      "type": "multiple_choice",
-      "question": "Which phrase is a formal greeting?",
-      "options": [
-        "Cześć",
-        "Dzień dobry",
-        "Hej"
-      ],
-      "answer": [
-        "Dzień dobry"
-      ],
-      "hint": "Used in formal daily interactions."
-    },
-    {
-      "type": "multiple_choice",
-      "question": "If someone asks ‘Jak masz na imię?’, you answer with:",
-      "options": [
-        "Mam na imię ...",
-        "Tak sobie",
-        "Dziękuję"
-      ],
-      "answer": [
-        "Mam na imię ..."
-      ],
-      "hint": "Respond with your first name."
-    },
-    {
-      "type": "multiple_choice",
-      "question": "How do you say 'ten' in Polish?",
-      "options": [
-        "dziesięć",
-        "jeden",
-        "sześć"
-      ],
-      "answer": [
-        "dziesięć"
-      ],
-      "hint": "Counting from 0–10."
-    }
+"mini_quiz": [
+  {
+    "type": "multiple_choice",
+    "question": "What does 'Co słychać?' mean?",
+    "options": [
+      "What’s your name?",
+      "How are things?",
+      "Where do you live?"
+    ],
+    "answer": [
+      "How are things?"
+    ],
+    "hint": "It’s another way to ask ‘How are you?’. "
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which verb means ‘to be’ in Polish?",
+    "options": [
+      "być",
+      "mieć",
+      "mieszkać"
+    ],
+    "answer": [
+      "być"
+    ],
+    "hint": "Basic verb for existence/identity."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which phrase is a formal greeting?",
+    "options": [
+      "Cześć",
+      "Dzień dobry",
+      "Hej"
+    ],
+    "answer": [
+      "Dzień dobry"
+    ],
+    "hint": "Used in formal daily interactions."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If someone asks ‘Jak masz na imię?’, you answer with:",
+    "options": [
+      "Mam na imię ...",
+      "Tak sobie",
+      "Dziękuję"
+    ],
+    "answer": [
+      "Mam na imię ..."
+    ],
+    "hint": "Respond with your first name."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How do you say 'ten' in Polish?",
+    "options": [
+      "dziesięć",
+      "jeden",
+      "sześć"
+    ],
+    "answer": [
+      "dziesięć"
+    ],
+    "hint": "Counting from 0–10."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which phrase means ‘Where are you from?’ in Polish?",
+    "options": [
+      "Skąd jesteś?",
+      "Co słychać?",
+      "Jak się masz?"
+    ],
+    "answer": [
+      "Skąd jesteś?"
+    ],
+    "hint": "Literally: ‘From where are you?’"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which is correct for ‘My name is Anna.’ in Polish?",
+    "options": [
+      "Mam na imię Anna.",
+      "Ja jestem z Anna.",
+      "Ty się nazywasz Anna."
+    ],
+    "answer": [
+      "Mam na imię Anna."
+    ],
+    "hint": "Focus on giving your first name."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How do you say ‘I am from Spain’ in Polish?",
+    "options": [
+      "Ja jestem z Hiszpanii.",
+      "Jestem Hiszpania.",
+      "Mam Hiszpania."
+    ],
+    "answer": [
+      "Ja jestem z Hiszpanii."
+    ],
+    "hint": "Pay attention to the preposition ‘z’ + genitive."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which phrase means ‘Everything is fine’ in Polish?",
+    "options": [
+      "Wszystko w porządku.",
+      "Co słychać?",
+      "Nic nowego."
+    ],
+    "answer": [
+      "Wszystko w porządku."
+    ],
+    "hint": "Used to say everything is OK."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What’s the Polish word for ‘zero’?",
+    "options": [
+      "jeden",
+      "zero",
+      "cztery"
+    ],
+    "answer": [
+      "zero"
+    ],
+    "hint": "Number 0 is spelled the same in Polish and English."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which is the correct question to ask informally: ‘Do you have a phone?’",
+    "options": [
+      "Masz telefon?",
+      "Czy jesteś telefon?",
+      "Gdzie telefon?"
+    ],
+    "answer": [
+      "Masz telefon?"
+    ],
+    "hint": "Use the verb ‘mieć’ (to have)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which set of numbers from 1 to 5 is correct in Polish?",
+    "options": [
+      "jeden, dwa, trzy, cztery, pięć",
+      "jeden, dwa, trzy, cztery, sześć",
+      "jeden, dwa, trzy, cztery, dziesięć"
+    ],
+    "answer": [
+      "jeden, dwa, trzy, cztery, pięć"
+    ],
+    "hint": "We’re listing them in the right order."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which phrase means ‘not bad’ in Polish?",
+    "options": [
+      "Niedobrze",
+      "Nieźle",
+      "Świetnie"
+    ],
+    "answer": [
+      "Nieźle"
+    ],
+    "hint": "It’s between ‘good’ and ‘bad.’"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which is used to greet someone in the evening, formally?",
+    "options": [
+      "Dobranoc",
+      "Dobry wieczór",
+      "Cześć"
+    ],
+    "answer": [
+      "Dobry wieczór"
+    ],
+    "hint": "Formal greeting after 6 PM or so."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which phrase means ‘See you later’ in Polish?",
+    "options": [
+      "Do zobaczenia później",
+      "Dzień dobry",
+      "Dobry wieczór"
+    ],
+    "answer": [
+      "Do zobaczenia później"
+    ],
+    "hint": "Literally ‘See you later.’"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which is correct to say ‘He is from France’ in Polish?",
+    "options": [
+      "On jest z Francji.",
+      "On z Francja.",
+      "On jest w Francji."
+    ],
+    "answer": [
+      "On jest z Francji."
+    ],
+    "hint": "Use ‘z’ plus genitive: ‘z Francji.’"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which pronoun means ‘they’ (masculine/mixed group) in Polish?",
+    "options": [
+      "Oni",
+      "One",
+      "Wy"
+    ],
+    "answer": [
+      "Oni"
+    ],
+    "hint": "Used for groups with at least one male."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which question do you ask if you want to know someone’s last name (informally)?",
+    "options": [
+      "Jak się nazywasz?",
+      "Jak masz na imię?",
+      "Skąd jesteś?"
+    ],
+    "answer": [
+      "Jak się nazywasz?"
+    ],
+    "hint": "Focus on full name/surname."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which phrase means ‘He has a question’ in Polish?",
+    "options": [
+      "On ma pytanie.",
+      "On ma na imię?",
+      "On ma się dobrze."
+    ],
+    "answer": [
+      "On ma pytanie."
+    ],
+    "hint": "Use 'mieć' (to have) + 'pytanie' (question)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which expression is used to respond to 'Jak się masz?' meaning ‘Bad’ in Polish?",
+    "options": [
+      "Fatalnie",
+      "Dobrze",
+      "Świetnie"
+    ],
+    "answer": [
+      "Fatalnie"
+    ],
+    "hint": "Stronger than just ‘źle.'"
+  }
   ],
   "review_and_feedback": {
     "summary": "Świetnie! Ukończyłeś lekcję 1, w której nauczyłeś się podstawowych powitań, pytań o imię, zapytań o samopoczucie i używania czasowników 'być' i 'mieć'. Pamiętaj, by regularnie ćwiczyć te wyrażenia i zwroty.",

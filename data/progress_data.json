@@ -559,6 +559,76 @@
       "exercise_type": "vocabulary",
       "question": "viewed_vocab",
       "correct": true
+    },
+    {
+      "timestamp": "2025-01-22T14:38:28.850925",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2025-01-23T18:50:27.757291",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2025-01-23T18:51:11.329498",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2025-01-23T19:12:10.939317",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2025-01-23T19:17:51.047728",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2025-01-23T19:23:25.013737",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2025-01-23T19:26:52.460614",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2025-01-23T19:27:12.990209",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2025-01-24T18:08:01.688771",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
+    },
+    {
+      "timestamp": "2025-01-25T12:11:10.022444",
+      "lesson_id": "lesson_1",
+      "exercise_type": "vocabulary",
+      "question": "viewed_vocab",
+      "correct": true
     }
   ]
 }
