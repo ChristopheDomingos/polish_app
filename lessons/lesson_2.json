@@ -1,289 +1,302 @@
 {
-    "lesson_id": "lesson_2",
-    "overview": {
-      "title": "Jaki on jest? Jaka ona jest?",
-      "duration": "45 minutes",
-      "objectives": [
-        "Describe people and objects using Polish adjectives in the nominative singular",
-        "Identify masculine, feminine, and neuter nouns",
-        "Conjugate selected verbs in the -m, -sz pattern (e.g., mieszkać, rozumieć, czytać)",
-        "Learn and use numbers 11–23 in everyday contexts",
-        "Ask and answer questions about appearance and character (Jaki on jest? Jaka ona jest?)"
-      ],
-      "cultural_notes": [
-        "In Polish, nouns have grammatical gender (masculine, feminine, or neuter). Adjectives must agree in gender with the nouns they describe.",
-        "When describing appearance, Poles often use adjectives like wysoki (tall), niski (short), szczupły (slim), gruby (overweight). For character, words like wesoły (cheerful), smutny (sad), sympatyczny (friendly) are common.",
-        "Many clothing items (e.g., okulary – glasses, dżinsy – jeans) and some objects (drzwi – door) exist only in plural form in Polish. Hence we say: 'To są okulary' or 'To są drzwi.'",
-        "Learning to recognize noun gender and the correct adjective endings is essential for accurate description in Polish."
-      ],
-      "difficulty": "beginner"
-    },
-    "grammar_insight": {
-      "explanation": "In Lesson 2, we focus on describing people and objects using adjectives (e.g., wysoki – tall, młody – young) in the nominative singular. Nouns can be masculine (mężczyzna, komputer), feminine (kobieta, kawa), or neuter (okno, muzeum). Adjectives must match the noun’s gender (Jaki? męski, Jaka? żeński, Jakie? nijaki). We also learn the -m, -sz conjugation pattern (e.g., mieszkam – mieszkasz, rozumiem – rozumiesz). Additionally, we practice numbers 11–23 (jedenaście, dwanaście, trzynaście, etc.).",
-      "tables": [
-        {
-          "title": "Nominative Singular Noun Endings",
-          "headers": [
-            "Masculine",
-            "Feminine",
-            "Neuter"
+  "lesson_id": "lesson_2",
+  "overview": {
+    "title": "Jaki on jest? Jaka ona jest?",
+    "duration": "45 minutes",
+    "objectives": [
+      "Describe people and objects using Polish adjectives in the nominative singular",
+      "Identify masculine, feminine, and neuter nouns",
+      "Conjugate selected verbs in the -m, -sz pattern (e.g., mieszkać, rozumieć, czytać)",
+      "Learn and use numbers 11–23 in everyday contexts",
+      "Ask and answer questions about appearance and character (Jaki on jest? Jaka ona jest?)"
+    ],
+    "cultural_notes": [
+      "In Polish, nouns have grammatical gender (masculine, feminine, or neuter). Adjectives must agree in gender with the nouns they describe.",
+      "When describing appearance, Poles often use adjectives like wysoki (tall), niski (short), szczupły (slim), gruby (overweight). For character, words like wesoły (cheerful), smutny (sad), sympatyczny (friendly) are common.",
+      "Many clothing items (e.g., okulary – glasses, dżinsy – jeans) and some objects (drzwi – door) exist only in plural form in Polish. Hence we say: 'To są okulary' or 'To są drzwi.'",
+      "Learning to recognize noun gender and the correct adjective endings is essential for accurate description in Polish.",
+      "Additionally, keep in mind that other everyday items such as 'drzwi' (door) and 'okulary' (glasses) remain in plural form, even when referring to a single door or a single pair of glasses."
+    ],
+    "difficulty": "beginner"
+  },
+  "grammar_insight": {
+    "explanation": "In Lesson 2, we focus on describing people and objects using adjectives (e.g., wysoki – tall, młody – young) in the nominative singular. Nouns can be masculine (mężczyzna, komputer), feminine (kobieta, kawa), or neuter (okno, muzeum). Adjectives must match the noun’s gender (Jaki? męski, Jaka? żeński, Jakie? nijaki). We also learn the -m, -sz conjugation pattern (e.g., mieszkam – mieszkasz, rozumiem – rozumiesz). Additionally, we practice numbers 11–23 (jedenaście, dwanaście, trzynaście, etc.).",
+    "tables": [
+      {
+        "title": "Nominative Singular Noun Endings",
+        "headers": [
+          "Masculine",
+          "Feminine",
+          "Neuter"
+        ],
+        "rows": [
+          [
+            "-∅ (consonant ending)",
+            "-a",
+            "-o / -e / -um / -ę"
           ],
-          "rows": [
-            [
-              "-∅ (consonant ending)",
-              "-a",
-              "-o / -e / -um / -ę"
-            ],
-            [
-              "przykład: telefon",
-              "przykład: kawa",
-              "przykład: okno, muzeum"
-            ]
+          [
+            "przykład: telefon",
+            "przykład: kawa",
+            "przykład: okno, muzeum"
           ]
-        },
-        {
-          "title": "Basic Adjective Endings (Nominative Singular)",
-          "headers": [
-            "Masculine (Jaki?)",
-            "Feminine (Jaka?)",
-            "Neuter (Jakie?)"
+        ]
+      },
+      {
+        "title": "Basic Adjective Endings (Nominative Singular)",
+        "headers": [
+          "Masculine (Jaki?)",
+          "Feminine (Jaka?)",
+          "Neuter (Jakie?)"
+        ],
+        "rows": [
+          [
+            "-y / -i",
+            "-a",
+            "-e / -ie"
           ],
-          "rows": [
-            [
-              "-y / -i",
-              "-a",
-              "-e / -ie"
-            ],
-            [
-              "np. nowy, dobry, polski",
-              "np. nowa, dobra, polska",
-              "np. nowe, dobre, polskie"
-            ]
+          [
+            "np. nowy, dobry, polski",
+            "np. nowa, dobra, polska",
+            "np. nowe, dobre, polskie"
           ]
-        },
-        {
-          "title": "Selected Verb Conjugation (-m, -sz) Examples",
-          "headers": [
-            "Pronoun",
-            "mieszkać (to live)",
-            "rozumieć (to understand)"
+        ]
+      },
+      {
+        "title": "Selected Verb Conjugation (-m, -sz) Examples",
+        "headers": [
+          "Pronoun",
+          "mieszkać (to live)",
+          "rozumieć (to understand)"
+        ],
+        "rows": [
+          [
+            "ja",
+            "mieszkam",
+            "rozumiem"
           ],
-          "rows": [
-            [
-              "ja",
-              "mieszkam",
-              "rozumiem"
-            ],
-            [
-              "ty",
-              "mieszkasz",
-              "rozumiesz"
-            ],
-            [
-              "on/ona/pan/pani",
-              "mieszka",
-              "rozumie"
-            ]
+          [
+            "ty",
+            "mieszkasz",
+            "rozumiesz"
+          ],
+          [
+            "on/ona/pan/pani",
+            "mieszka",
+            "rozumie"
           ]
-        }
-      ],
-      "audio_explanation": "Listen to examples of describing people and objects. Pay attention to correct adjective endings for masculine, feminine, and neuter nouns.",
-      "audio_explanation_url": null
-    },
-    "vocabulary": [
-      {
-        "word": "wysoki",
-        "translation": "tall (masc.)",
-        "audio": "wysoki",
-        "audio_url": null
-      },
-      {
-        "word": "niski",
-        "translation": "short (masc.)",
-        "audio": "niski",
-        "audio_url": null
-      },
-      {
-        "word": "młody",
-        "translation": "young (masc.)",
-        "audio": "młody",
-        "audio_url": null
-      },
-      {
-        "word": "stary",
-        "translation": "old (masc.)",
-        "audio": "stary",
-        "audio_url": null
-      },
-      {
-        "word": "wesoły",
-        "translation": "cheerful (masc.)",
-        "audio": "wesoły",
-        "audio_url": null
-      },
-      {
-        "word": "smutny",
-        "translation": "sad (masc.)",
-        "audio": "smutny",
-        "audio_url": null
-      },
-      {
-        "word": "szczupły",
-        "translation": "slim (masc.)",
-        "audio": "szczupły",
-        "audio_url": null
-      },
-      {
-        "word": "gruby",
-        "translation": "overweight (masc.)",
-        "audio": "gruby",
-        "audio_url": null
-      },
-      {
-        "word": "ładna",
-        "translation": "pretty (fem.)",
-        "audio": "ładna",
-        "audio_url": null
-      },
-      {
-        "word": "brzydka",
-        "translation": "ugly (fem.)",
-        "audio": "brzydka",
-        "audio_url": null
-      },
-      {
-        "word": "przystojny",
-        "translation": "handsome (masc.)",
-        "audio": "przystojny",
-        "audio_url": null
-      },
-      {
-        "word": "zdrowy",
-        "translation": "healthy (masc.)",
-        "audio": "zdrowy",
-        "audio_url": null
-      },
-      {
-        "word": "chory",
-        "translation": "sick (masc.)",
-        "audio": "chory",
-        "audio_url": null
-      },
-      {
-        "word": "masz",
-        "translation": "(you) have",
-        "audio": "masz",
-        "audio_url": null
-      },
-      {
-        "word": "mieszkam",
-        "translation": "(I) live",
-        "audio": "mieszkam",
-        "audio_url": null
-      },
-      {
-        "word": "rozumiem",
-        "translation": "(I) understand",
-        "audio": "rozumiem",
-        "audio_url": null
-      },
-      {
-        "word": "przepraszam",
-        "translation": "(I) apologize / (I) am sorry / Excuse me",
-        "audio": "przepraszam",
-        "audio_url": null
-      },
-      {
-        "word": "pytam",
-        "translation": "(I) ask",
-        "audio": "pytam",
-        "audio_url": null
-      },
-      {
-        "word": "czytam",
-        "translation": "(I) read",
-        "audio": "czytam",
-        "audio_url": null
-      },
-      {
-        "word": "jedenaście",
-        "translation": "eleven",
-        "audio": "jedenaście",
-        "audio_url": null
-      },
-      {
-        "word": "dwanaście",
-        "translation": "twelve",
-        "audio": "dwanaście",
-        "audio_url": null
-      },
-      {
-        "word": "trzynaście",
-        "translation": "thirteen",
-        "audio": "trzynaście",
-        "audio_url": null
-      },
-      {
-        "word": "czternaście",
-        "translation": "fourteen",
-        "audio": "czternaście",
-        "audio_url": null
-      },
-      {
-        "word": "piętnaście",
-        "translation": "fifteen",
-        "audio": "piętnaście",
-        "audio_url": null
-      },
-      {
-        "word": "szesnaście",
-        "translation": "sixteen",
-        "audio": "szesnaście",
-        "audio_url": null
-      },
-      {
-        "word": "siedemnaście",
-        "translation": "seventeen",
-        "audio": "siedemnaście",
-        "audio_url": null
-      },
-      {
-        "word": "osiemnaście",
-        "translation": "eighteen",
-        "audio": "osiemnaście",
-        "audio_url": null
-      },
-      {
-        "word": "dziewiętnaście",
-        "translation": "nineteen",
-        "audio": "dziewiętnaście",
-        "audio_url": null
-      },
-      {
-        "word": "dwadzieścia",
-        "translation": "twenty",
-        "audio": "dwadzieścia",
-        "audio_url": null
-      },
-      {
-        "word": "dwadzieścia jeden",
-        "translation": "twenty-one",
-        "audio": "dwadzieścia jeden",
-        "audio_url": null
-      },
-      {
-        "word": "dwadzieścia dwa",
-        "translation": "twenty-two",
-        "audio": "dwadzieścia dwa",
-        "audio_url": null
-      },
-      {
-        "word": "dwadzieścia trzy",
-        "translation": "twenty-three",
-        "audio": "dwadzieścia trzy",
-        "audio_url": null
+        ]
       }
     ],
+    "audio_explanation": "Listen to examples of describing people and objects. Pay attention to correct adjective endings for masculine, feminine, and neuter nouns.",
+    "audio_explanation_url": null
+  },
+  "vocabulary": [
+    {
+      "word": "wysoki",
+      "translation": "tall (masc.)",
+      "audio": "wysoki",
+      "audio_url": null
+    },
+    {
+      "word": "niski",
+      "translation": "short (masc.)",
+      "audio": "niski",
+      "audio_url": null
+    },
+    {
+      "word": "młody",
+      "translation": "young (masc.)",
+      "audio": "młody",
+      "audio_url": null
+    },
+    {
+      "word": "stary",
+      "translation": "old (masc.)",
+      "audio": "stary",
+      "audio_url": null
+    },
+    {
+      "word": "wesoły",
+      "translation": "cheerful (masc.)",
+      "audio": "wesoły",
+      "audio_url": null
+    },
+    {
+      "word": "smutny",
+      "translation": "sad (masc.)",
+      "audio": "smutny",
+      "audio_url": null
+    },
+    {
+      "word": "szczupły",
+      "translation": "slim (masc.)",
+      "audio": "szczupły",
+      "audio_url": null
+    },
+    {
+      "word": "gruby",
+      "translation": "overweight (masc.)",
+      "audio": "gruby",
+      "audio_url": null
+    },
+    {
+      "word": "ładna",
+      "translation": "pretty (fem.)",
+      "audio": "ładna",
+      "audio_url": null
+    },
+    {
+      "word": "brzydka",
+      "translation": "ugly (fem.)",
+      "audio": "brzydka",
+      "audio_url": null
+    },
+    {
+      "word": "przystojny",
+      "translation": "handsome (masc.)",
+      "audio": "przystojny",
+      "audio_url": null
+    },
+    {
+      "word": "zdrowy",
+      "translation": "healthy (masc.)",
+      "audio": "zdrowy",
+      "audio_url": null
+    },
+    {
+      "word": "chory",
+      "translation": "sick (masc.)",
+      "audio": "chory",
+      "audio_url": null
+    },
+    {
+      "word": "masz",
+      "translation": "(you) have",
+      "audio": "masz",
+      "audio_url": null
+    },
+    {
+      "word": "mieszkam",
+      "translation": "(I) live",
+      "audio": "mieszkam",
+      "audio_url": null
+    },
+    {
+      "word": "rozumiem",
+      "translation": "(I) understand",
+      "audio": "rozumiem",
+      "audio_url": null
+    },
+    {
+      "word": "przepraszam",
+      "translation": "(I) apologize / (I) am sorry / Excuse me",
+      "audio": "przepraszam",
+      "audio_url": null
+    },
+    {
+      "word": "pytam",
+      "translation": "(I) ask",
+      "audio": "pytam",
+      "audio_url": null
+    },
+    {
+      "word": "czytam",
+      "translation": "(I) read",
+      "audio": "czytam",
+      "audio_url": null
+    },
+    {
+      "word": "jedenaście",
+      "translation": "eleven",
+      "audio": "jedenaście",
+      "audio_url": null
+    },
+    {
+      "word": "dwanaście",
+      "translation": "twelve",
+      "audio": "dwanaście",
+      "audio_url": null
+    },
+    {
+      "word": "trzynaście",
+      "translation": "thirteen",
+      "audio": "trzynaście",
+      "audio_url": null
+    },
+    {
+      "word": "czternaście",
+      "translation": "fourteen",
+      "audio": "czternaście",
+      "audio_url": null
+    },
+    {
+      "word": "piętnaście",
+      "translation": "fifteen",
+      "audio": "piętnaście",
+      "audio_url": null
+    },
+    {
+      "word": "szesnaście",
+      "translation": "sixteen",
+      "audio": "szesnaście",
+      "audio_url": null
+    },
+    {
+      "word": "siedemnaście",
+      "translation": "seventeen",
+      "audio": "siedemnaście",
+      "audio_url": null
+    },
+    {
+      "word": "osiemnaście",
+      "translation": "eighteen",
+      "audio": "osiemnaście",
+      "audio_url": null
+    },
+    {
+      "word": "dziewiętnaście",
+      "translation": "nineteen",
+      "audio": "dziewiętnaście",
+      "audio_url": null
+    },
+    {
+      "word": "dwadzieścia",
+      "translation": "twenty",
+      "audio": "dwadzieścia",
+      "audio_url": null
+    },
+    {
+      "word": "dwadzieścia jeden",
+      "translation": "twenty-one",
+      "audio": "dwadzieścia jeden",
+      "audio_url": null
+    },
+    {
+      "word": "dwadzieścia dwa",
+      "translation": "twenty-two",
+      "audio": "dwadzieścia dwa",
+      "audio_url": null
+    },
+    {
+      "word": "dwadzieścia trzy",
+      "translation": "twenty-three",
+      "audio": "dwadzieścia trzy",
+      "audio_url": null
+    },
+    {
+      "word": "drzwi",
+      "translation": "door (plural-only)",
+      "audio": "drzwi",
+      "audio_url": null
+    },
+    {
+      "word": "okulary",
+      "translation": "glasses (plural-only)",
+      "audio": "okulary",
+      "audio_url": null
+    }
+  ],
     "guided_practice": [
       {
         "type": "fill_in_the_blank",
@@ -376,54 +389,272 @@
           "This is an old photograph."
         ],
         "hint": "Focus on the feminine adjective + noun."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "(Ja) _______ kawę i (ty) _______ herbatę. (pić)",
+        "answer": [
+          "piję",
+          "pijesz"
+        ],
+        "hint": "Use the correct -m, -sz forms of 'pić' for 'ja' and 'ty'."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Czy ona _______ (rozumieć) po polsku? Tak, ona wszystko _______.",
+        "answer": [
+          "rozumie",
+          "rozumie"
+        ],
+        "hint": "Third person singular in -e, -i conjugation."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which adjective form correctly describes 'kawa' (feminine)?",
+        "options": [
+          "stary",
+          "stara",
+          "stare"
+        ],
+        "answer": [
+          "stara"
+        ],
+        "hint": "Feminine singular adjective for 'kawa'."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which verb form is correct for 'my' (we) when using 'czytać'?\n(We read)",
+        "options": [
+          "czytamy",
+          "czytam",
+          "czytają"
+        ],
+        "answer": [
+          "czytamy"
+        ],
+        "hint": "First person plural in -my."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Gdzie _______ mieszkacie? _______ mieszkamy w Gdańsku. (My / wy)",
+        "answer": [
+          "wy",
+          "my"
+        ],
+        "hint": "Use the correct personal pronouns in Polish."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to Polish: 'They are young and energetic.'",
+        "answer": [
+          "Oni są młodzi i energiczni."
+        ],
+        "hint": "Use the plural masculine adjectives ending in -i."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Pan Kowalski _______ w Warszawie, a pani Kowalska _______ w Krakowie. (mieszkać)",
+        "answer": [
+          "mieszka",
+          "mieszka"
+        ],
+        "hint": "Formal third person singular for both pan and pani."
+      },
+      {
+        "type": "translate",
+        "sentence": "Translate to English: 'To jest duże okno i szerokie drzwi.'",
+        "answer": [
+          "This is a big window and a wide door."
+        ],
+        "hint": "Notice the adjectives for neuter noun 'okno' and plural 'drzwi'."
+      },
+      {
+        "type": "multiple_choice",
+        "sentence": "Which form is correct for plural 'oni' using the verb 'mieć'?\n(They have)",
+        "options": [
+          "mamy",
+          "mają",
+          "macie"
+        ],
+        "answer": [
+          "mają"
+        ],
+        "hint": "Third person plural form ends with -ją."
+      },
+      {
+        "type": "fill_in_the_blank",
+        "sentence": "Czy _______ (pan/pani) rozumie, co on mówi? Tak, _______ dobrze rozumiem.",
+        "answer": [
+          "pan",
+          "ja"
+        ],
+        "hint": "Use the correct formal address pronoun (pan/pani) and then 'ja' for the reply."
       }
     ],
     "writing_practice": [
       {
-        "prompt": "Napisz krótki dialog: Kto to jest? To jest nowy profesor. Jaki on jest? On jest młody i sympatyczny.",
+        "prompt": "Napisz po polsku: 'Who is this?' i odpowiedz: 'This is a new professor.' / Write in Polish: 'Kto to jest?' and 'To jest nowy profesor.'",
         "expected_structure": [
-          "Kto to jest?",
-          "To jest nowy profesor.",
-          "Jaki on jest?",
-          "On jest młody i sympatyczny."
+          "Kto to jest",
+          "To jest nowy profesor"
         ],
-        "hint": "Use key phrases about describing someone’s appearance/character."
+        "hint": "Type exactly two lines: 'Kto to jest' (no question mark) and 'To jest nowy profesor'"
       },
       {
-        "prompt": "Opisz swoją koleżankę lub kolegę. Użyj form: Ona jest wysoka, młoda i wesoła. On jest przystojny, wysportowany i wesoły.",
+        "prompt": "Zapytaj: 'What is he like?' i odpowiedz: 'He is young and friendly.' / Write in Polish: 'Jaki on jest?' and 'On jest młody i sympatyczny.'",
         "expected_structure": [
-          "Ona jest ...",
-          "On jest ..."
+          "Jaki on jest",
+          "On jest młody i sympatyczny"
         ],
-        "hint": "Focus on correct feminine/masculine adjective endings."
+        "hint": "Use masculine adjectives: 'młody' (young) and 'sympatyczny' (friendly)"
       },
       {
-        "prompt": "Napisz 3 zdania z pytaniem 'Jaki on jest?' i odpowiedzią: 'On jest ...'. Użyj przymiotników np. wesoły, młody, wysoki.",
+        "prompt": "Zapytaj: 'What is she like?' i odpowiedz: 'She is tall and cheerful.' / Write in Polish: 'Jaka ona jest?' and 'Ona jest wysoka i wesoła.'",
         "expected_structure": [
-          "Jaki on jest?",
-          "On jest ..."
+          "Jaka ona jest",
+          "Ona jest wysoka i wesoła"
         ],
-        "hint": "Practice the masculine forms with 'on'."
+        "hint": "Use feminine adjectives: 'wysoka' (tall) and 'wesoła' (cheerful)"
       },
       {
-        "prompt": "Napisz zdania z liczebnikami 11–23. Np. Mam jedenaście pytań. Ona ma dwadzieścia trzy lata.",
+        "prompt": "Zapytaj: 'Where do you live?' (informal) i odpowiedz: 'I live in Kraków.' / Write in Polish: 'Gdzie mieszkasz?' and 'Mieszkam w Krakowie.'",
         "expected_structure": [
-          "Mam jedenaście ...",
-          "dwadzieścia trzy ..."
+          "Gdzie mieszkasz",
+          "Mieszkam w Krakowie"
         ],
-        "hint": "Include at least 3 numbers from 11–23 in your sentences."
+        "hint": "Use the verb 'mieszkać' (-asz for 'ty', -am for 'ja')"
       },
       {
-        "prompt": "Przećwicz koniugację: napisz formy czasownika 'czytać' w zdaniach (ja, ty, on/ona, my, wy, oni).",
+        "prompt": "Zapytaj: 'Do you have a car?' (informal) i odpowiedz: 'Yes, I have a new car.' / Write in Polish: 'Czy masz samochód?' and 'Tak, mam nowy samochód.'",
         "expected_structure": [
-          "Czytam",
-          "Czytasz",
-          "Czyta",
-          "Czytamy",
-          "Czytacie",
-          "Czytają"
+          "Czy masz samochód",
+          "Tak mam nowy samochód"
         ],
-        "hint": "Use the -m, -sz pattern."
+        "hint": "No punctuation. Use 'masz' for 'you have', 'mam' for 'I have'"
+      },
+      {
+        "prompt": "Przećwicz koniugację czasownika 'czytać' – napisz 6 krótkich odpowiedzi: (ja) 'I read', (ty) 'you read', (on) 'he reads', (my) 'we read', (wy) 'you read (pl.)', (oni) 'they read'. / In Polish: 'Ja czytam', 'Ty czytasz', 'On czyta', 'My czytamy', 'Wy czytacie', 'Oni czytają'",
+        "expected_structure": [
+          "Ja czytam",
+          "Ty czytasz",
+          "On czyta",
+          "My czytamy",
+          "Wy czytacie",
+          "Oni czytają"
+        ],
+        "hint": "Type exactly these forms with no punctuation or extra words"
+      },
+      {
+        "prompt": "Napisz zdania z liczbami: 'I have 15 questions' i 'He has 19 years.' / Write in Polish: 'Mam piętnaście pytań' and 'On ma dziewiętnaście lat'",
+        "expected_structure": [
+          "Mam piętnaście pytań",
+          "On ma dziewiętnaście lat"
+        ],
+        "hint": "Use numbers: piętnaście (15), dziewiętnaście (19)"
+      },
+      {
+        "prompt": "Opisz Annę: 'Anna is Polish' i 'She has a Polish passport.' / Write in Polish: 'Anna jest Polką' and 'Ona ma polski paszport'",
+        "expected_structure": [
+          "Anna jest Polką",
+          "Ona ma polski paszport"
+        ],
+        "hint": "Feminine form for nationality: 'Polką'"
+      },
+      {
+        "prompt": "Opisz Marco: 'Marco is Italian' i 'He has an Italian car.' / Write in Polish: 'Marco jest Włochem' and 'On ma włoski samochód'",
+        "expected_structure": [
+          "Marco jest Włochem",
+          "On ma włoski samochód"
+        ],
+        "hint": "Masculine form for nationality: 'Włochem'"
+      },
+      {
+        "prompt": "Zapytaj o imię (informal) i odpowiedz: 'My name is...' / Write in Polish: 'Jak masz na imię' and 'Mam na imię Anna'",
+        "expected_structure": [
+          "Jak masz na imię",
+          "Mam na imię Anna"
+        ],
+        "hint": "Replace 'Anna' with any name you like, but keep the structure"
+      },
+      {
+        "prompt": "Zapytaj o nazwisko (informal) i odpowiedz: 'My last name is...' / Write in Polish: 'Jak się nazywasz' and 'Nazywam się Nowak'",
+        "expected_structure": [
+          "Jak się nazywasz",
+          "Nazywam się Nowak"
+        ],
+        "hint": "Use 'Jak się nazywasz' for a friend, 'Nazywam się...' for your surname"
+      },
+      {
+        "prompt": "Zapytaj: 'Where is she from?' i odpowiedz: 'She is from Spain.' / Write in Polish: 'Skąd ona jest' and 'Ona jest z Hiszpanii'",
+        "expected_structure": [
+          "Skąd ona jest",
+          "Ona jest z Hiszpanii"
+        ],
+        "hint": "Use 'z' + country in genitive: 'z Hiszpanii'"
+      },
+      {
+        "prompt": "Napisz dwa zdania: 'He is from Germany' i 'She is from France.' / Write in Polish: 'On jest z Niemiec' and 'Ona jest z Francji'",
+        "expected_structure": [
+          "On jest z Niemiec",
+          "Ona jest z Francji"
+        ],
+        "hint": "Remember 'z Niemiec' (from Germany), 'z Francji' (from France)"
+      },
+      {
+        "prompt": "Zapytaj: 'Do you understand?' (informal) i odpowiedz: 'Yes, I understand.' / Write in Polish: 'Czy rozumiesz' and 'Tak rozumiem'",
+        "expected_structure": [
+          "Czy rozumiesz",
+          "Tak rozumiem"
+        ],
+        "hint": "Use -sz for 'you' (rozumiesz) and -m for 'I' (rozumiem)"
+      },
+      {
+        "prompt": "Stwórz krótkie pytanie i odpowiedź z 'mówić' (to speak): 'Do you speak Polish?' 'I speak a little.' / Write in Polish: 'Czy mówisz po polsku' and 'Mówię trochę'",
+        "expected_structure": [
+          "Czy mówisz po polsku",
+          "Mówię trochę"
+        ],
+        "hint": "Use -sz for 'you' and -ę for 'I'"
+      },
+      {
+        "prompt": "Zapytaj: 'What is her name?' (formal, addressing a woman) i odpowiedz: 'Her name is...' / Write in Polish: 'Jak ma pani na imię' and 'Pani ma na imię Ewa'",
+        "expected_structure": [
+          "Jak ma pani na imię",
+          "Pani ma na imię Ewa"
+        ],
+        "hint": "Address her as 'pani' and use 'ma' (3rd person). Keep it short"
+      },
+      {
+        "prompt": "Stwórz krótkie zdanie o dziecku: 'This is a small child' i zapytaj: 'Where is it?' / Write in Polish: 'To jest małe dziecko' and 'Gdzie ono jest'",
+        "expected_structure": [
+          "To jest małe dziecko",
+          "Gdzie ono jest"
+        ],
+        "hint": "Neuter adjectives: 'małe' for 'dziecko'"
+      },
+      {
+        "prompt": "Napisz pytanie i odpowiedź: 'Where do you live, sir?' and 'I live in Warsaw.' / Write in Polish: 'Gdzie pan mieszka' and 'Mieszkam w Warszawie'",
+        "expected_structure": [
+          "Gdzie pan mieszka",
+          "Mieszkam w Warszawie"
+        ],
+        "hint": "Formal to a man: 'pan mieszka,' 'ja mieszkam'"
+      },
+      {
+        "prompt": "Zadaj pytanie: 'Do they live in Poland?' i odpowiedz: 'Yes, they live in Poland.' / Write in Polish: 'Czy oni mieszkają w Polsce' and 'Tak oni mieszkają w Polsce'",
+        "expected_structure": [
+          "Czy oni mieszkają w Polsce",
+          "Tak oni mieszkają w Polsce"
+        ],
+        "hint": "Use 'oni mieszkają' (they live), 'Czy' to form a yes/no question"
+      },
+      {
+        "prompt": "Zadaj pytanie: 'Does he have a new phone?' i odpowiedz: 'No, he does not have a new phone.' / Write in Polish: 'Czy on ma nowy telefon' and 'Nie on nie ma nowego telefonu'",
+        "expected_structure": [
+          "Czy on ma nowy telefon",
+          "Nie on nie ma nowego telefonu"
+        ],
+        "hint": "Double 'nie' is typical: 'Nie, on nie ma...'"
       }
     ],
     "listening_and_speaking": [
@@ -435,7 +666,7 @@
         "answer": [
           "Cześć, Bogusława. Wiesz, kto to jest? To nowy profesor z Polski. Nazywa się Gonzales."
         ],
-        "hint": "Short dialogue about the new professor."
+        "hint": "Short dialogue about a new professor. (English: 'Hi, Bogusława. Do you know who this is? It’s a new professor from Poland. His name is Gonzales.')"
       },
       {
         "type": "speaking",
@@ -443,7 +674,7 @@
         "prompt": "Practice describing someone's character out loud.",
         "audio_url": null,
         "reference_text": "Jaki on jest? On jest sympatyczny i wesoły.",
-        "hint": "Focus on adjective endings for masculine singular."
+        "hint": "Masculine adjectives: sympatyczny (friendly), wesoły (cheerful). (English: 'What is he like? He is friendly and cheerful.')"
       },
       {
         "type": "dictation",
@@ -453,7 +684,7 @@
         "answer": [
           "Przepraszam, nie rozumiem. Proszę mówić wolniej."
         ],
-        "hint": "Useful phrases for clarifying in Polish."
+        "hint": "Key phrases to ask someone to speak slower or repeat. (English: 'Excuse me, I don't understand. Please speak more slowly.')"
       },
       {
         "type": "speaking",
@@ -461,7 +692,7 @@
         "prompt": "Practice the verb ‘mieszkać’ in first and second person.",
         "audio_url": null,
         "reference_text": "Gdzie mieszkasz? Ja mieszkam w Krakowie.",
-        "hint": "Remember the -m, -sz endings."
+        "hint": "Remember: 'mieszkasz' (you, inf.) and 'mieszkam' (I). (English: 'Where do you live? I live in Kraków.')"
       },
       {
         "type": "dictation",
@@ -471,7 +702,141 @@
         "answer": [
           "To są drzwi. To są okulary. One zawsze występują w liczbie mnogiej."
         ],
-        "hint": "Pluralia tantum in Polish."
+        "hint": "Examples of plural-only nouns (pluralia tantum) in Polish: drzwi, okulary. (English: 'These are doors. These are glasses. They always appear in plural form.')"
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: 'Jak się masz? Świetnie, a ty?'",
+        "prompt": "Practice greeting someone informally and asking how they are.",
+        "audio_url": null,
+        "reference_text": "Jak się masz? Świetnie, a ty?",
+        "hint": "Informal conversation: 'Świetnie' = Great! (English: 'How are you? Great, and you?')"
+      },
+      {
+        "type": "dictation",
+        "sentence": "Posłuchaj i napisz: 'On jest z Niemiec, ale mówi po polsku.'",
+        "audio": "On jest z Niemiec, ale mówi po polsku.",
+        "audio_url": null,
+        "answer": [
+          "On jest z Niemiec, ale mówi po polsku."
+        ],
+        "hint": "Listen for nationality (z Niemiec) and language skill (mówi po polsku). (English: 'He is from Germany, but he speaks Polish.')"
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: 'To jest mój komputer. On jest nowy i drogi.'",
+        "prompt": "Practice describing an object with two adjectives.",
+        "audio_url": null,
+        "reference_text": "To jest mój komputer. On jest nowy i drogi.",
+        "hint": "Masculine noun 'komputer': use masculine adjectives like nowy, drogi. (English: 'This is my computer. It is new and expensive.')"
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen and write: 'To jest nowe okno. Ono jest duże i czyste.'",
+        "audio": "To jest nowe okno. Ono jest duże i czyste.",
+        "audio_url": null,
+        "answer": [
+          "To jest nowe okno. Ono jest duże i czyste."
+        ],
+        "hint": "Neuter noun 'okno' with neuter adjectives (nowe, duże, czyste). (English: 'This is a new window. It is big and clean.')"
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: 'Jakie to jest radio? To jest stare radio, ale dobrze gra.'",
+        "prompt": "Practice neuter adjectives describing a radio.",
+        "audio_url": null,
+        "reference_text": "Jakie to jest radio? To jest stare radio, ale dobrze gra.",
+        "hint": "Radio is neuter in Polish, so use 'stare' not 'stary/stara'. (English: 'What kind of radio is it? It is an old radio, but it plays well.')"
+      },
+      {
+        "type": "dictation",
+        "sentence": "Posłuchaj i zapisz: 'Czy on jest niski czy wysoki? On jest średniego wzrostu.'",
+        "audio": "Czy on jest niski czy wysoki? On jest średniego wzrostu.",
+        "audio_url": null,
+        "answer": [
+          "Czy on jest niski czy wysoki? On jest średniego wzrostu."
+        ],
+        "hint": "Adjectives describing height. 'Średniego wzrostu' = medium height. (English: 'Is he short or tall? He is of medium height.')"
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: 'Mam jedenaście pytań. Ona ma dwadzieścia jeden lat.'",
+        "prompt": "Practice using numerals 11 and 21 in a sentence.",
+        "audio_url": null,
+        "reference_text": "Mam jedenaście pytań. Ona ma dwadzieścia jeden lat.",
+        "hint": "Focus on forms: jedenaście (11), dwadzieścia jeden (21). (English: 'I have eleven questions. She is twenty-one years old.')"
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen and write: 'Proszę powtórzyć adres i mówić wolniej.'",
+        "audio": "Proszę powtórzyć adres i mówić wolniej.",
+        "audio_url": null,
+        "answer": [
+          "Proszę powtórzyć adres i mówić wolniej."
+        ],
+        "hint": "Key phrases for clarifying or repeating an address. (English: 'Please repeat the address and speak more slowly.')"
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: 'Jestem wesoły, ambitny i kreatywny.'",
+        "prompt": "Describe yourself with 3 masculine adjectives out loud.",
+        "audio_url": null,
+        "reference_text": "Jestem wesoły, ambitny i kreatywny.",
+        "hint": "Masculine forms: wesoły, ambitny, kreatywny. (English: 'I am cheerful, ambitious, and creative.')"
+      },
+      {
+        "type": "dictation",
+        "sentence": "Posłuchaj i zapisz: 'Ona jest wysoka, szczupła i bardzo miła.'",
+        "audio": "Ona jest wysoka, szczupła i bardzo miła.",
+        "audio_url": null,
+        "answer": [
+          "Ona jest wysoka, szczupła i bardzo miła."
+        ],
+        "hint": "Feminine adjectives end with -a: wysoka, szczupła, miła. (English: 'She is tall, slim, and very nice.')"
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: 'Gdzie pan mieszka? Ja mieszkam w Warszawie.'",
+        "prompt": "Formal question plus your answer.",
+        "audio_url": null,
+        "reference_text": "Gdzie pan mieszka? Ja mieszkam w Warszawie.",
+        "hint": "Address a man formally with 'pan.' (English: 'Where do you live, sir? I live in Warsaw.')"
+      },
+      {
+        "type": "dictation",
+        "sentence": "Listen and write: 'Czy to jest polska tradycja czy niemiecka? To jest francuska tradycja.'",
+        "audio": "Czy to jest polska tradycja czy niemiecka? To jest francuska tradycja.",
+        "audio_url": null,
+        "answer": [
+          "Czy to jest polska tradycja czy niemiecka? To jest francuska tradycja."
+        ],
+        "hint": "Practice feminine adjectives for nationalities: polska, niemiecka, francuska. (English: 'Is this a Polish tradition or a German one? It is a French tradition.')"
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: 'On jest optymistyczny i energiczny, a ona jest racjonalna i spokojna.'",
+        "prompt": "Describe opposite personalities out loud.",
+        "audio_url": null,
+        "reference_text": "On jest optymistyczny i energiczny, a ona jest racjonalna i spokojna.",
+        "hint": "Adjective endings: -y for masculine, -a for feminine. (English: 'He is optimistic and energetic, while she is rational and calm.')"
+      },
+      {
+        "type": "dictation",
+        "sentence": "Posłuchaj: 'Mam na imię Ewa, a to jest mój brat Marek. On jest wysportowany.'",
+        "audio": "Mam na imię Ewa, a to jest mój brat Marek. On jest wysportowany.",
+        "audio_url": null,
+        "answer": [
+          "Mam na imię Ewa, a to jest mój brat Marek. On jest wysportowany."
+        ],
+        "hint": "Names and describing brother’s trait: wysportowany. (English: 'My name is Ewa, and this is my brother Marek. He is athletic.')"
+      },
+      {
+        "type": "speaking",
+        "sentence": "Powiedz: 'Czy wy macie polskie nazwisko? My mamy polskie nazwisko.'",
+        "prompt": "Ask a question in second-person plural and answer in first-person plural.",
+        "audio_url": null,
+        "reference_text": "Czy wy macie polskie nazwisko? My mamy polskie nazwisko.",
+        "hint": "Focus on 'macie' (you all have) vs. 'mamy' (we have). (English: 'Do you all have a Polish last name? We have a Polish last name.')"
       }
     ],
     "real_life_dialogue": {
@@ -505,42 +870,250 @@
       "interactive_choices": [
         {
           "type": "multiple_choice",
-          "prompt": "Which phrase means 'Please speak more slowly'?",
+          "prompt": "Które wyrażenie oznacza „Proszę mówić wolniej”? (English: Which phrase means 'Please speak more slowly'?)",
           "options": [
-            "Proszę mówić głośniej.",
-            "Proszę mówić wolniej.",
-            "Proszę powtórzyć."
+            "Proszę mówić głośniej. (Please speak louder)",
+            "Proszę mówić wolniej. (Please speak more slowly)",
+            "Proszę powtórzyć. (Please repeat)"
           ],
           "answer": [
             "Proszę mówić wolniej."
           ],
-          "hint": "Used to ask someone to reduce their speed of speech."
+          "hint": "Szukasz zwrotu o wolniejszym mówieniu."
         },
         {
           "type": "multiple_choice",
-          "prompt": "What is ‘Gärtner’s nationality?",
+          "prompt": "Jaka jest narodowość Dirka Gärtnera? (English: What is Dirk Gärtner's nationality?)",
           "options": [
-            "He is from Poland.",
-            "He is from Germany.",
-            "He is from Spain."
+            "On jest z Polski. (He is from Poland)",
+            "On jest z Niemiec. (He is from Germany)",
+            "On jest z Hiszpanii. (He is from Spain)"
           ],
           "answer": [
-            "He is from Germany."
+            "On jest z Niemiec."
           ],
-          "hint": "He says ‘Jestem z Niemiec.’"
+          "hint": "W dialogu mówi: „Jestem z Niemiec.”"
         },
         {
           "type": "multiple_choice",
-          "prompt": "Which is correct for ‘I don't understand’ in Polish?",
+          "prompt": "Które zdanie wyraża „Nie rozumiem” w 1. osobie (English: Which sentence means 'I don't understand' in first person)?",
           "options": [
-            "Nie rozumiem.",
-            "Nie rozumie.",
-            "Nie rozumiesz."
+            "Nie rozumiem. (I don't understand)",
+            "Nie rozumie. (He/She doesn't understand)",
+            "Nie rozumiesz. (You don't understand)"
           ],
           "answer": [
             "Nie rozumiem."
           ],
-          "hint": "First person singular form."
+          "hint": "Forma (ja) czasownika „rozumieć.”"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Które zdanie oznacza „On jest wysoki i szczupły”? (English: Which sentence means 'He is tall and slim'?)",
+          "options": [
+            "On jest gruby i niski. (He is fat and short)",
+            "On jest wysoki i szczupły. (He is tall and slim)",
+            "On jest sympatyczny i wesoły. (He is friendly and cheerful)"
+          ],
+          "answer": [
+            "On jest wysoki i szczupły."
+          ],
+          "hint": "Opis wzrostu i budowy mężczyzny."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Jak formalnie zapytać: „Czy pan mieszka w Krakowie?” (English: How to formally ask 'Do you live in Kraków, sir?')",
+          "options": [
+            "Czy ty mieszkasz w Krakowie? (Do you (inf.) live in Kraków?)",
+            "Czy pan mieszka w Krakowie? (Do you (sir) live in Kraków?)",
+            "Czy on mieszka w Krakowie? (Does he live in Kraków?)"
+          ],
+          "answer": [
+            "Czy pan mieszka w Krakowie?"
+          ],
+          "hint": "Używamy formy „pan” w pytaniu formalnym."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Co oznacza zdanie „Przepraszam, nie rozumiem. Proszę mówić wolniej.”? (English: What does this sentence mean?)",
+          "options": [
+            "Excuse me, I don’t understand. Please speak more slowly.",
+            "I’m sorry, I understand well. Speak faster.",
+            "Excuse me, I don’t hear you. Please speak louder."
+          ],
+          "answer": [
+            "Excuse me, I don’t understand. Please speak more slowly."
+          ],
+          "hint": "Zwróć uwagę na „nie rozumiem” i „mówić wolniej”."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Który wyraz znaczy „Of course”? (English: Which word means 'Of course'?)",
+          "options": [
+            "Przepraszam (I'm sorry / Excuse me)",
+            "Oczywiście (Of course)",
+            "Nie rozumiem (I don't understand)"
+          ],
+          "answer": [
+            "Oczywiście"
+          ],
+          "hint": "Używane, gdy zgadzamy się lub potwierdzamy."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Jak zapytać formalnie: „Czy pan rozumie teraz?” (English: 'Do you understand now, sir?')",
+          "options": [
+            "Czy pan mówi teraz? (Do you speak now?)",
+            "Czy pan mieszka teraz? (Do you live now?)",
+            "Czy pan rozumie teraz? (Do you understand now?)"
+          ],
+          "answer": [
+            "Czy pan rozumie teraz?"
+          ],
+          "hint": "„rozumie” to 3. os. l.poj. formalna (pan)."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Które wyrażenie to „Jestem z Polski”? (English: Which expression means 'I am from Poland'?)",
+          "options": [
+            "Jestem z Polski. (I am from Poland)",
+            "Jesteś z Polski. (You are from Poland)",
+            "On jest z Polski. (He is from Poland)"
+          ],
+          "answer": [
+            "Jestem z Polski."
+          ],
+          "hint": "Pierwsza osoba: „jestem.”"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Jak powiedzieć „Excuse me, please speak more slowly” po polsku? (English question, but you need the Polish phrase.)",
+          "options": [
+            "Przepraszam, proszę mówić wolniej. (Excuse me, please speak more slowly)",
+            "Przepraszam, proszę mówić szybciej. (Excuse me, please speak faster)",
+            "Przepraszam, proszę powtórzyć. (Excuse me, please repeat)"
+          ],
+          "answer": [
+            "Przepraszam, proszę mówić wolniej."
+          ],
+          "hint": "Dotyczy wolniejszego mówienia, nie szybszego."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Jak formalnie zapytać: „Jak się pan nazywa?” (English: 'What is your name, sir?')",
+          "options": [
+            "Jak się nazywasz? (What is your name, informal?)",
+            "Jak się pan nazywa? (What is your name, sir?)",
+            "Jak on się nazywa? (What is his name?)"
+          ],
+          "answer": [
+            "Jak się pan nazywa?"
+          ],
+          "hint": "W dialogu: pytanie do mężczyzny - „pan.”"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Co znaczy zdanie „Jestem z Niemiec”? (English: 'I am from Germany')",
+          "options": [
+            "I am from Germany",
+            "I live in Germany",
+            "I speak German"
+          ],
+          "answer": [
+            "I am from Germany"
+          ],
+          "hint": "z Niemiec = from Germany."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Jak zapytać (formalnie): „Czy pan mieszka w hotelu?” (English: 'Do you live/stay in a hotel, sir?')",
+          "options": [
+            "Czy pan rozumie w hotelu? (Do you understand in the hotel?)",
+            "Czy pan mieszka w hotelu? (Do you live in the hotel?)",
+            "Czy pan mówi w hotelu? (Do you speak in the hotel?)"
+          ],
+          "answer": [
+            "Czy pan mieszka w hotelu?"
+          ],
+          "hint": "Słowo „mieszka” oznacza „live/stay.”"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Która odpowiedź jest poprawna, jeśli Dirk jest z Hiszpanii? (English: 'Which is correct if Dirk is from Spain?')",
+          "options": [
+            "Tak, on jest z Polski. (Yes, he is from Poland)",
+            "Nie, on jest z Polski. (No, he is from Poland)",
+            "Nie, on jest z Hiszpanii. (No, he is from Spain)"
+          ],
+          "answer": [
+            "Nie, on jest z Hiszpanii."
+          ],
+          "hint": "Sugerujemy, że jest z Hiszpanii, więc zaprzeczamy Polsce."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Które zdanie mówi „On jest nowym profesorem z Polski”? (English: 'He is a new professor from Poland')",
+          "options": [
+            "On jest nowym profesorem z Polski. (He is a new professor from Poland)",
+            "On jest nowe profesor z Polski. (He is new professor from Poland, incorrect form)",
+            "On jest nowa profesor z Polski. (She is new professor, also incorrect form)"
+          ],
+          "answer": [
+            "On jest nowym profesorem z Polski."
+          ],
+          "hint": "Użyj narzędnika: „nowym profesorem.”"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Jak przetłumaczyć „Oczywiście” na angielski? (English: 'Of course')",
+          "options": [
+            "Of course",
+            "I’m sorry",
+            "I understand"
+          ],
+          "answer": [
+            "Of course"
+          ],
+          "hint": "Synonim: 'Certainly.'"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Co mówi Dirk, gdy nie rozumie? (zacytuj z dialogu)",
+          "options": [
+            "Proszę powtórzyć. (Please repeat.)",
+            "Przepraszam, nie rozumiem. Proszę mówić wolniej. (Excuse me, I don’t understand. Please speak more slowly.)",
+            "Oczywiście. Czy pan rozumie teraz? (Of course. Do you understand now?)"
+          ],
+          "answer": [
+            "Przepraszam, nie rozumiem. Proszę mówić wolniej."
+          ],
+          "hint": "To cytat z jego wypowiedzi w dialogu."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Które zdanie oznacza „Tak, mieszkam w hotelu Francuskim”? (English: 'Yes, I stay at the Francuski Hotel')",
+          "options": [
+            "Tak, mieszkam w hotelu Francuskim. (Yes, I stay at the Francuski Hotel)",
+            "Tak, mieszkasz w hotelu Francuskim. (Yes, you stay at the Francuski Hotel)",
+            "Tak, rozumiem hotel Francuski. (Yes, I understand the Francuski Hotel)"
+          ],
+          "answer": [
+            "Tak, mieszkam w hotelu Francuskim."
+          ],
+          "hint": "Pierwsza osoba: 'mieszkam.'"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Która forma czasownika „rozumieć” pasuje do „ja” (I)? (English: 'Which form of ‘understand’ is for ‘I’ in Polish?')",
+          "options": [
+            "Rozumiem (I understand)",
+            "Rozumiesz (You understand)",
+            "Rozumie (He/She understands)"
+          ],
+          "answer": [
+            "Rozumiem"
+          ],
+          "hint": "Koniugacja: (ja) rozumiem, (ty) rozumiesz, (on/ona) rozumie."
         }
       ]
     },
@@ -609,6 +1182,201 @@
           "speak more slowly"
         ],
         "hint": "wolniej = more slowly."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How do you say ‘fifteen’ in Polish?",
+        "options": [
+          "piętnaście",
+          "piętnascie",
+          "piętnaśce"
+        ],
+        "answer": [
+          "piętnaście"
+        ],
+        "hint": "Correct spelling for 15."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which phrase means 'He is tall and young' in Polish?",
+        "options": [
+          "On jest wysoki i młody.",
+          "On jest wysoka i młoda.",
+          "On jest wysokie i młode."
+        ],
+        "answer": [
+          "On jest wysoki i młody."
+        ],
+        "hint": "Masculine adjectives: wysoki, młody."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If 'mieszkam' is 'I live', which is 'you (informal) live' in the -m, -sz pattern?",
+        "options": [
+          "mieszkam",
+          "mieszkasz",
+          "mieszkają"
+        ],
+        "answer": [
+          "mieszkasz"
+        ],
+        "hint": "Conjugation: (ja) mieszkam, (ty) mieszkasz."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which noun is neuter in Polish?",
+        "options": [
+          "mężczyzna",
+          "okno",
+          "kawa"
+        ],
+        "answer": [
+          "okno"
+        ],
+        "hint": "Typically ends in -o, -e, or -um."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which set of adjectives is correct for a masculine noun in nominative? (e.g., 'mężczyzna')",
+        "options": [
+          "droga, wysoka, wesoła",
+          "drogi, wysoki, wesoły",
+          "drogie, wysokie, wesołe"
+        ],
+        "answer": [
+          "drogi, wysoki, wesoły"
+        ],
+        "hint": "Masculine forms often end with -y or -i."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How do you ask (informally), 'Where do you live?' in Polish?",
+        "options": [
+          "Gdzie mieszkam?",
+          "Gdzie mieszkasz?",
+          "Gdzie on mieszka?"
+        ],
+        "answer": [
+          "Gdzie mieszkasz?"
+        ],
+        "hint": "Use -asz for (ty) in the present tense."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which phrase means 'I don't understand' in Polish?",
+        "options": [
+          "Nie rozumiem",
+          "Nie rozumie",
+          "Nie rozumiesz"
+        ],
+        "answer": [
+          "Nie rozumiem"
+        ],
+        "hint": "First person singular: -ę ending."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "For a car in Polish (samochód, masculine), which adjective is correct: 'drogi' or 'droga'?",
+        "options": [
+          "drogi",
+          "droga",
+          "drogie"
+        ],
+        "answer": [
+          "drogi"
+        ],
+        "hint": "Masculine nominative form matches 'samochód.'"
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How to say 'Excuse me, I have a question' in Polish?",
+        "options": [
+          "Przepraszam, mam pytanie",
+          "Przepraszam, mam na imię",
+          "Przepraszam, nie rozumiem"
+        ],
+        "answer": [
+          "Przepraszam, mam pytanie"
+        ],
+        "hint": "mieć (to have) + pytanie (a question)."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which is correct for 'He is from France' in Polish?",
+        "options": [
+          "On jest we Francji",
+          "On jest Francuzem",
+          "On jest z Francji"
+        ],
+        "answer": [
+          "On jest z Francji"
+        ],
+        "hint": "Use 'z + country (genitive)': z Francji."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How do you spell ‘twenty-three’ in Polish?",
+        "options": [
+          "dwadzieścia trzy",
+          "dwadzieścia-trzy",
+          "dwadziescia trzy"
+        ],
+        "answer": [
+          "dwadzieścia trzy"
+        ],
+        "hint": "Check the correct spelling for 23."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which question means 'What is this?' in Polish?",
+        "options": [
+          "Co to jest?",
+          "Kto to jest?",
+          "Co masz?"
+        ],
+        "answer": [
+          "Co to jest?"
+        ],
+        "hint": "Asking about an object."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which is the correct masculine nominative adjective for 'friendly' in Polish?",
+        "options": [
+          "sympatyczna",
+          "sympatyczne",
+          "sympatyczny"
+        ],
+        "answer": [
+          "sympatyczny"
+        ],
+        "hint": "Use -y ending for masculine singular."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which form is correct for 'You speak' (informal) in -m, -sz conjugation of 'mówić'?",
+        "options": [
+          "mówię",
+          "mówisz",
+          "mówi"
+        ],
+        "answer": [
+          "mówisz"
+        ],
+        "hint": "(ty) mówisz = you speak."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which phrase means 'Do you speak Polish?' (informal)?",
+        "options": [
+          "Czy mówisz po polsku?",
+          "Czy pan mówi po polsku?",
+          "Czy on mówi po polsku?"
+        ],
+        "answer": [
+          "Czy mówisz po polsku?"
+        ],
+        "hint": "Use 'mówisz' for you (ty)."
       }
     ],
     "review_and_feedback": {
